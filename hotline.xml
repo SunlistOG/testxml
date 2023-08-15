@@ -1,0 +1,28 @@
+<price>
+<date>2023-07-17 12:28</date>
+<firmName>HATTA</firmName>
+<firmId>3326</firmId>
+<delivery id="1" type="address" carrier="slf" cost="45" freeFrom="1000" region="01*-04*"/>
+<delivery id="2" type="address" carrier="NP" cost="null" freeFrom="8000"/>
+<delivery id="3" type="address" carrier="DA" cost="null" freeFrom="8000"/>
+<delivery id="4" type="address" carrier="IT" cost="null" freeFrom="8000"/>
+<categories>
+<category>
+<id>1</id>
+<name>Обеденные стулья</name>
+</category>
+</categories>
+<items>
+<item>
+<id>704069499</id>
+<categoryId>1</categoryId>
+<vendor>HATTA</vendor>
+<name>Стул Bryan Chrome Черный</name>
+<description>современный оригинальный дизайн украсит любой интерьер устойчивая конструкция, прочные хромированные ножки комфортная высокая спинка и удобное сиденье стул изготовлен из высококачественного пластика ABS</description>
+<url>https://kupistul.ua/stul-bryan-chrome/3612</url>
+<image>https://kupistul.ua/public/upload/catalogGood/stul-bryan-cherniy-10003612.jpg,https://kupistul.ua/public/upload/catalogGoodPhoto/stul-bryan-cherniy-10003612-2604.jpg,https://kupistul.ua/public/upload/catalogGoodPhoto/stul-bryan-cherniy-10003612-2603.jpg</image>
+<priceRUAH>1681</priceRUAH>
+<stock>+</stock>
+</item>
+</items>
+</price>
