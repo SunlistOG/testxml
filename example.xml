@@ -14,7 +14,7 @@
       <category id="104859252" parentId="104859207">Металлические ремешки миланская петля</category>
     </categories>
     <offers>
-      <offer id="testurl123" available="true" group_id="374150249">
+      <offer id="testurl123abc" available="true" group_id="374150249">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>299</salePrice>
         <price>399</price>
@@ -22,7 +22,6 @@
         <categoryId>104859252</categoryId>
         <picture>https://www.kasandbox.org/programming-images/avatars/mr-pants.png</picture>
         <picture>https://www.kasandbox.org/programming-images/avatars/purple-pi-teal.png</picture>
-        <picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
         <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
