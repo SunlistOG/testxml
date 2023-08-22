@@ -20,6 +20,7 @@
         <price>399</price>
         <currencyId>UAH</currencyId>
         <categoryId>104859252</categoryId>
+        <picture>https://www.kasandbox.org/programming-images/avatars/primosaur-ultimate.png</picture>        
         <picture>https://www.kasandbox.org/programming-images/avatars/starky-sapling.png</picture>
         <pickup>false</pickup>
         <delivery>true</delivery>
