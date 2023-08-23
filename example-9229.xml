@@ -12,6 +12,7 @@
     </currencies>
     <categories>
       <category id="104859252" parentId="104859207">Металлические ремешки миланская петля</category>
+      <category id="104859253" parentId="104859207"><Бизнес-литература</category>
     </categories>
     <offers>
       <offer id="test-9229" available="true" group_id="374150249">
