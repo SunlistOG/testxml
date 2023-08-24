@@ -11,11 +11,17 @@
       <currency id="EUR" rate="CB"/>
     </currencies>
     <categories>
-      <category id="10485" parentId="104859207">Металлические ремешки миланская петля</category>
-      <category id="10485123" parentId="104859207">Подсолнухи</category>
-      <category id="10485123456" parentId="104859207">Ракушки</category>
-      <category id="10485123456789" parentId="104859207">Панамки</category>
-      <category id="10485123456789012" parentId="104859207">Замок из песка</category>
+      <category id="10485" parentId="104859207">А ето металлические ремешки миланская петля</category>
+      <category id="10485123" parentId="104859207">Ба, посмотри на подсолнухи</category>
+      <category id="10485123456" parentId="104859207">Вау, ракушки</category>
+      <category id="10485123456789" parentId="104859207">Гг, панамки</category>
+      <category id="10485123456789012" parentId="104859207">Да, замок из песка</category>
+      <category id="10485123456789012345" parentId="104859207">Жжж, пчелки и лопатки для детей</category>
+      <category id="10485123456789012345678" parentId="104859207">Зззз, холодное мороженое</category>
+      <category id="10485123456789012345678901" parentId="104859207">Клас, квас</category>
+      
+      
+      
     </categories>
     <offers>
       <offer id="test-lim1" available="true" group_id="374150249">
