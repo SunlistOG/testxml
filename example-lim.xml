@@ -11,14 +11,15 @@
       <currency id="EUR" rate="CB"/>
     </currencies>
     <categories>
-      <category id="10485" parentId="104859207">5 символов</category>
-      <category id="10485123" parentId="104859207">8 символов</category>
-      <category id="10485123456" parentId="104859207">11 символов</category>
-      <category id="10485123456789" parentId="104859207">14 символов</category>
-      <category id="10485123456789012" parentId="104859207">17 символов</category>
-      <category id="104851234567890123" parentId="104859207">18 символов</category>
-      <category id="1048512345678901234" parentId="104859207">19 символов</category>
-      <category id="10485123456789012345" parentId="104859207">20 символов</category>
+      <category id="12345" parentId="104859207">5 символов</category>
+      <category id="112345678" parentId="104859207">8 символов</category>
+      <category id="12345678901" parentId="104859207">11 символов</category>
+      <category id="12345678901234" parentId="104859207">14 символов</category>
+      <category id="12345678901234567" parentId="104859207">17 символов</category>
+      <category id="123456789012345678" parentId="104859207">18 символов</category>
+      <category id="1234567890123456789" parentId="104859207">19 символов</category>
+      <category id="12345678901234567890" parentId="104859207">20 символов</category>
+      <category id="123456789012345678901" parentId="104859207">21 символов</category>
     </categories>
     <offers>
       <offer id="test-lim1" available="true" group_id="374150249">
@@ -26,7 +27,7 @@
         <salePrice>299</salePrice>
         <price>399</price>
         <currencyId>UAH</currencyId>
-        <categoryId>10485</categoryId>
+        <categoryId>12345</categoryId>
         <picture>https://www.kasandbox.org/programming-images/avatars/starky-ultimate.png</picture>
         <picture>https://www.kasandbox.org/programming-images/avatars/marcimus-purple.png</picture>
         <pickup>false</pickup>
@@ -52,7 +53,7 @@
         <salePrice>299</salePrice>
         <price>399</price>
         <currencyId>UAH</currencyId>
-        <categoryId>10485123</categoryId>
+        <categoryId>12345678901234</categoryId>
         <picture>https://www.kasandbox.org/programming-images/avatars/starky-ultimate.png</picture>
         <picture>https://www.kasandbox.org/programming-images/avatars/marcimus-purple.png</picture>
         <pickup>false</pickup>
