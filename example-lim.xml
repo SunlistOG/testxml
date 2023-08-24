@@ -11,6 +11,10 @@
       <currency id="EUR" rate="CB"/>
     </currencies>
     <categories>
+      <category id="1" parentId="104859207">1 символ</category>
+      <category id="12" parentId="104859207">2 символа</category>
+      <category id="123" parentId="104859207">3 символа</category>
+      <category id="1234" parentId="104859207">4 символа</category>
       <category id="12345" parentId="104859207">5 символов</category>
       <category id="12346" parentId="104859207">5 символов и большой текст для проверки  на ограничение по вводу для пользователей кабинета</category>
       <category id="112345678" parentId="104859207">8 символов</category>
