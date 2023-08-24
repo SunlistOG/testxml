@@ -16,6 +16,7 @@
       <category id="12345678901" parentId="104859207">11 символов</category>
       <category id="12345678901234" parentId="104859207">14 символов</category>
       <category id="12345678901234567" parentId="104859207">17 символов</category>
+      <category id="12345678901234568" parentId="104859207">17 символов и немного текста для проверки</category>
       <category id="123456789012345678" parentId="104859207">18 символов</category>
       <category id="1234567890123456789" parentId="104859207">19 символов</category>
       <category id="12345678901234567890" parentId="104859207">20 символов</category>
