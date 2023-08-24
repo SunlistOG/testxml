@@ -12,6 +12,7 @@
     </currencies>
     <categories>
       <category id="12345" parentId="104859207">5 символов</category>
+      <category id="12345" parentId="104859207">5 символов и большой текст для проверки  на ограничение по вводу для пользователей кабинета</category>
       <category id="112345678" parentId="104859207">8 символов</category>
       <category id="12345678901" parentId="104859207">11 символов</category>
       <category id="12345678901234" parentId="104859207">14 символов</category>
