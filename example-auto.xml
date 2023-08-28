@@ -31,14 +31,28 @@
         <country_of_origin>Китай</country_of_origin>
         <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
         <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
-        <param name="Тип">Металл</param>
-        <param name="Размеры">Ремешок</param>
-        <param name="Цвет">Разные цвета</param>
-        <param name="Дополнительные характеристики">Новое</param>
-        <param name="Вес" unit="">Apple Watch 38mm|Apple Watch 40mm|Apple Watch 42mm|Apple Watch 44mm</param>
-        <param name="Пол ребенка" unit="">20 см</param>
-        <param name="Гарантия" unit="">11 см</param>
-        <param name="Детский возраст" unit="">Apple Watch 38 mm|Apple Watch 40 mm|Apple Watch 41 mm</param>       
+        <param name="Тип">1</param>     
+        <param name="Гарантия" unit="">2</param>
+        <param name="Возрастная группа" unit="">3</param>
+        <param name="Высота куклы" unit="">4</param>
+        <param name="Высота куклы_RU" unit="">5</param>
+        <param name="Высота куклы_UA" unit="">6</param>
+        <param name="Габариты упаковки_RU" unit="">7</param>
+        <param name="Габариты упаковки_UA" unit="">8</param>
+        <param name="Материал" unit="">9</param>
+        <param name="Особенности" unit="">10</param>
+        <param name="Цвет (для связки)" unit="">11</param>
+        <param name="Цвет" unit="">12</param>
+        <param name="Дополнительно (блок)_RU" unit="">12</param>
+        <param name="Дополнительно (блок)_UA" unit="">13</param>
+        <param name="Серия" unit="">14</param>
+        <param name="Тема мультфильма / фильма" unit="">15</param>
+        <param name="Комплектация (блок)_RU" unit="">16</param>
+        <param name="Комплектация (блок)_UA" unit="">17</param>
+        <param name="Дополнительно_RU" unit="">18</param>
+        <param name="Дополнительно_UA" unit="">19</param>
+        <param name="Персонаж" unit="">20</param>
+        <param name="Гарантийный срок" unit="">21</param>
       </offer>
     </offers>
   </shop>
