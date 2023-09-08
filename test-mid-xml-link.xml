@@ -1,9 +1,8 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
 <yml_catalog date="2022-11-18 15:00">
 <shop>
 <name>Test</name>
-<company>Test company</company>
-<url>https://test.com.ua/</url>
+<company>Test company 1</company>
+<url>https://www.wikimedia.org/</url>
 <currencies>
 <currency id="USD" rate="CB"/>
 <currency id="UAH" rate="1"/>
@@ -15,13 +14,13 @@ This XML file does not appear to have any style information associated with it. 
 <category id="104859252" parentId="104859207">Металлические ремешки миланская петля</category>
 </categories>
 <offers>
-<offer id="1506216864" available="true" group_id="374150249">
+<offer id="test-mid-xml-link" available="true" group_id="374150249">
 <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
 <salePrice>299</salePrice>
 <price>399</price>
 <currencyId>UAH</currencyId>
 <categoryId>104859252</categoryId>
-<picture>https://test.ua/4060114143_remeshok-apple-watch.jpg</picture>
+<picture>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Anchor_from_the_RMS_Empress_of_Asia%2C_National_Museum_of_Singapore_%28133759%29.jpg/800px-Anchor_from_the_RMS_Empress_of_Asia%2C_National_Museum_of_Singapore_%28133759%29.jpg</picture>
 <pickup>false</pickup>
 <delivery>true</delivery>
 <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
