@@ -40,7 +40,7 @@
         <param name="Габариты упаковки_RU" unit="">40 x 50</param>
         <param name="Габариты упаковки_UA" unit="">80 * 90</param>
         <param name="   Материал   " unit="">Пластик</param>
-        <param name="Особенности" unit=""Говорит</param>
+        <param name="Особенности" unit="">Говорит</param>
         <param name="Цвет (для связки)" unit="">Белая</param>
         <param name="Цвет" unit="">Розовой</param>
         <param name="Дополнительно (блок)_RU" unit="">Привет</param>
