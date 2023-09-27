@@ -14,7 +14,7 @@
 <category id="4">Аксессуары</category>
 </categories>
 <offers>
-<offer id="340" available="false">
+<offer id="test1" available="false">
 <name>Стул Delta DE BR F80-N6 ldseating</name>
 <model>Delta-DE-BR-F80-N6_po</model>
 <url>
@@ -34,7 +34,7 @@
 <param name="Высота">830-940 мм</param>
 <param name="Высота от пола до сиденья">430-540 мм</param>
 </offer>
-<offer id="341" available="false">
+<offer id="test2" available="false">
 <name>Двухместная скамья Delta DE-K2-N4 ldseating</name>
 <model>Delta-DE-K2-N4_po</model>
 <url>
@@ -56,7 +56,7 @@
 <param name="Высота">770 мм</param>
 <param name="Высота от пола до сиденья">390 мм</param>
 </offer>
-<offer id="342" available="false">
+<offer id="test3" available="false">
 <name>Двухместная скамья Delta DE-K2-N4 BR ldseating</name>
 <model>Delta-DE-K2-N4-BR_po</model>
 <url>
@@ -76,7 +76,7 @@
 <param name="Высота">770 мм</param>
 <param name="Высота от пола до сиденья">390 мм</param>
 </offer>
-<offer id="343" available="false">
+<offer id="test4" available="false">
 <name>Трехместная скамья Delta DE-K3-N4 ldseating</name>
 <model>Delta-DE-K3-N4_po</model>
 <url>
@@ -96,7 +96,7 @@
 <param name="Высота">770 мм</param>
 <param name="Высота от пола до сиденья">390 мм</param>
 </offer>
-<offer id="344" available="true">
+<offer id="test5" available="true">
 <name>Кабель-менеджмент підвісний VR user UO-08</name>
 <model>UO-08</model>
 <url>
@@ -113,7 +113,7 @@
 <![CDATA[ ]]>
 </description>
 </offer>
-<offer id="345" available="true">
+<offer id="test6" available="true">
 <name>Кресло Barsky Hara Doctor black BHD-06</name>
 <model>BHD-06</model>
 <url>
@@ -166,7 +166,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Высота спинки, см">75</param>
 </offer>
-<offer id="346" available="true">
+<offer id="test7" available="true">
 <name>Кресло Barsky Hara Doctor gold BHD-05</name>
 <model>BHD-05</model>
 <url>
@@ -221,7 +221,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Высота спинки, см">75</param>
 </offer>
-<offer id="347" available="true">
+<offer id="test8" available="true">
 <name>Кресло Barsky Hara Doctor yellow/blue BHD-04</name>
 <model>BHD-04</model>
 <url>
@@ -273,7 +273,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Высота спинки, см">75</param>
 </offer>
-<offer id="348" available="true">
+<offer id="test9" available="true">
 <name>Кресло Barsky Healthy BH-01</name>
 <model>BH-01</model>
 <url>
@@ -330,7 +330,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Высота спинки, см">45</param>
 </offer>
-<offer id="349" available="true">
+<offer id="test10" available="true">
 <name>Кресло Barsky Mesh Grey BM-08</name>
 <model>BM-08</model>
 <url>
@@ -416,7 +416,7 @@
 <param name="Материал корпуса">Металл</param>
 <param name="Ширина">1450</param>
 </offer>
-<offer id="351" available="true">
+<offer id="test11" available="true">
 <name>Регульований стіл Barsky StandUp white 1200*600 BST-02</name>
 <model>BST-02</model>
 <url>
@@ -464,7 +464,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Дополнительные характеристики">Регулируемый офисный стол BST-02, полностью белый, столешница ДСП 1200x600x18 мм, разделена на 2 части, один двигатель, 2 сегмента колонн, квадратная перевернутая колонна 60*60 мм, диапазон высоты 720-1180 мм, длина хода 410 мм. 240 В, макс. грузоподъемность 70 кг, скорость 20 мм с, светодиодный дисплей + 3 запоминающихся позиции + 1 порт USB Type-A + 1 порт USB Type-C, 2 ботвы для телефона + 1 кабельное управление - все эти аксессуары упакованы в картонную коробку этого стола</param>
 </offer>
-<offer id="352" available="true">
+<offer id="test12" available="true">
 <name>Регульований стіл Barsky StandUp black 1200*600 BST-01</name>
 <model>BST-01</model>
 <url>
@@ -509,7 +509,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Дополнительные характеристики">Регулируемый офисный стол BST-01, полностью черный, столешница ДСП 1200x600x18 мм, разделена на 2 части, один двигатель, 2 сегмента колонн, квадратная перевернутая колонна 60*60 мм, диапазон высоты 720-1180 мм, длина хода 410 мм. 240 В, макс. грузоподъемность 70 кг, скорость 20 мм с, светодиодный дисплей + 3 запоминающихся позиции + 1 порт USB Type-A + 1 порт USB Type-C, 2 ботвы для телефона + 1 кабельное управление - все эти аксессуары упакованы в картонную коробку этого стола</param>
 </offer>
-<offer id="353" available="true">
+<offer id="test13" available="true">
 <name>Регульований стіл Barsky StandUp Game black RGB-LED 1200*600 BST-01led</name>
 <model>BST-01led</model>
 <url>
@@ -551,7 +551,7 @@
 <param name="Гарантия">5 лет</param>
 <param name="Дополнительные характеристики">Регулируемый офисный стол BST-01, полностью черный, столешница ДСП 1200x600x18 мм, разделена на 2 части, один двигатель, 2 сегмента колонн, квадратная перевернутая колонна 60*60 мм, диапазон высоты 720-1180 мм, длина хода 410 мм. 240 В, макс. грузоподъемность 70 кг, скорость 20 мм с, Светодиодный дисплей + 3 запоминающихся позиции + 1 порт USB Type-A + 1 порт USB Type-C, 2 телефонных крючка + 1 кабельное управление + 1 подстаканник (подстаканник) + радужный свет RGB в пластиковых деталях с обеих сторон края столешницы - все эти аксессуары вместе упакованы в коробку этого стола</param>
 </offer>
-<offer id="354" available="true">
+<offer id="test14" available="true">
 <name>Кресло геймерское Barsky Game Mesh Black GM-01</name>
 <model>GM-01</model>
 <url>
@@ -608,7 +608,7 @@
 <param name="Цвет">Черный</param>
 <param name="Дополнительные характеристики">Ортопедическое сиденье и спинка Поясничная подушка регулируется по глубине и высоте. Регулировка высоты подголовника 5 уровней Регулировка высоты спинки 5 ступеней Регулировка подлокотников по высоте, глубине, поверхность подлокотников регулируется вперед назад вправо и влево</param>
 </offer>
-<offer id="355" available="false">
+<offer id="test15" available="false">
 <name>Кресло Barsky Soft Leather MultiBlock Сhrom Soft-05</name>
 <model>Soft-05</model>
 <url>
