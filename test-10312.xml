@@ -618,6 +618,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>2</categoryId>
 <picture>https://barsky.ua/image/catalog/kresla/Soft-05/8.jpg</picture>
+<picture>https://barsky.ua/image/catalog/kresla/GM-01/7.jpg</picture>
 <vendor>2017</vendor>
 <stock_quantity>10</stock_quantity>
 <description>
@@ -629,6 +630,7 @@
 <param name="Материал подлокотников">мягкие накладки</param>
 <param name="Цвет">Черный</param>
 <param name="Гарантия">1 год</param>
+<param name="Вес">20 кг</param>
 </offer>
 </offers>
 </shop>
