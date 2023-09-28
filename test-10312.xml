@@ -498,14 +498,14 @@
 <param name="Гарантия">5 лет</param>
 <param name="Дополнительные характеристики">Регулируемый офисный стол BST-01, полностью черный, столешница ДСП 1200x600x18 мм, разделена на 2 части, один двигатель, 2 сегмента колонн, квадратная перевернутая колонна 60*60 мм, диапазон высоты 720-1180 мм, длина хода 410 мм. 240 В, макс. грузоподъемность 70 кг, скорость 20 мм с, светодиодный дисплей + 3 запоминающихся позиции + 1 порт USB Type-A + 1 порт USB Type-C, 2 ботвы для телефона + 1 кабельное управление - все эти аксессуары упакованы в картонную коробку этого стола</param>
 </offer>
-<offer id="test13" available="false">
+<offer id="test13" available="true">
 <name>Регульований стіл Barsky StandUp Game black RGB-LED 1200*600 BST-01led</name>
 <model>BST-01led1</model>
 <url>
 <![CDATA[ https://barsky.ua/reguliruemij_stol_barsky_standup_game_black_bst-01/ ]]>
 </url>
-<price>13000</price>
-<oldprice>15000</oldprice>
+<price>12000</price>
+<oldprice>14000</oldprice>
 <currencyId>UAH</currencyId>
 <categoryId>1</categoryId>
 <picture>https://barsky.ua/image/catalog/stoli/BST-01/033.jpg</picture>
