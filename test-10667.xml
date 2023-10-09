@@ -53,7 +53,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="test-10667-plus" available="+" group_id="374150248">
+      <offer id="test-10667-in-stock-space" available="in stock" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -92,7 +92,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="doll-3" available="false" group_id="374150248">
+      <offer id="test-10667-in-stock-underspace" available="in_stock" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -131,7 +131,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="doll-4" available="false" group_id="374150248">
+     <offer id="test-10667-true" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -170,7 +170,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="doll-5" available="false" group_id="374150248">
+      <offer id="test-10667-в-наличии" available="в наличии" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -209,7 +209,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="doll-6" available="false" group_id="374150248">
+      <offer id="test-10667-в-наявностi" available="в наявностi" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -248,7 +248,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="doll-7" available="false" group_id="374150248">
+      <offer id="test-10667-в-наявності-latin-i" available="в наявностi" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -287,7 +287,1333 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-       <offer id="doll-8" available="true" group_id="374150248">
+       <offer id="test-10667-есть-в-наличии" available="есть в наличии" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-есть" available="есть" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-1" available="1" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-100" available="100" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-In-stock" available="In stock" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-In-Stock" available="In Stock" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-IN-STOCK-SPACE" available="IN STOCK" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-IN-STOCK-UPPERCASE" available="IN_STOCK" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-True" available="True" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-TRUE" available="TRUE" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-В-наличии" available="В наличии" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-В-НАЛИЧИИ" available="В НАЛИЧИИ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-В-наявностi" available="В наявностi" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-В-наявностi-latin-i" available="В наявностi" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Есть-в-наличии" available="Есть в наличии" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-ЕСТЬ-В-НАЛИЧИ" available="ЕСТЬ В НАЛИЧИИ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Есть" available="Есть" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-ЕСТЬ" available="ЕСТЬ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-є" available="є" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Є" available="Є" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Є-в-наявності" available="Є в наявності" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Є-В-НАЯВНОСТІ" available="Є В НАЯВНОСТІ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-ні" available="ні" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-Ні" available="Ні" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-НІ" available="НІ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-НЕТ" available="НЕТ" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-false" available="false" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-False" available="False" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-FALSE" available="FALSE" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-0" available="0" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-0-with-spaces" available=" 0 " group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-minus-1" available="-1" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-random-chars-ggwp" available="ggwp" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-empty" available="" group_id="374150248">
+        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
+        <salePrice>299</salePrice>
+        <price>399</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>4310</categoryId>
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
+        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
+        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
+        <param name="Тип">Для детей</param>     
+        <param name="Гарантия" unit="">12 месяцев</param>
+        <param name="Возрастная группа" unit="">От 3 лет</param>
+        <param name="Высота куклы" unit="">От 20 до 30 см</param>
+        <param name="Высота куклы_RU" unit="">25 см</param>
+        <param name="Высота куклы_UA" unit="">25 см</param>
+        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Материал" unit="">Дерево</param>
+        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Цвет (для связки)" unit="">Розовый</param>
+        <param name="Цвет" unit="">Розовый</param>
+        <param name="Дополнительно (блок)_RU" unit="">тест</param>
+        <param name="Дополнительно (блок)_UA" unit="">тест</param>
+        <param name="Серия" unit="">Barbie On the Go</param>
+        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
+        <param name="Комплектация (блок)_RU" unit="">тест</param>
+        <param name="Комплектация (блок)_UA" unit="">тест</param>
+        <param name="Дополнительно_RU" unit="">тест ру</param>
+        <param name="Дополнительно_UA" unit="">тест юа</param>
+        <param name="Персонаж" unit="">Ариэль</param>
+        <param name="Гарантийный срок" unit="">12 месяцев</param>
+      </offer>
+      <offer id="test-10667-space" available=" " group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>299</salePrice>
         <price>399</price>
