@@ -14,7 +14,7 @@
 <category id="4">Аксессуары</category>
 </categories>
 <offers>
-<offer id="status1-new" available="false">
+<offer id="test-10312-new" available="false">
 <name>Стул Delta DE BR F80-N6 ldseating</name>
 <model>Delta-DE-BR-F80-N6_po</model>
 <url>
@@ -36,7 +36,7 @@
 <param name="Высота кресла_RU">105 см</param>
 <param name="Высота кресла_UA">105 см</param>
 </offer>
-<offer id="status2-updated" available="false">
+<offer id="test-10312-updated" available="false">
 <name>Двухместная скамья Delta DE-K2-N4 ldseating</name>
 <model>Delta-DE-K2-N4_po</model>
 <url>
@@ -58,7 +58,7 @@
 <param name="Высота">770 мм</param>
 <param name="Высота от пола до сиденья">390 мм</param>
 </offer>
-<offer id="status3-in-progress" available="false">
+<offer id="test-10312-in-progress" available="false">
 <name>Двухместная скамья Delta DE-K2-N4 BR ldseating</name>
 <model>Delta-DE-K2-N4-BR_po</model>
 <url>
