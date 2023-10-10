@@ -1,0 +1,41 @@
+<yml_catalog date="2023-09-27 10:33">
+<shop>
+<name>Barsky goods</name>
+<company>Barsky</company>
+<platform>Opencart</platform>
+<url>https://barsky.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Мебель</category>
+<category id="2">Кресла</category>
+<category id="3">Столы</category>
+<category id="4">Аксессуары</category>
+</categories>
+<offers>
+<offer id="test-gg1" available="false">
+<name>Стул Delta DE BR F80-N6 ldseating</name>
+<model>Delta-DE-BR-F80-N6_po</model>
+<url>
+<![CDATA[ https://barsky.ua/stul-delta-de-br-f80-n6-ldseating/ ]]>
+</url>
+<price>29050</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE%20BR%20F80-N6/Delta%20DE%20BR%20F80-N6.png</picture>
+<vendor> </vendor>
+<stock_quantity>0</stock_quantity>
+<description>
+<![CDATA[ вращающееся кресло для конференций регулируемая по высоте полностью обитый корпус мягкие подлокотники полированная 5-звездочная алюминиевая основа черные колесики для ковров, &Oslash; 60 мм Стул доступен в следующих цветах: К данной модели можно приобрести следующие аксессуары: RM60 черные резиновые ролики для твердых полов, &Oslash; 60 мм RM-N4 универсальные ролики, &Oslash; 60 мм хромированный двухколесный ролик TD-01 приставной столик из белой плиты HPL с черной сердцевиной Размер 380 х 230 мм только для моделей без подлокотников ]]>
+</description>
+<param name="Глубина">700 мм</param>
+<param name="Ширина кресла, см">700 мм</param>
+<param name="Высота кресла, см">830-940 мм</param>
+<param name="Высота от пола до сиденья">430-540 мм</param>
+<param name="Высота кресла_RU">105 см</param>
+<param name="Высота кресла_UA">105 см</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
