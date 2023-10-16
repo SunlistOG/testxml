@@ -52,6 +52,13 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="рейтинг популярности" unit="">1+</param>
+        <param name="процессинг" unit="">test</param>
+        <param name="создан на основе" unit="">test</param>
+        <param name="первый статус в наличии задан" unit="">test</param>
+        <param name="Отображение кешбека" unit="">test</param>
+        <param name="Cashback" unit="">test</param>
+        <param name="Spec. cashback" unit="">test</param>
       </offer>
        <offer id="amp-10693-2" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
