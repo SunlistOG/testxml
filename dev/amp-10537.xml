@@ -14,7 +14,7 @@
       <category id="4310" parentId="4367">Куклы, наборы для кукол</category>
     </categories>
     <offers>
-      <offer id="amp-10537-1" available="false" group_id="374150248">
+      <offer id="amp-10537-1" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -92,10 +92,10 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="amp-10537-3" available="false" group_id="374150248">
+      <offer id="amp-10537-3" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>100</salePrice>
-        <price>250</price>
+        <salePrice>320</salePrice>
+        <price>400</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
         <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
@@ -209,10 +209,10 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="amp-10537-6" available="false" group_id="374150248">
+      <offer id="amp-10537-6" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>100</salePrice>
-        <price>250</price>
+        <salePrice>50</salePrice>
+        <price>100</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
         <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
