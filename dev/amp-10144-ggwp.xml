@@ -14,7 +14,7 @@
       <category id="4310" parentId="4367">Куклы, наборы для кукол</category>
     </categories>
     <offers>
-      <offer id="amp-test-gg-1" available="true" group_id="374150248">
+      <offer id="amp-test-gg-1" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -53,7 +53,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="amp-test-gg-2" available="false" group_id="374150248">
+      <offer id="amp-test-gg-2" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
@@ -94,7 +94,7 @@
       </offer>
       <offer id="amp-test-gg-3" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>320</salePrice>
+        <salePrice>350</salePrice>
         <price>400</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
@@ -173,7 +173,7 @@
       <offer id="amp-test-gg-5" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
-        <price>250</price>
+        <price>199</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
         <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
@@ -248,9 +248,9 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="amp-test-gg-7" available="false" group_id="374150248">
+      <offer id="amp-test-gg-7" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>100</salePrice>
+        <salePrice>90</salePrice>
         <price>250</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
@@ -287,7 +287,7 @@
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-       <offer id="amp-test-gg-8" available="true" group_id="374150248">
+       <offer id="amp-test-gg-8" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>299</salePrice>
         <price>399</price>
