@@ -8,7 +8,7 @@
 			<currency id="UAH" rate="1"/>
 		</currencies>
 		<categories>
-			<category Id="4777">Запчасти к MacBook</category>
+			<category id="4777">Запчасти к MacBook</category>
 			<category Id="2392">Удаленные</category>
 			<category Id="19166">Электротранспорт</category>
 			<category Id="22595" parentId="19166">Электромоторы для электротранспорта</category>
