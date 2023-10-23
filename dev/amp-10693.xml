@@ -60,7 +60,7 @@
         <param name="Cashback" unit="">test</param>
         <param name="Spec. cashback" unit="">test</param>
       </offer>
-       <offer id="amp-10693-2" available="true" group_id="374150248">
+       <offer id="amp-10693-2" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>299</salePrice>
         <price>399</price>
