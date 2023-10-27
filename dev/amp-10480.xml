@@ -11,7 +11,7 @@
       <currency id="EUR" rate="CB"/>
     </currencies>
     <categories>
-      <category id="4310" parentId="4367">Куклы, наборы для кукол</category>
+      <category id="5958" parentId="311">Алкотестеры</category>
     </categories>
     <offers>
       <offer id="amp-10480-1" available="true" group_id="374150248">
@@ -19,38 +19,37 @@
         <salePrice>100</salePrice>
         <price>250</price>
         <currencyId>UAH</currencyId>
-        <categoryId>4310</categoryId>
-        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <categoryId>5958</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/16742714.jpg</picture>        
         <pickup>false</pickup>
         <delivery>true</delivery>
-        <name>Ремешок Apple Watch 41/40/38mm миланская петля</name>
-        <name_ua>Ремінець Apple Watch 41/40/38mm міланська петля</name_ua>
+        <name>Алкотестер Baseus CRCX060014 SafeJourney Pro Series Breathalyzer black</name>
+        <name_ua>Алкотестер Baseus CRCX060014 SafeJourney Pro Series Breathalyzer black</name_ua>
         <vendor>Solis</vendor>
         <vendorCode>1506216864</vendorCode>
         <country_of_origin>Китай</country_of_origin>
-        <description>Ремешок гипоаллергенный из нержавеющей стали подходит для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнитная застежка позволяет легко регулировать длину браслета в зависимости от размера руки обладателя. Ремешок представлен в популярном переплете миланская петля. Дизайн браслета отлично подходит под классический и деловой стиль, а так же кэжуал и даже спортивный. Разнообразие палитры поможет вам подобрать цвет на любой вкус. Материал: Нержавеющая сталь </description>
-        <description_ua>Ремінець гіпоалергенний з нержавіючої сталі підходить для моделей Apple Watch 38mm, Apple Watch 40mm, Apple Watch 41mm. Магнітна застібка дозволяє легко регулювати довжину браслета в залежності від розміру руки власника. Ремінець представлений у популярному плетіння міланська петля. Дизайн браслета відмінно підходить під класичний і діловий стиль, а також кежуал і навіть спортивний. Різноманітність палітри допоможе вам підібрати колір на будь-який смак. Матеріал: Нержавіюча сталь </description_ua>
-        <param name="Тип">Для детей</param>     
+        <description>Транспортные средства являются неотъемлемой частью вашей профессиональной деятельности, например, водителя, машиниста, торгового представителя, техника по обслуживанию? Вы проводите много времени в поездках? Алкотестер - очень полезное устройство. Имея такой гаджет, можно легко проверить свою способность управлять различными видами транспорта. Вы были на вечеринке, принимаете спиртосодержащие лекарства, ели сладости с содержанием спирта и сомневаетесь в своем физическом состоянии, продукт торговой марки Baseus - идеальное решение для вас!</description>
+        <description_ua>Транспортные средства являются неотъемлемой частью вашей профессиональной деятельности, например, водителя, машиниста, торгового представителя, техника по обслуживанию? Вы проводите много времени в поездках? Алкотестер - очень полезное устройство. Имея такой гаджет, можно легко проверить свою способность управлять различными видами транспорта. Вы были на вечеринке, принимаете спиртосодержащие лекарства, ели сладости с содержанием спирта и сомневаетесь в своем физическом состоянии, продукт торговой марки Baseus - идеальное решение для вас!</description_ua>
+        <param name="Тип датчика">Фотометрическое</param>     
         <param name="Гарантия" unit="">12 месяцев</param>
-        <param name="Возрастная группа" unit="">От 3 лет</param>
-        <param name="Высота куклы" unit="">От 20 до 30 см</param>
-        <param name="Высота куклы_RU" unit="">25 см</param>
-        <param name="Высота куклы_UA" unit="">25 см</param>
-        <param name="Габариты упаковки_RU" unit="">30 x 40 x 25 см</param>
-        <param name="Габариты упаковки_UA" unit="">30 x 40 x 25 см</param>
-        <param name="Материал" unit="">Дерево</param>
-        <param name="Особенности" unit="">Кукла, которая плачет</param>
+        <param name="Источник питания" unit="">Батарейки</param>
+        <param name="Единица измирения" unit="">Промилле</param>
+        <param name="Особености" unit="">Фонарик</param>
+        <param name="Габариты_RU" unit="">30 x 40 x 25 см</param>
+        <param name="Габариты_UA" unit="">30 x 40 x 25 см</param>
+        <param name="Диапазон измерений_RU" unit="">100</param>
+        <param name="Диапазон измерений_UA" unit="">100</param>
         <param name="Цвет (для связки)" unit="">Розовый</param>
-        <param name="Цвет" unit="">Розовый</param>
+        <param name="Цвет" unit="">Серый</param>
+        <param name="Вес_RU" unit="">100</param>
+        <param name="Вес_UA" unit="">100</param>
         <param name="Дополнительно (блок)_RU" unit="">тест</param>
         <param name="Дополнительно (блок)_UA" unit="">тест</param>
-        <param name="Серия" unit="">Barbie On the Go</param>
         <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
         <param name="Комплектация (блок)_RU" unit="">тест</param>
         <param name="Комплектация (блок)_UA" unit="">тест</param>
         <param name="Дополнительно_RU" unit="">тест ру</param>
         <param name="Дополнительно_UA" unit="">тест юа</param>
-        <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
     </offers>
