@@ -14,7 +14,6 @@
       <category id="50993" parentId="881">Чехлы для мобильных телефонов</category>      
     </categories>
     <offers>
-<offer>
 <offer id="NVK010859" available="true">
 <url>https://ukrpodarok.com.ua/chehol-dlya-iphone-15-plus-s-magnitom-magsafe-vokamo-smult-blue.html</url>
 <price>1999</price>
@@ -144,6 +143,6 @@
 <![CDATA[ есть ]]>
 </param>
 </offer>
-    </offers>
-  </shop>
+</offers>
+</shop>
 </yml_catalog>
