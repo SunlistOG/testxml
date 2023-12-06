@@ -64,8 +64,8 @@
         <model>Hydrogel Film</model>
         <price>199</price>
         <price_rrc>199</price_rrc>
-        <stock_quantity>CDATA[9999</stock_quantity>
-        <currencyId><UAH</currencyId>
+        <stock_quantity>9999</stock_quantity>
+        <currencyId>UAH</currencyId>
         <delivery>true</delivery>
         <picture>https://vest.in.ua/image/cache/data/vse_dlya_telepfoniv/plenki/hydrogel/plenka-na-panel/gidrogel-film-inobi-matte-universal-photo-0-1000x1000.jpg</picture>
         <picture>https://vest.in.ua/image/cache/data/vse_dlya_telepfoniv/plenki/hydrogel/plenka-na-panel/gidrogel-film-inobi-matte-universal-photo-1-1000x1000.jpg</picture>
