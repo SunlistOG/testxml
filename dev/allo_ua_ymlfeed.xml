@@ -2,10 +2,9 @@
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
 <yml_catalog date="2023-12-06 21:49">
 <shop>
-<name>Інтернет-магазин VEST</name>
+<name>Інтернет-магазин Test</name>
 <company>VEST</company> 
-<url>https://vest.in.ua/</url> 
-<phone>+380 93 217 8777</phone> 
+<url>https://test.com.ua/</url> 
 <platform>Rozetka.ua YML CLI Builder (v.zaichikov@gmail.com)</platform> 
 <version>2.3</version>
 <currencies>
