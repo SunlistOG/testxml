@@ -81,7 +81,7 @@
         <param name="Поверхность"><![CDATA[Матовая]]></param>
         <param name="Упаковка"><![CDATA[Тех.пакет]]></param>
         <param name="Цвет"><![CDATA[Прозрачный]]></param>
-        <param name="Совместимость c"><![CDATA[ZTE]]></param>
+        <param name="Совместимость c">ZTE</param>
         <param name="Модель  ZTE"><![CDATA[Blade V40 Vita]]></param>
       </offer>
     </offers>
