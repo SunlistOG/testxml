@@ -54,7 +54,7 @@
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
       </offer>
-        <offer id="amp-10537-2-off" available="true" group_id="374150249">
+      <offer id="amp-10537-2-off" available="true" group_id="374150249">
         <url>https://apteka.rozetka.com.ua/ua/accuchek_07819382134/p328251136/</url>
         <salePrice>300</salePrice>
         <price>450</price>
@@ -94,7 +94,7 @@
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
       </offer>
-        <offer id="amp-10537-4-off" available="true" group_id="374150249">
+      <offer id="amp-10537-4-off" available="true" group_id="374150249">
         <url>https://apteka.rozetka.com.ua/ua/accuchek_07819382134/p328251136/</url>     
         <salePrice>300</salePrice>
         <price>450</price>
@@ -134,7 +134,7 @@
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
       </offer>
-         <offer id="amp-10537-5-off" available="true" group_id="374150249">
+      <offer id="amp-10537-5-off" available="true" group_id="374150249">
         <url>https://apteka.rozetka.com.ua/ua/accuchek_07819382134/p328251136/</url>
         <salePrice>300</salePrice>
         <price>450</price>
@@ -174,8 +174,8 @@
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
       </offer>
-         <offer id="amp-10537-6-off" available="true" group_id="374150249">
-        <url>https://apteka.rozetka.com.ua/ua/accuchek_07819382134/p328251136/url>
+      <offer id="amp-10537-6-off" available="true" group_id="374150249">
+        <url>https://apteka.rozetka.com.ua/ua/accuchek_07819382134/p328251136</url>
         <salePrice>300</salePrice>
         <price>450</price>
         <currencyId>UAH</currencyId>
