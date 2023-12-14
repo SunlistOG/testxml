@@ -222,7 +222,7 @@
         <param name="Вес в упаковке, кг" unit="">12.2</param>
         <param name="Высота в упаковке, см" unit="">120,1</param>
         <param name="Длина в упаковке, см" unit="">11.3</param>
-        <param name="Ширина в упаковке, см" unit="">3.03</param>
+        <param name="Ширина в упаковке, см" unit="">3.33</param>
       </offer>
       <offer id="amp-10898-6-invalidEAN" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
