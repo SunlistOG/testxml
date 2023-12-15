@@ -262,8 +262,8 @@
         <param name="Гарантийный срок" unit="">12 месяцев</param>
         <param name="EAN" unit="">1234567890123</param>
         <param name="Вес в упаковке, кг" unit="">12 кг</param>
-        <param name="Высота в упаковке, см" unit="">120 см</param>
-        <param name="Длина в упаковке, см" unit="">120 см</param>
+        <param name="Высота в упаковке, см" unit="">120,22</param>
+        <param name="Длина в упаковке, см" unit="">80,65</param>
         <param name="Ширина в упаковке" unit="">12 см</param>
       </offer>
       <offer id="amp-10898-7-invalidEAN" available="true" group_id="374150248">
