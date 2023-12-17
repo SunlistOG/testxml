@@ -596,7 +596,7 @@
         <param name="Дополнительно_RU" unit="">тест ру</param>
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="EAN" unit="">12345679</param>
-        <param name="Вес в упаковке, кг" unit="">12 кг</param>
+        <param name="Вес в упаковке, кг" unit="">125,22</param>
         <param name="Высота в упаковке, см" unit="">120 см</param>
         <param name="Довжина в упаковці, см" unit="">120 см</param>
         <param name="Ширина в упаковці, см" unit="">12 см</param>
