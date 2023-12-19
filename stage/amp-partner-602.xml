@@ -52,44 +52,6 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-      <offer id="amp-602-2" available="true" group_id="374150248">
-        <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
-        <salePrice>100</salePrice>
-        <price>250</price>
-        <currencyId>UAH</currencyId>
-        <categoryId>5958</categoryId>
-        <picture>https://content2.rozetka.com.ua/goods/images/big/16742714.jpg</picture>        
-        <pickup>false</pickup>
-        <delivery>true</delivery>
-        <name>Алкотестер Baseus CRCX060014 SafeJourney Pro Series Breathalyzer black</name>
-        <name_ua>Алкотестер Baseus CRCX060014 SafeJourney Pro Series Breathalyzer black</name_ua>
-        <vendor>Solis</vendor>
-        <vendorCode>1506216864</vendorCode>
-        <country_of_origin>Китай</country_of_origin>
-        <description>Транспортные средства являются неотъемлемой частью вашей профессиональной деятельности, например, водителя, машиниста, торгового представителя, техника по обслуживанию? Вы проводите много времени в поездках? Алкотестер - очень полезное устройство. Имея такой гаджет, можно легко проверить свою способность управлять различными видами транспорта. Вы были на вечеринке, принимаете спиртосодержащие лекарства, ели сладости с содержанием спирта и сомневаетесь в своем физическом состоянии, продукт торговой марки Baseus - идеальное решение для вас!</description>
-        <description_ua>Транспортные средства являются неотъемлемой частью вашей профессиональной деятельности, например, водителя, машиниста, торгового представителя, техника по обслуживанию? Вы проводите много времени в поездках? Алкотестер - очень полезное устройство. Имея такой гаджет, можно легко проверить свою способность управлять различными видами транспорта. Вы были на вечеринке, принимаете спиртосодержащие лекарства, ели сладости с содержанием спирта и сомневаетесь в своем физическом состоянии, продукт торговой марки Baseus - идеальное решение для вас!</description_ua>
-        <param name="Тип датчика">Фотометрическое</param>     
-        <param name="Гарантия" unit="">12 месяцев</param>
-        <param name="Источник питания" unit="">Батарейки</param>
-        <param name="Единица измирения" unit="">Промилле</param>
-        <param name="Особености" unit="">Фонарик</param>
-        <param name="Габариты_RU" unit="">30 x 40 x 25 см</param>
-        <param name="Габариты_UA" unit="">30 x 40 x 25 см</param>
-        <param name="Диапазон измерений_RU" unit="">100</param>
-        <param name="Диапазон измерений_UA" unit="">100</param>
-        <param name="Цвет (для связки)" unit="">Розовый</param>
-        <param name="Цвет" unit="">Серый</param>
-        <param name="Вес_RU" unit="">100</param>
-        <param name="Вес_UA" unit="">100</param>
-        <param name="Дополнительно (блок)_RU" unit="">тест</param>
-        <param name="Дополнительно (блок)_UA" unit="">тест</param>
-        <param name="Тема мультфильма / фильма" unit="">Дамбо</param>
-        <param name="Комплектация (блок)_RU" unit="">тест</param>
-        <param name="Комплектация (блок)_UA" unit="">тест</param>
-        <param name="Дополнительно_RU" unit="">тест ру</param>
-        <param name="Дополнительно_UA" unit="">тест юа</param>
-        <param name="Гарантийный срок" unit="">12 месяцев</param>
-      </offer>
     </offers>
   </shop>
 </yml_catalog>
