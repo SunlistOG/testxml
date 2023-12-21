@@ -52,7 +52,7 @@
 <param name=" Додатково _UA" unit=""> тест юа </param>
 <param name=" Персонаж " unit=""> Аріель </param>
         <param name="Гарантійний термін" unit="">12 місяців</param>
-        <param name=" рейтинг популярності "unit="">1+</param>
+        <param name="Рейтинг популярності" unit="">1+</param>
 <param name=" процесинг " unit="">test</param>
 <param name=" створено на основі " unit="">test</param>
 <param name=" перший статус в наявності заданий " unit="">test</param>
