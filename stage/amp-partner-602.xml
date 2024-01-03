@@ -52,7 +52,6 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
       </offer>
-    </offers>
     <offers>
       <offer id="amp-602-2" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
