@@ -7,15 +7,15 @@
       <currency id="UAH" rate="1" />
     </currencies>
     <categories>
-      <category id="C320580">Ноутбуки</category>
-      <category id="C398790">Навушники</category>
+      <category id="320580">Ноутбуки</category>
+      <category id="398790">Навушники</category>
     </categories>
     <offers>
       <offer id="01293-test" available="true">
         <stock_quantity>1</stock_quantity>
         <price>1348.00</price>
         <currencyid>UAH</currencyid>
-        <categoryid>C682892</categoryid>
+        <categoryid>682892</categoryid>
         <picture>https://images2.exist.ua/media/images/products/2019/04/6428269_55069904.jpg</picture>
         <vendor>Jelly Comb</vendor>
         <description> Раскладка клавиатуры - латинская.&lt;br /&gt; &lt;br/&gt;&lt;p&gt;Чехол-клавиатура для iPad 10.5" 2th gen: специально разработан для нового iPad 10.5" 2th gen (не совместим с iPad pro 12.9 1-го и 2-го поколения). Этот чехол-клавиатура для Ipad 10.5" 2th gen будет идеально защищать Ваш планшет и превратит его в компактный ноутбук благодаря выдвижной подставке.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Клавиатура с сенсорной панелью&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Этот чехол-клавиатура для iPad 10.5" 2th gen имеет трекпад, вы можете использовать его сразу с несколькими жестами. Защитный чехол с подставкой для iPad 10.5" 2th gen, клавиатура с сенсорной панелью позволяет использовать планшет в качестве ноутбука в любое время. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Съемная и тихая клавиатура&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Механизм клавиатуры "клавиша-ножницы" и Bluetooth 5.0 обеспечивают тихий, плавный и чувствительный ввод данных (дальность подключения до 10 м). Эта Bluetooth-клавиатура магнитно прикреплена к защитному чехлу и может быть удалена или размещена напрямую при необходимости. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;7-цветная подсветка&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Эта клавиатура с подсветкой для iPad 10.5" 2th gen имеет переключаемую 7-цветную подсветку и 3 уровня яркости, что делает набор текста более приятным. Вы также можете легко настроить яркость подсветки. Чехол для клавиатуры также имеет держатель для стилуса Apple и не мешает магнитному креплению и функции беспроводной зарядки. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Аккумуляторная клавиатура&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Чехол-клавиатура для iPad 10.5" 2th gen имеет встроенную перезаряжаемую батарею емкостью 650 мАч и может работать 22 часа без подсветки или 6 часов с включенной подсветкой. В режиме ожидания до 800 часов.&lt;/p&gt; </description>
@@ -39,7 +39,7 @@
         <stock_quantity>2</stock_quantity>
         <price>12255.97</price>
         <currencyid>UAH</currencyid>
-        <categoryid>C320580</categoryid>
+        <categoryid>320580</categoryid>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/8/9/8/8/a/5/6/f/c/6/4/e/4/7/3/4/full/8988a56fc64e473482a8731baa3ddb31.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/b/a/7/a/2/9/c/5/2/1/4/5/6/1/full/32ba7a29c5214561a1e4991d82b3c537.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/d/e/1/9/d/2/e/2/b/1/d/3/4/3/0/1/full/de19d2e2b1d3430183e67bcd18ef4467.webp</picture>
