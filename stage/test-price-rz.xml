@@ -7,8 +7,8 @@
       <currency id="UAH" rate="1" />
     </currencies>
     <categories>
-      <category id="C320580" rz_id="80004">Ноутбуки</category>
-      <category id="C398790" rz_id="80027">Навушники</category>
+      <category id="C320580">Ноутбуки</category>
+      <category id="C398790">Навушники</category>
     </categories>
     <offers>
       <offer id="01293-test" available="true">
