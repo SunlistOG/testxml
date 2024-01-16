@@ -2,6 +2,7 @@
   <shop>
     <name>"Інтернет магазин "NONE-shop"</name>
     <company>"Інтернет магазин "NONE-shop"</company>
+    <url>https://www.google.com</url>
     <currencies>
       <currency id="UAH" rate="1" />
     </currencies>
