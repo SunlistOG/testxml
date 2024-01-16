@@ -13,6 +13,7 @@
 <category id="2331">Туристичні коврики</category>
 <category id="7471">Захисні маски</category>
 <category id="8836">Іграшки-антистреси</category>
+<category id="8077">Тест-смужки для глюкометрів</category>
 </categories>
 <offers>
 <offer id="amp-348-xml-1" available="true">
@@ -528,6 +529,37 @@
 <param name="Комплектація (блок)"><![CDATA[Стелаж<br>Інструкція<br>Гарантійний талон]]></param>
 <param name="Відстань між полицями">33</param>
 <param name="Рейтинг за популярністю">0.752567</param>
+</offer>
+<offer id="amp-348-xml-15" available="true">
+<name>Рушники тест</name>
+<name_ru>Ракетка</name_ru>
+<price>6500</price>
+<price_promo>4800</price_promo>
+<currencyId>UAH</currencyId>
+<categoryId>8077</categoryId>
+<picture>https://i.allo.ua/media/catalog/product/import/3138743712891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138743812891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138743912891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138744012891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138744112891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138744212891583.jpg</picture>
+<picture>https://i.allo.ua/media/catalog/product/import/3138744312891583.jpg</picture>
+<description><![CDATA[Портативний металевий стелаж органайзер допоможе розмістити велику кількість промов на невеликій площі. Секції збираються разом чи окремо. Підходити для зберігання промов у складеному вигляді, сумок, аксесуарів, взуття, книг, тек документів, іграшок, головних уборів, квітів, рушників, посуду та ін. Легка збірка, ви можете використовувати секції разом у три ряди і чотири яруси, або відповідно до потреб вашого приміщення, знімаючи верхні або бокові секції, або взагалі використовуючи секції окремо. Стильний та сучасний вигляд. Впишеться в інтер'єр спальні, гостинної кімнати, коридору, ванних кімнат, кабінету, офісу, магазину, тобто використання можливе як у житловому, так і у робочому приміщенні. Стелаж можна використовувати у вертикальному чи горизонтальному положенні. Стелаж можна встановлювати у вузькому місці. Комплектація стелажу: 12 секцій, розмір секції 33 см. Висота 132 см, довжина 99 см, ширина 33 см (при вертикальному використанні 4 секцій у 3 ряди). Вес: 10 кг. Матеріал: метал Колір: чорний. Виробник: Турція.]]></description>
+<description_ru>Ракетка</description_ru>
+<vendor>MT</vendor>
+<stock_quantity>1</stock_quantity>
+<param name="Гарантія">6 місяців</param>
+<param name="Вага">10 кг</param>
+<param name="Колір">Чорний</param>
+<param name="Країна виробник">Туреччина</param>
+<param name="Країна реєстрації бренду">Туреччина</param>
+<param name="Марка глюкометра">Accu Chek</param>
+<param name="Форма">Кутова</param>
+<param name="Кількість в упаковці">12</param>
+<param name="Гарантійний термін">6 місяців</param>
+<param name="Колір">Black</param>
+<param name="Комплектация"><![CDATA[Стелаж<br>Інструкція<br>Гарантійний талон]]></param>
+<param name="Габариты упаковки">12-4-5</param>
 </offer>
 </offers>
 </shop>
