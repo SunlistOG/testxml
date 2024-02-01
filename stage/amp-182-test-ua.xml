@@ -9,8 +9,8 @@
       <currency id="BYN" rate="CB"/>
       <currency id="KZT" rate="CB"/>
       <currency id="EUR" rate="CB"/>
-    </currencies>
-    <categories>
+    </currencies
+    <categories
       <category id="104859252" parentId="104859207">Металлические ремешки миланская петля</category>
       <category id="104859253" parentId="104859207">Металлические ремешки миланская карандаш</category>
       <category id="104859254" parentId="104859207">Металлические ремешки миланская карандаш - тест</category>
@@ -20,7 +20,7 @@
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>299</salePrice>
         <price>399</price>
-        <currencyId>UAH</currencyId>
+        <currencyId>UAH</currencyId
         <categoryId>104859252</categoryId>
         <picture>https://i.imgur.com/za5R8Dn.png</picture>
         <pickup>false</pickup>
