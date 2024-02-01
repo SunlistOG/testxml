@@ -12,6 +12,7 @@
     </currencies>
     <categories>
       <category id="4310" parentId="4367">Куклы, наборы для кукол</category>
+      <category id="4311" parentId="4367">Тестова категорія</category>
     </categories>
     <offers>
        <offer id="test-10554-price" available="true" group_id="374150248">
