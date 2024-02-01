@@ -10,7 +10,7 @@
       <currency id="KZT" rate="CB"/>
       <currency id="EUR" rate="CB"/>
     </currencies>
-    <categories>
+    <categories
       <category id="4310" parentId="4367">Куклы, наборы для кукол</category>
       <category id="4311" parentId="4367">Тестова категорія</category>
       <category id="4312" parentId="4367">Тестова категорія</category>
