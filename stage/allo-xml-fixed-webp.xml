@@ -10,7 +10,7 @@
       <category id="C398790" rz_id="80027">Навушники</category>
     </categories>
     <offers>
-      <offer id="01293" available="true">
+      <offer id="01293-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>1348.00</price>
         <currencyId>UAH</currencyId>
@@ -42,7 +42,7 @@
         <param name="Гарантія">3 місяців</param>
         <price_old>1999</price_old>
       </offer>
-      <offer id="01920" available="true">
+      <offer id="01920-webp" available="true">
         <stock_quantity>2</stock_quantity>
         <price>12255.97</price>
         <currencyId>UAH</currencyId>
@@ -96,7 +96,7 @@
         <param name="Гарантія">12 місяців</param>
         <price_old>14707.16</price_old>
       </offer>
-      <offer id="000839" available="true">
+      <offer id="000839-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>10811.91</price>
         <currencyId>UAH</currencyId>
@@ -155,7 +155,7 @@
         <param name="Гарантія">12 місяців</param>
         <price_old>12974.29</price_old>
       </offer>
-      <offer id="000971" available="true">
+      <offer id="000971-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>9267.94</price>
         <currencyId>UAH</currencyId>
@@ -211,7 +211,7 @@
         <param name="Гарантія">12 місяців</param>
         <price_old>11121.53</price_old>
       </offer>
-      <offer id="01295" available="true">
+      <offer id="01295-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>955.06</price>
         <currencyId>UAH</currencyId>
@@ -238,7 +238,7 @@
         <param name="Бренд">WisFox</param>
         <param name="Гарантія">12 місяців</param>
       </offer>
-      <offer id="01292" available="true">
+      <offer id="01292-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>1227.00</price>
         <currencyId>UAH</currencyId>
@@ -269,7 +269,7 @@
         <param name="Бренд">Jelly Comb</param>
         <param name="Гарантія">3 місяців</param>
       </offer>
-      <offer id="01276" available="true">
+      <offer id="01276-webp" available="true">
         <stock_quantity>2</stock_quantity>
         <price>2068.00</price>
         <currencyId>UAH</currencyId>
@@ -304,7 +304,7 @@
         <param name="Бренд">The G-Lab</param>
         <param name="Гарантія">12 місяців</param>
       </offer>
-      <offer id="000005364" available="true">
+      <offer id="000005364-webp" available="true">
         <stock_quantity>1</stock_quantity>
         <price>14414.85</price>
         <currencyId>UAH</currencyId>
@@ -357,7 +357,7 @@
         <param name="Бренд">MicroVision</param>
         <param name="Гарантія">12 місяців</param>
       </offer>
-      <offer id="000017414" available="true">
+      <offer id="000017414-webp" available="true">
         <stock_quantity>199</stock_quantity>
         <price>228.85</price>
         <currencyId>UAH</currencyId>
