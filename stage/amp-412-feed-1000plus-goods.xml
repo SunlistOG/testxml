@@ -24,26 +24,6 @@
 		<category id="13">Портмоне мужские</category>
 	</categories>
 	<offers>
-		<offer id="4" available="false">
-			<price>1850</price>
-			<price_old>2599</price_old>
-			<currencyId>UAH</currencyId>
-			<categoryId>1</categoryId>
-			<picture>https://image.ua.market/storage/640x640/7/6/0/f/760fbed34e01c3f587d2c8bc6e394ad4.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/c/5/6/e/c56e830f29a571a183c554235108944b.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/7/e/f/7/7ef7a07249d04431c9c62111ca1d2b97.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/3/1/1/d/311da9589433a69612693eec4c7b0fec.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/3/6/6/2/36620a50b552a2709cd360bfa7fb7d37.jpg</picture>
-			<vendor>Luxury Leather Accessories LLA</vendor>
-			<stock_quantity>0</stock_quantity>
-			<name>Женская сумка кросс-боди  Luxury Leather Accessories из красной  натуральной кожи (kb1)</name>
-			<description><![CDATA[<p>Натуральная кожа красного цвета.Удобный размер:22*27*6см(В*Ш*Г).<br>Красная подкладка высокой плотности-210г/м.кв.<br>Донышко усиленно.<br>Фурнитура стойкая к истиранию.<br>Ремень из натуральной кожи(1-1,3м)</p>]]></description>
-			<param name="Тип">Женская</param>
-			<param name="Вид">Cумка</param>
-			<param name="Материал">Кожа</param>
-			<param name="Цвет">Красный</param>
-			<param name="Страна-производитель товара">Украина</param>
-		</offer>
 		<offer id="3" available="false">
 			<price>1599</price>
 			<price_old>2499</price_old>
@@ -13910,47 +13890,6 @@
 			<param name="Материал">Натуральная кожа</param>
 			<param name="Размеры">(В*Ш*Г):9*18,5*4см</param>
 			<param name="Цвет">красный</param>
-			<param name="Страна-производитель товара">Украина</param>
-		</offer>
-		<offer id="555" available="true">
-			<price>1005</price>
-			<price_old>1570</price_old>
-			<currencyId>UAH</currencyId>
-			<categoryId>2</categoryId>
-			<picture>https://image.ua.market/storage/640x640/2/d/5/f/2d5f816b5b937821c84524e6b8e9a47d.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/e/d/0/f/ed0f37d67558b5895743deba2a1468bc.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/9/c/7/0/9c708848d55f4e5af5177abdbc7f24a4.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/7/a/9/0/7a908ca07ea1c6941f63e35fb3ad6d94.jpg</picture>
-			<vendor>Luxury Leather Accessories LLA</vendor>
-			<stock_quantity>100</stock_quantity>
-			<name>Стильный кошелёк из натуральной кожи,8913.1</name>
-			<description><![CDATA[<p>Классика всегда ассоциируется с элегантностью и отличным вкусом. Классические аксессуары выбирают те, кто предпочитает минимализм, но внимателен к деталям. Как раз в этой модели кошелька продумано все. Имеется множество карманов и отделений. Внутри 8 карманов для пластиковых карт и 4 кармана для купюр. Имеются еще 2 дополнительных кармана на молнии. Монетница наружная, закрывается молнией. Гладкая глянцевая текстура кожи выглядит дорого и красиво! Модель укомплектована подарочной упаковкой.
-
-Материал верха
-Кожа натуральная
-Цвет-Чёрный
-Подкладка
-Кожа натуральная
-Количество отделений для визиток и карточек
-8
-Количество отделений для банкнот
-4
-Карманы (шт)
-3
-Монетница
-Внешняя на молнии
-Размер (В*Ш) (см)
-9*18,5
-Толщина (см)
-3,5
-Тип застежки
-Магнит</p>]]></description>
-			<param name="Категория">Женский</param>
-			<param name="Вид">Кошелёк</param>
-			<param name="Бренд">Luxury Leather Accessories</param>
-			<param name="Материал">Натуральная кожа</param>
-			<param name="Размеры">(В*Ш*Г):9*18,5*4см</param>
-			<param name="Цвет">Чёрный</param>
 			<param name="Страна-производитель товара">Украина</param>
 		</offer>
 		<offer id="556" available="false">
@@ -31210,39 +31149,6 @@
 			<param name="Материал">Натуральная кожа</param>
 			<param name="Размеры">(В*Ш*Г):20*20*7см</param>
 			<param name="Цвет">Чёрный</param>
-		</offer>
-		<offer id="1043" available="false">
-			<price>2333</price>
-			<price_old>2597</price_old>
-			<currencyId>UAH</currencyId>
-			<categoryId>7</categoryId>
-			<picture>https://image.ua.market/storage/640x640/8/3/9/2/839212a650b0f3e15fad5585e870333d.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/d/3/3/8/d33826fa9fbb98fcd327d646d2cc892b.jpg</picture>
-			<vendor>Luxury Leather Accessories LLA</vendor>
-			<stock_quantity>100</stock_quantity>
-			<name>Сумочка из натуральной кожи 29008/31 </name>
-			<description><![CDATA[<p>Новая необычная модель маленькой сумочки . Сумка выполнена из натуральной кожи. Лицевую сторону украшает фирменный логотип и объемный ремешок в виде бегунка на молнии. Такую модель точно выберет любительница стильных и современных моделей! Внутри и снаружи есть несколько карманов на молнии. Сумочка удобная, практичная и качественна. Здесь используется телячья кожа, она очень приятна на ощупь и хорошо держит форму Вашей сумки.
-
-Материал верхаКожа натуральная
-Цвет-Мятно-серый
-ВидСумки
-КатегорияЖенские
-ПодкладкаП/Э
-Размер (В*Ш) (см)20*20
-Ширина дна (см)7
-Количество отделений1
-Карманы (шт)5
-Ручки1
-Высота основной ручки (см)68
-Длина основной ручки (см)136
-Дополнительная ручкаНет
-Тип застежкиМолния</p>]]></description>
-			<param name="Категория">Женская</param>
-			<param name="Вид">Сумка</param>
-			<param name="Бренд">Luxury Leather Accessories</param>
-			<param name="Материал">Натуральная кожа</param>
-			<param name="Размеры">(В*Ш*Г):20*20*7см</param>
-			<param name="Цвет">Мятно-серый</param>
 		</offer>
 		<offer id="1044" available="false">
 			<price>3190</price>
@@ -50239,92 +50145,50 @@
 			<param name="Цвет">Серо-голубой</param>
 			<param name="Страна-производитель товара">Украина</param>
 		</offer>
-		<offer id="1603" available="false">
-			<price>1490</price>
-			<price_old>2399</price_old>
-			<currencyId>UAH</currencyId>
-			<categoryId>4</categoryId>
-			<picture>https://image.ua.market/storage/640x640/b/f/f/1/bff18e0b3b0e1782247c0cf12d0b779f.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/f/3/6/b/f36b18513b126ac53eb8ec1f9c45d754.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/8/0/a/6/80a666d9d236f31f6eeed7fd9934f096.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/c/3/5/7/c3570e20828bc2cc81e2e80f642eee34.jpg</picture>
-			<vendor>Bon Voyage</vendor>
-			<stock_quantity>100</stock_quantity>
-			<name>Рюкзак Bon Voyage 38171/240</name>
-			<description><![CDATA[<p>
-
-Стильный рюкзак из водонепроницаемой ткани. Модель компактная и в то же время вместительная. Внутри 2 кармана для мобильного телефона и карман на молнии. Снаружи спереди, по бокам и с обратной стороны имеется 4 дополнительных кармана. Такой рюкзак отлично впишется в Ваш повседневный или спортивный стиль.
-
-        Материал верха
-        Текстиль
-        Подкладка
-        П/Э
-        Размер (В*Ш) (см)
-        32*27
-        Ширина дна (см)
-        12
-        Количество отделений
-        1
-        Карманы (шт)
-        7
-        Тип застежки
-        Молния
-        Передний фиксатор лямок
-        Нет
-        Длина регулируемых лямок (см)
-        60
-</p>]]></description>
-            <param name="Категория">Для женщин</param>
-			<param name="Вид">Сумка</param>
-			<param name="Бренд">Bon Voyage</param>
-			<param name="Материал">Ткань</param>
-			<param name="Размеры">(В*Ш*Г):32*27*12см</param>
-			<param name="Цвет">Зелёный</param>
-			<param name="Страна-производитель товара">Украина</param>
-		</offer>
-		<offer id="1604" available="true">
-			<price>1490</price>
-			<price_old>2399</price_old>
-			<currencyId>UAH</currencyId>
-			<categoryId>4</categoryId>
-			<picture>https://image.ua.market/storage/640x640/f/4/5/a/f45a16d782708dc2617560ef8704abd0.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/2/7/0/6/270687e79cf4892d5d5f52ac1543c636.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/8/8/3/1/88317956ce53240a4d1d011a7ed88850.jpg</picture>
-			<picture>https://image.ua.market/storage/640x640/5/4/8/0/548070b68d1e7c85133413f9a2fdee65.jpg</picture>
-			<vendor>Bon Voyage</vendor>
-			<stock_quantity>100</stock_quantity>
-			<name>Рюкзак Bon Voyage 38171</name>
-			<description><![CDATA[<p>
-
-Стильный рюкзак из водонепроницаемой ткани. Модель компактная и в то же время вместительная. Внутри 2 кармана для мобильного телефона и карман на молнии. Снаружи спереди, по бокам и с обратной стороны имеется 4 дополнительных кармана. Такой рюкзак отлично впишется в Ваш повседневный или спортивный стиль.
-
-        Материал верха
-        Текстиль
-        Подкладка
-        П/Э
-        Размер (В*Ш) (см)
-        32*27
-        Ширина дна (см)
-        12
-        Количество отделений
-        1
-        Карманы (шт)
-        7
-        Тип застежки
-        Молния
-        Передний фиксатор лямок
-        Нет
-        Длина регулируемых лямок (см)
-        60
-</p>]]></description>
-            <param name="Категория">Для женщин</param>
-			<param name="Вид">Сумка</param>
-			<param name="Бренд">Bon Voyage</param>
-			<param name="Материал">Ткань</param>
-			<param name="Размеры">(В*Ш*Г):32*27*12см</param>
-			<param name="Цвет">Чёрный</param>
-			<param name="Страна-производитель товара">Украина</param>
-		</offer>
 	</offers>
+	<offer id="amp-412-product1" available="true">
+		<price>1590</price>
+		<price_old>2399</price_old>
+		<currencyId>UAH</currencyId>
+		<categoryId>4</categoryId>
+		<picture>https://image.ua.market/storage/640x640/4/9/7/f/497fe9f7ffef8760063462172f176a79.jpg</picture>
+		<picture>https://image.ua.market/storage/640x640/9/d/8/7/9d87faf85ce1b729c3a24da8900b280f.jpg</picture>
+		<picture>https://image.ua.market/storage/640x640/8/9/2/3/8923c21f404a57302212276eca0a0adf.jpg</picture>
+		<picture>https://image.ua.market/storage/640x640/1/5/5/5/1555f86f6d75c96b3c6e9400492c556a.jpg</picture>
+		<vendor>Bon Voyage</vendor>
+		<stock_quantity>100</stock_quantity>
+		<name>Рюкзак Bon Voyage 38118/216</name>
+		<description><![CDATA[<p>
+
+Новая модель рюкзака в серии Bon Voyage . Небольшой рюкзак вмещает множество вещей. Внутри 1 большое отделение, также имеются удобные дополнительные карманы - 2 на молнии, 2 без застежки. Снаружи с двух сторон дополнительные карманы на молнии и карманы по бокам. Сверху короткая ручка, а длина лямок регулируется. Водонепроницаемая ткань защитит Ваши вещи от влаги. Модель подойдет любителям спортивного стиля и отлично впишется в Вашу коллекцию удобных дорожных аксессуаров.
+
+	Материал верха
+	Текстиль
+	Подкладка
+	П/Э
+	Размер (В*Ш) (см)
+	34*29
+	Ширина дна (см)
+	13
+	Количество отделений
+	1
+	Карманы (шт)
+	9
+	Дополнительная ручка
+	Есть
+	Тип застежки
+	Молния
+	Длина регулируемых лямок (см)
+	60
+</p>]]></description>
+		<param name="Категория">Для женщин</param>
+		<param name="Вид">Сумка</param>
+		<param name="Бренд">Bon Voyage</param>
+		<param name="Материал">Ткань</param>
+		<param name="Размеры">(В*Ш*Г):34*29*13см</param>
+		<param name="Цвет">Серо-голубой</param>
+		<param name="Страна-производитель товара">Украина</param>
+	</offer>
+</offers>
 	</shop>
 </yml_catalog>
