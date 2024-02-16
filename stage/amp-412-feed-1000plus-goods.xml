@@ -50145,7 +50145,6 @@
 			<param name="Цвет">Серо-голубой</param>
 			<param name="Страна-производитель товара">Украина</param>
 		</offer>
-	</offers>
 	<offer id="amp-412-product1" available="true">
 		<price>1590</price>
 		<price_old>2399</price_old>
@@ -50190,5 +50189,5 @@
 		<param name="Страна-производитель товара">Украина</param>
 	</offer>
 </offers>
-	</shop>
+</shop>
 </yml_catalog>
