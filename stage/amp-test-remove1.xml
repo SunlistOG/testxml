@@ -11,7 +11,7 @@
       <currency id="EUR" rate="CB"/>
     </currencies>
     <categories>
-      <category id="5958" parentId="31113" "Алкотестери" />
+      <category id="5958" parentId="31113">Алкотестери</>
     </categories>
     <offers>
       <offer id="amp-602-5" available="true" group_id="374150248">
