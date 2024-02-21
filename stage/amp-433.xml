@@ -409,6 +409,24 @@
 			<param name="Цвет">Синий</param>
 			<param name="Страна-производитель товара">Украина</param>
 		</offer>
+		<offer id="amp-433-30" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>8</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
 	</offers>
 </shop>
 </yml_catalog>
