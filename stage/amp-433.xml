@@ -409,7 +409,7 @@
 			<param name="Цвет">Синий</param>
 			<param name="Страна-производитель товара">Украина</param>
 		</offer>
-		<offer id="amp-433-30" available="true">
+		<offer id="amp-433-31" available="true">
 			<price>1770</price>
 			<price_old>2670</price_old>
 			<currencyId>UAH</currencyId>
