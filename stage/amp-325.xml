@@ -663,7 +663,8 @@
         </offer>
           <offer id="amp-325-remove-style-tag-1" available="true">
     <name> 
-&lt;h1&gt;Heading1&lt;/h1&gt;
+      
+      &lt;h1&gt;Heading1&lt;/h1&gt;
 &lt;section&gt;
   &lt;style scoped&gt;
     p {
@@ -684,33 +685,10 @@
   &lt;/style&gt;
   Section text
 &lt;/section&gt;
-
 
     </name>
     <name_ru>
-&lt;h1&gt;Heading1&lt;/h1&gt;
-&lt;section&gt;
-  &lt;style scoped&gt;
-    p {
-      color: red;
-    }
-  &lt;/style&gt;
-
-  &lt;p&gt;   
-    Paragraph text
-  &lt;/p&gt;
-&lt;/section&gt;
- 
-&lt;section&gt;
-  &lt;style type="text/css"&gt;
-    body {
-      color: red;
-    }
-  &lt;/style&gt;
-  Section text
-&lt;/section&gt;
-
-
+      
     </name_ru>
     <price>100</price>
     <currencyId>UAH</currencyId>
@@ -718,52 +696,8 @@
     <picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
     <picture>https://i.allo.ua/media/catalog/product/import/320338956368013.jpg</picture>
     <description>
-&lt;h1&gt;Heading1&lt;/h1&gt;
-&lt;section&gt;
-  &lt;style scoped&gt;
-    p {
-      color: red;
-    }
-  &lt;/style&gt;
-
-  &lt;p&gt;   
-    Paragraph text
-  &lt;/p&gt;
-&lt;/section&gt;
- 
-&lt;section&gt;
-  &lt;style type="text/css"&gt;
-    body {
-      color: red;
-    }
-  &lt;/style&gt;
-  Section text
-&lt;/section&gt;
-
     </description>
     <description_ru>
-                                            &lt;h1&gt;Heading1&lt;/h1&gt;
-          &lt;section&gt;
-  &lt;style scoped&gt;
-          p {
-      color: red;
-            }
-  &lt;/style&gt;
-
-          &lt;p&gt;   
-    Paragraph text
-          &lt;/p&gt;
-        &lt;/section&gt;
- 
-&lt;section&gt;
-  &lt;style type="text/css"&gt;
-            body {
-      color: red;
-    }
-            &lt;/style&gt;
-      Section text
-        &lt;/section&gt;
-
     </description_ru>
     <vendor>MR Displays</vendor>
     <stock_quantity>1</stock_quantity>
