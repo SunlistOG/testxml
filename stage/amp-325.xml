@@ -287,31 +287,22 @@
     </offer>
         <offer id="amp-325-remove-spaces-again-1" available="true">
     <name> 
-& #169;
- 
-&#169 ;
- 
-&# 169;
- 
-&#1 69;
- 
-&#16 9;
- 
-& # 1 6 9 ;
+&amp; #169;
+&amp;#169 ;
+&amp;# 169;
+&amp;#1 69;
+&amp;#16 9;
+&amp; # 1 6 9 ;
+
       
     </name>
     <name_ru>
-& #169;
- 
-&#169 ;
- 
-&# 169;
- 
-&#1 69;
- 
-&#16 9;
- 
-& # 1 6 9 ;
+&amp; #169;
+&amp;#169 ;
+&amp;# 169;
+&amp;#1 69;
+&amp;#16 9;
+&amp; # 1 6 9 ;
     
     </name_ru>
     <price>100</price>
@@ -321,32 +312,21 @@
     <picture>https://i.allo.ua/media/catalog/product/import/320338956368013.jpg</picture>
     <description>
 
-& #169;
- 
-&#169 ;
- 
-&# 169;
- 
-&#1 69;
- 
-&#16 9;
- 
-& # 1 6 9 ;
+&amp; #169;
+&amp;#169 ;
+&amp;# 169;
+&amp;#1 69;
+&amp;#16 9;
+&amp; # 1 6 9 ;
       
     </description>
     <description_ru>
-& #169;
- 
-&#169 ;
- 
-&# 169;
- 
-&#1 69;
- 
-&#16 9;
- 
-& # 1 6 9 ;
-      test space
+&amp; #169;
+&amp;#169 ;
+&amp;# 169;
+&amp;#1 69;
+&amp;#16 9;
+&amp; # 1 6 9 ;
     </description_ru>
     <vendor>MR Displays</vendor>
     <stock_quantity>1</stock_quantity>
