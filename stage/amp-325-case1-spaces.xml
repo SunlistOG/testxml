@@ -18,10 +18,29 @@
           <currencyId>UAH</currencyId>
           <categoryId>1</categoryId>
           <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
-          <name>     &lt;h1&gt;  Heading1   &lt;/h1&gt;   </name>
-          <name_ua>     &lt;h1&gt;  Heading1   &lt;/h1&gt;   </name_ua>
-          <description>     &lt;h1&gt;  Heading1   &lt;/h1&gt;   </description>
-          <description_ua>     &lt;h1&gt;  Heading1   &lt;/h1&gt;   </description_ua>
+          <name>           &lt;h1&gt;              Heading1                          &lt;/h1&gt;          </name>
+          <name_ua>                     &lt;h1&gt;  Heading1                  &lt;/h1&gt;                    </name_ua>
+          <description>                        &lt;h1&gt;              Heading1                 &lt;/h1&gt;          </description>
+          <description_ua>          &lt;h1&gt;  Heading1                            &lt;/h1&gt;                          </description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Бренд">Apple</param>
+          <param name="Совместимая модель">iPhone</param>
+        </offer>
+        <offer id="amp-325-case1-white-spaces" available="true">
+          <price>299</price>
+          <price_promo>129</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name>           </name>
+          <name_ua>                                 </name_ua>
+          <description>                  </description>
+          <description_ua>                            </description_ua>
           <param name="Форм-фактор">Накладка</param>
           <param name="Материал">TPU</param>
           <param name="Особенности чехла">Противоударный</param>
