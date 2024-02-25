@@ -285,7 +285,7 @@
     <param name="Колір (для зв'язування)">Black / Red</param>
     <param name="Рейтинг за популярністю">0.757275</param>
     </offer>
-        <offer id="amp-325-remove-spaces-&#169-1" available="true">
+        <offer id="amp-325-remove-spaces-again-1" available="true">
     <name> 
 & #169;
  
@@ -375,4 +375,3 @@
   </offers>
   </shop>
   </yml_catalog>
-  
