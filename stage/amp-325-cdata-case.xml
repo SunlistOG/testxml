@@ -10,7 +10,7 @@
         <category id="1">Чехлы</category>
       </categories>
       <offers>
-        <offer id="amp-p325--desc-cdata-1" available="true">
+        <offer id="amp-325-cdata-case-1" available="true">
           <price>299</price>
           <price_promo>229</price_promo>
           <vendor>ItsPrint</vendor>
@@ -42,7 +42,7 @@
           <param name="Совместимый бренд">Apple iPhone</param>
           <param name="Совместимая модель">Apple iPhone 11</param>
         </offer>
-        <offer id="amp-p325-cdata-2" available="true">
+        <offer id="amp-325-cdata-case-2" available="true">
           <price>299</price>
           <price_promo>229</price_promo>
           <vendor>ItsPrint</vendor>
@@ -74,7 +74,7 @@
           <param name="Совместимый бренд">Apple iPhone</param>
           <param name="Совместимая модель">Apple iPhone 11</param>
         </offer>
-        <offer id="amp-p325-cdata-3" available="true">
+        <offer id="amp-325-cdata-case-1" available="true">
           <price>299</price>
           <price_promo>229</price_promo>
           <vendor>ItsPrint</vendor>
