@@ -1005,22 +1005,28 @@ Paragraph text
     </offer>
     <offer id="amp-325-remove-iframe" available="true">
     <name> 
-&lt;div class="className"&gt;
-  &lt;input id="0" type="button" value="OK" /&gt;
-  &lt;p&gt;
-    Paragraph text
+&lt;section&gt;
+  &lt;p&gt;Text
+    &lt;iframe src="https://" width="100%" allowfullscreen&gt;
+      &lt;p&gt; &lt;a href="/"&gt;
+        Link text
+      &lt;/a&gt; &lt;/p&gt;
+    &lt;/iframe&gt;
   &lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 
 
     </name>
     <name_ru>
-  &lt;div class="className"&gt;
-  &lt;input id="0" type="button" value="OK" /&gt;
-  &lt;p&gt;
-    Paragraph text
+&lt;section&gt;
+  &lt;p&gt;Text
+    &lt;iframe src="https://" width="100%" allowfullscreen&gt;
+      &lt;p&gt; &lt;a href="/"&gt;
+        Link text
+      &lt;/a&gt; &lt;/p&gt;
+    &lt;/iframe&gt;
   &lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
 
     </name_ru>
     <price>100</price>
@@ -1029,21 +1035,29 @@ Paragraph text
     <picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
     <picture>https://i.allo.ua/media/catalog/product/import/320338956368013.jpg</picture>
     <description>
-&lt;div class="className"&gt;
-  &lt;input id="0" type="button" value="OK" /&gt;
-  &lt;p&gt;
-    Paragraph text
+&lt;section&gt;
+  &lt;p&gt;Text
+    &lt;iframe src="https://" width="100%" allowfullscreen&gt;
+      &lt;p&gt; &lt;a href="/"&gt;
+        Link text
+      &lt;/a&gt; &lt;/p&gt;
+    &lt;/iframe&gt;
   &lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
+
 
     </description>
     <description_ru>
-&lt;div class="className"&gt;
-  &lt;input id="0" type="button" value="OK" /&gt;
-  &lt;p&gt;
-    Paragraph text
+&lt;section&gt;
+  &lt;p&gt;Text
+    &lt;iframe src="https://" width="100%" allowfullscreen&gt;
+      &lt;p&gt; &lt;a href="/"&gt;
+        Link text
+      &lt;/a&gt; &lt;/p&gt;
+    &lt;/iframe&gt;
   &lt;/p&gt;
-&lt;/div&gt;
+&lt;/section&gt;
+
 
     </description_ru>
     <vendor>MR Displays</vendor>
