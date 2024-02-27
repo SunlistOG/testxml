@@ -8,6 +8,7 @@
     <categories>
       <category id="C320580" rz_id="80004">Ноутбуки</category>
       <category id="C398790" rz_id="80027">Навушники</category>
+      <category id="C398791" rz_id="80027">Навушники тест</category>
     </categories>
     <offers>
       <offer id="01293-webp" available="true">
@@ -159,7 +160,7 @@
         <stock_quantity>1</stock_quantity>
         <price>9267.94</price>
         <currencyId>UAH</currencyId>
-        <categoryId>C320580</categoryId>
+        <categoryId>C398791</categoryId>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/1/2/5/4/b/c/2/1/1/5/7/9/4/7/3/c/full/1254bc211579473c8ada59c235ba6154.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/e/a/8/d/a/0/8/a/8/8/f/a/4/8/e/e/full/ea8da08a88fa48ee9cb7529ac9b85523.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/a/d/8/2/c/9/3/1/e/e/1/5/4/3/d/8/full/ad82c931ee1543d89db780cb69e5842f.webp</picture>
