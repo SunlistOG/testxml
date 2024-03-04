@@ -48,10 +48,11 @@
             <guarantee type="manufacturer">12</guarantee>
             <param name="Країна виготовлення">Китай</param>
             <param name="Оригінальність">Оригінал</param>
-			<payment type="installment" from="Monobank, ПриватБанк">true</payment>
-			<payment type="cash-on-delivery" fee="2">true</payment>
+            <payment type="installment" from="Monobank, ПриватБанк">true</payment>
+            <payment type="cash-on-delivery" fee="2">true</payment>
             <condition>0</condition>
             <custom>1</custom>
+            <store id="1" name="Салон на Подолі" address="Київ, вул. Хорива, 10" coordinates="50.46629756808269,30.515580557670187" workdays_from="9:00" workdays_to="21:00" sat_from="10:00" sat_to="18:00" sun_from="10:00" sun_to="18:00" tel="+380931234567"></store>
         </item>
         <item>
             <id>amp-494-hotline-2</id>
@@ -70,6 +71,7 @@
             <param name="Оригінальність">Оригінал</param>
             <condition>0</condition>
             <custom>1</custom>
+            <store id="2" name="Смарт-Плаза" address="Київ, пр. Перемоги, 24" coordinates="50.45145794465848,30.46873581153247" workdays_from="10:00" workdays_to="20:00" sat_from="11:00" sat_to="18:00" sun_from="11:00" sun_to="18:00" tel="+380931234567"></store>
         </item>
     </items>
 </price> 
