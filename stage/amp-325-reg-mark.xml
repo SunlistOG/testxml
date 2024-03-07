@@ -11,15 +11,15 @@
       </categories>
       <offers>
 <offer id="amp-325-remove-symbols-of-the-registered-trademark-1" available="true">
-<name> ® &reg; &#174; &#xAE; &#xAE</name>
-<name_ru> ® &reg; &#174; &#xAE; &#xAE</name_ru>
+<name> ® &reg; &#174; &#xAE; <![CDATA[&#xAE]]></name>
+<name_ru> ® &reg; &#174; &#xAE; <![CDATA[&#xAE]]></name_ru>
 <price>100</price>
 <currencyId>UAH</currencyId>
 <categoryId>8836</categoryId>
 <picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
 <picture>https://i.allo.ua/media/catalog/product/import/320338956368013.jpg</picture>
-<description> ® &reg; &#174; &#xAE;  &#xAE </description>
-<description_ru> ® &reg; &#174; &#xAE;  &#xAE </description_ru>
+<description> ® &reg; &#174; &#xAE;  <![CDATA[&#xAE]]> </description>
+<description_ru> ® &reg; &#174; &#xAE;  <![CDATA[&#xAE]]> </description_ru>
 <vendor>MR Displays</vendor>
 <stock_quantity>1</stock_quantity>
 <param name="Гарантійний термін">Обміну та поверненню не підлягає</param>
