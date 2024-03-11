@@ -37,7 +37,7 @@
         <param name="Габариты_UA" unit="">30 x 40 x 25 см</param>
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
-        <param name="Лейба "Энергоэффективность"" unit="">A++</param>
+        <param name="Лейба Энергоэффективность" unit="">A++</param>
         <param name="Код родительского товара (только для уценки)" unit="">204928876</param>
         <param name="Совместимая модель" unit="">Xiaomi</param>
         <param name="Цвет (для связки)" unit="">Розовый</param>
@@ -80,7 +80,7 @@
         <param name="Габариты_UA" unit="">30 x 40 x 25 см</param>
         <param name="Диапазон измерений_RU" unit="">100</param>
         <param name="Диапазон измерений_UA" unit="">100</param>
-        <param name="Лейба "Энергоэффективность"" unit="">A++</param>
+        <param name="Лейба Энергоэффективность" unit="">A++</param>
         <param name="Код родительского товара (только для уценки)" unit="">204928876</param>
         <param name="Совместимая модель" unit="">Xiaomi</param>
         <param name="Цвет (для связки)" unit="">Розовый</param>
