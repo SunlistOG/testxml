@@ -55,7 +55,7 @@
         <param name="Гарантийный срок" unit="">12 месяцев</param>
         <param name="Acer|Apple|Asus|Blackview|Bravis|Doogee|GSmart|Google Pixel|Honor|Huawei|Infinix|LG|Lenovo|Motorola|Nokia|Nomi|OPPO|OnePlus|Oukitel|Poco|Prestigio|Realme|Samsung|Sigma|SmartTab|Sony|TCL|Ulefone|VIVO|Xiaomi|ZTE" unit="">Samsung</param>
       </offer>
-       <offer id="check-text-1" available="true" group_id="374150248">
+       <offer id="check-text-2" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
         <salePrice>100</salePrice>
         <price>250</price>
