@@ -3163,7 +3163,6 @@ Paragraph text3
     <param name="Колір (для зв'язування)">Black / Red</param>
     <param name="Рейтинг за популярністю">0.757275</param>
     </offer>
-    </offer>
     <offer id="amp-325-change-newlines-to-br-tag-1" available="true">
     <name> 
 &lt;h1&gt;Heading1  &lt;/h1&gt;
@@ -3244,8 +3243,6 @@ g
     <param name="Колір (для зв'язування)">Black / Red</param>
     <param name="Рейтинг за популярністю">0.757275</param>
     </offer>
-
-    
   </offers>
   </shop>
   </yml_catalog>
