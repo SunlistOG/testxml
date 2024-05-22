@@ -3204,13 +3204,18 @@ Paragraph text3
 &lt;h1&gt;Heading1  &lt;/h1&gt;
 &lt;div&gt;
   &lt;p&gt;
-    Paragraph
-       <br>
-      <br>
+   Paragraph
+       &lt;br&gt;
+      &lt;br&gt;
 hello
-      <br>
-<br>
+      &lt;br&gt;
+&lt;br&gt;
       text.
+
+1
+
+
+g
   &lt;/p&gt;  &lt;br&gt;
 &lt;/div&gt;
 
