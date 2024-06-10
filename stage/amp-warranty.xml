@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-06-10 15:21">
+<shop>
+<name>Тест</name>
+<company>Тест</company>
+<url>https://google.com.ua/</url>
+<currencies>
+<currency id="UAH" rate="1" />
+</currencies>
+<categories>
+<category id="92">Товары для дома</category>
+</categories>
+<offers>
+<offer id="1542" available="false" >
+<url>https://syrop.com.ua/elektronika/naushniki/besprovodnye-naushniki-havit-hv-i67-skladnye-s-mikrofonom-i-microsd-25064</url>
+<price>715</price>
+<price_old>808</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>335</categoryId>
+<picture>https://syrop.com.ua/image/catalog/image/catalog/image/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_.png</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_2-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_1-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_3-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_4-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_5-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_6-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_9-600x600.jpg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/naushniki_videx/1_besprovodnye_naushniki/hv-i67_/hv-i67_8-600x600.jpg</picture>
+<delivery>true</delivery>
+<stock_quantity>0</stock_quantity>
+<name>Беспроводные наушники HAVIT HV-I67 складные с микрофоном и microSD (25064)</name>
+<name_ua>Бездротові навушники HAVIT HV-I67 складні з мікрофоном та microSD (25064)</name_ua>
+<vendor>Havit</vendor>
+<description><![CDATA[<h2><p class="MsoNormal" style="margin-bottom:6.4pt;mso-outline-level:2"><b><span style="font-size: 13pt; font-family: Verdana, sans-serif;">Беспроводные наушники HAVIT HV-I67&nbsp;</span></b><span style="font-size: 13pt; font-family: Verdana, sans-serif;">– это
+качественные, удобные и надежные складывающиеся наушники с микрофоном и
+воспроизведением с microSD и AUX. Подойдут для энергичных и деятельных людей,
+которые ценят хороший звук и активный образ жизни.&nbsp;</span><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:6.4pt;mso-outline-level:2"><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="margin-bottom:6.4pt"><b><span style="font-size: 13pt; font-family: Verdana, sans-serif;">Преимущества
+наушников HAVIT HV-I67</span></b><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p></o:p></span></p><ul type="disc">
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">3
+     канала воспроизведения - через Bluetooth, с microSD и AUX&nbsp;</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">удобно
+     и без дискомфорта носятся на голове в течении длительного времени</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">складываются
+     для удобной транспортировки и компактного хранения</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">длительное
+     время автономного воспроизведения музыки (7 часов)</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">длительное
+     время автономных разговоров (6 часов)</span><span style="font-size:13.0pt;
+     font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">удобная
+     регулировка громкости в широком диапазоне</span><span style="font-size:
+     13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">отличный
+     прием сигнала на расстоянии до 10 м</span><span style="font-size:13.0pt;
+     font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">возможность
+     зарядки через USB-кабель</span><span style="font-size:13.0pt;font-family:
+     &quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+     RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">возможность
+     принимать звонки</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+</ul><p class="MsoNormal" style="margin-bottom:6.4pt;mso-outline-level:1"><b><span style="font-size: 13pt; font-family: Verdana, sans-serif;">Купи наушники HAVIT HV-I67 и ты получишь универсальный
+девайс для наслаждения музыкой, воспроизводимой телефоном, компьютером или с
+microSD карты.</span></b><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p></o:p></span></p><p class="MsoNormal" style="margin-bottom:6.4pt"><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="margin-bottom:6.4pt"><b><span style="font-size: 13pt; font-family: Verdana, sans-serif;">Технические
+особенности:</span></b><span style="font-size: 13pt; font-family: Arial, sans-serif;"><o:p></o:p></span></p><ul type="disc">
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Версия
+     bluetooth: V4.2</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Размеры:
+     160*86*130 мм</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Диаметр
+     динамика: 40 мм</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Сопротивление:
+     32 Ом</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Диапазон
+     воспроизводимых частот: 20 Гц-20 кГц</span><span style="font-size:13.0pt;
+     font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Чувствительность:
+     110 дБ&nbsp;</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Дальность
+     действия: 10 м (без препятствий)</span><span style="font-size:13.0pt;
+     font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Батарея
+     наушников: 250 мА</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Время
+     воспроизведения: до 7 часов</span><span style="font-size:13.0pt;
+     font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;
+     mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Время
+     разговоров: до 6 часов</span><span style="font-size:13.0pt;font-family:
+     &quot;Arial&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:
+     RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Время
+     заряда: 3 часа</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+ <li class="MsoNormal"><span style="font-size:13.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;;mso-fareast-font-family:
+     &quot;Times New Roman&quot;;mso-bidi-font-family:Arial;mso-fareast-language:RU">Вес:
+     179,9 г</span><span style="font-size:13.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+     mso-fareast-font-family:&quot;Times New Roman&quot;;mso-fareast-language:RU"><o:p></o:p></span></li>
+</ul><p class="MsoNormal" style="margin-bottom:6.4pt"><span style="font-size: 13pt; font-family: Verdana, sans-serif;"><br>
+<b>Гарантия - 12 месяцев</b></span></p></h2>
+]]></description>
+<description_ua><![CDATA[<p class="MsoNormal"><b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK">Бездротові навушники HAVIT HV-I67</span></b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK"> - це якісні, зручні та надійні навушники з мікрофоном і
+відтворенням з microSD і AUX. Підійдуть для енергійних та діяльних людей, які
+цінують гарний звук та активний спосіб життя.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">&nbsp;</span></p>
+
+<p class="MsoNormal"><b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK">Переваги навушників HAVIT HV-I67<o:p></o:p></span></b></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">3 канали відтворення -
+через Bluetooth, з microSD та AUX<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">зручно та без
+дискомфорту носяться на голові протягом тривалого часу<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">складаються для зручного
+транспортування та компактного зберігання<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">тривалий час автономного
+відтворення музики (7 годин)<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">тривалий час автономних
+розмов (6 годин)<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">зручне регулювання
+гучності в широкому діапазоні<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">відмінний прийом сигналу
+на відстані до 10 м<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">можливість заряджання
+через USB-кабель<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">можливість приймати
+дзвінки<o:p></o:p></span></li></ul>
+
+<p class="MsoNormal"><b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK">&nbsp;</span></b></p>
+
+<p class="MsoNormal"><b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK">Гарантія – 12 місяців</span><o:p></o:p></b></p>
+
+<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">&nbsp;</span></p>
+
+<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Купи навушники HAVIT
+HV-I67 і ти отримаєш універсальний девайс для насолоди музикою, що
+відтворюється телефоном, комп'ютером або з microSD картки.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">&nbsp;</span></p>
+
+<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">&nbsp;<o:p></o:p></span></p>
+
+<p class="MsoNormal"><b><span lang="UK" style="font-size:16.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;
+mso-ansi-language:UK">Технічні особливості:<o:p></o:p></span></b></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ul><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Версія bluetooth: V4.2<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Розміри: 160*86*130 мм<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Діаметр динаміка: 40 мм<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Опір: 32 Ом<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Діапазон частот, що
+відтворюються: 20 Гц-20 кГц<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Чутливість: 110 дБ<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Дальність дії: 10 м (без
+перешкод)<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Батарея навушників: 250
+мА<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Час відтворення: до 7
+годин<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Час розмов: до 6 годин<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Час заряду: 3 години<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;line-height:107%;
+font-family:&quot;Verdana&quot;,sans-serif;mso-ansi-language:UK">Вага: 179,9 г<o:p></o:p></span></li></ul>]]></description_ua>
+<param name="Вид"><value lang="ru">Наушники</value><value lang="uk">Навушники</value></param>
+<param name="Цвет"><value lang="ru">Черный</value><value lang="uk">Чорний</value></param>
+<param name="Назначение"><value lang="ru">Для компьютера 
+Для телефона </value><value lang="uk">Для компьютера  
+Для телефону </value></param>
+<param name="Особенности"><value lang="ru">Android-совместимость 
+Apple-совместимость 
+Воспроизведение с microSD </value><value lang="uk">Android-сумісність 
+Apple-сумісність 
+Відтворення з microSD </value></param>
+<param name="Страна-производитель товара"><value lang="ru">Китай</value><value lang="uk">Китай</value></param>
+<param name="Тип наушников"><value lang="ru">Накладные</value><value lang="uk">Накладні</value></param>
+<param name="Микрофон"><value lang="ru">Встроенный</value><value lang="uk">Вбудований</value></param>
+<param name="Интерфейс подключения"><value lang="ru">Bluetooth</value><value lang="uk">Bluetooth</value></param>
+<param name="Тип крепления"><value lang="ru">С оголовьем </value><value lang="uk">З оголів&apos;ям </value></param>
+<param name="Наличие активного шумоподавления"><value lang="ru">Без активного шумоподавления </value><value lang="uk">Без активного шумоподавлення</value></param>
+<param name="Страна регистрации бренда"><value lang="ru">Украина</value><value lang="uk">Украина</value></param>
+<param name="Поддержка звука"><value lang="ru">2.0</value><value lang="uk">2.0</value></param>
+<param name="Тип подключения"><value lang="ru">Беспроводные</value><value lang="uk">Бездротові</value></param>
+<param name="Артикул"><value lang="ru">HV-I67</value><value lang="uk">HV-I67</value></param>
+<param name="Гарантийный срок"><value lang="ru">12 месяцев</value><value lang="uk">12 місяців</value></param>
+<param name="Акустическое оформление"><value lang="ru">Закрытые</value><value lang="uk">Закриті</value></param>
+<param name="Функции и возможности"><value lang="ru">Функция ответа на звонок 
+Регулятор громкости 
+Воспроизведение с microSD</value><value lang="uk">Функція відповіді на дзвінок 
+Регулятор гучності 
+Відтворення з microSD </value></param>
+</offer>
+<offer id="2813" available="true" >
+<url>https://syrop.com.ua/otopitelnaya-tehnika/keramicheskie-paneli/keramicheskiy-obogrevatel-ecoteplo-air-700-el-gl-s-termoregulyatorom-programmatorom-seryy-loft</url>
+<price>4799</price>
+<price_old>5200</price_old>
+<currencyId>UAH</currencyId>
+<categoryId>478</categoryId>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/1f.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/277.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/377.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-750-el-seryy.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-back.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-backend.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-korpus.jpg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-termoregulyator-el-reklama.jpg</picture>
+<picture>https://syrop.com.ua/image/cache/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/vnutrennijaljuminievyjtenh-obraznojformy-600x600.jpeg</picture>
+<picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/novye/air700el/keramicheskiy-obogrevatel_-ekoteplo-air-750-me-seryy.jpg</picture>
+<delivery>true</delivery>
+<stock_quantity>57</stock_quantity>
+<name>Керамический обогреватель Ecoteplo AIR 700 EL GL с терморегулятором-программатором, серый лофт</name>
+<name_ua>Керамічний обігрівач Ecoteplo AIR 700 EL GL з терморегулятором-програматором, сірий лофт</name_ua>
+<vendor>ECOTEPLO</vendor>
+<description><![CDATA[<p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Керамический обогреватель Ecoteplo AIR 700 EL&nbsp;</b>с конвекционным тэном для быстрого и экономного обогрева. Одного обогревателя достаточно для комфортной температуры в комнате до 18 кв.м. Тепло, которым можно управлять.</span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><b><span style="font-size: 24px;">Очевидные выгоды:</span><br></b></p><ul><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Обогревает комнату до 18 кв.м. эффективно и экономно.</span><br></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Эффективность: от 59 коп. за 1 кв.м. в сутки (при тарифе 2,64 грн/кВт-ч).</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Гарантированный комфорт и экономия с двумя режимами работы.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Долговременная гарантия: 6 лет.</span></li></ul><p style="margin: 0cm 0cm 6.8pt -7.1pt;"><iframe frameborder="0" src="//www.youtube.com/embed/vfF_O_eJjjo" width="640" height="360" class="note-video-clip"></iframe><span style="font-size: 24px;">&nbsp;</span></p><p style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><br></span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Основные преимущества:</b></span></p><ul><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Одного обогревателя достаточно для комнаты до 18 кв.м.</span><br></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Высокая производительность - обогревает 2 литра воздуха в секунду.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Экономичный - потребляет от 4 кВт на 18 кв.м.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Автоматическое поддержание заданной температуры. При этом можно задавать разную температуру на разное время.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Безопасный - не сжигает кислород и не сушит воздух.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">6 лет гарантии 6 лет гарантии.</span></li></ul><p style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Сфера применения:</b></span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Идеальный для отопления квартир, домов, офисов, салонов и других помещений.</span><br></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Рекомендации по уменьшению затрат на электроэнергию:</b></span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Наибольшее потребление электроэнергии происходит при включении обогревателя после длительного выключения. В этот период обогревателю нужно довольно много времени (от 1 до 30 часов, в зависимости от степени охлаждения помещения) для первичного прогрева помещения и предметов, которые в нем находятся. После длительного первичного прогрева обогреватель будет автоматически включаться на 15-20 минут в течение часа и выключаться, продолжая обогревать за счет керамического теплонакопителя.</span><br></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Поэтому рекомендуем в начале отопительного сезона включить обогреватель, выставить нужную температуру и оставить его подключенным к электросети для дальнейшей автоматической работы.&nbsp;</span><br></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><br></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Ключевые характеристики:</b></span></p><ul><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Мощность:</span><br></li><ul><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Режим ECO: 280 Вт/ч</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Режим Turbo: 700 Вт/ч</span></li></ul><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Площадь обслуживания: до 18 кв.м.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Время работы: до 12 ч в сутки</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Среднесуточное потребление: от 4 до 9 кВт.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Управление: Электронное, терморегулятором и программатором.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Режимы обогрева: 2 режима (ECO, Turbo).</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Монтаж: настенный (ножки в базовую комплектацию не входят, их можно заказать у нас дополнительно)</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Дисплей: Есть</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Возможность программирования: Есть</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Встроенный тепловентилятор: Нет</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Класс защиты от пыли и влаги: IP 21</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Габариты: 60х60х6 см.</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Вес: 14 кг</span></li><li style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">Гарантия: 72 месяца.</span></li></ul><p style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;"><span style="font-size: 24px;"><b>Этот керамический обогреватель Ecoteplo AIR 700 EL предлагает надежную, эффективную и экономную систему отопления. Выбрать комфорт и тепло теперь легко и доступно.</b></span></p>]]></description>
+<description_ua><![CDATA[<p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Керамічний обігрівач Ecoteplo AIR 700 EL </b>з
+конвекційним теном для швидкого та економного обігріву. Одного обігрівача
+достатньо для комфортної температури в кімнаті до 18 кв.м. Тепло, яким можна
+керувати.<o:p></o:p></span></p><p class="MsoNormal"><b><span style="font-size: 16pt;">Очевидні вигоди:</span><br></b></p><ul><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Обігріває кімнату до 18 кв.м. ефективно та
+економно.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Ефективність: від 59 коп. за 1 кв.м. на добу (при
+тарифі 2,64 грн/кВт-год).<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Гарантований комфорт та економія з двома режимами
+роботи.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Довготривала гарантія: 6 років.<o:p></o:p></span></li></ul><p><iframe frameborder="0" src="//www.youtube.com/embed/vfF_O_eJjjo" width="640" height="360" class="note-video-clip"></iframe><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">&nbsp;</span></p><p><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><br></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Основні переваги:</b><o:p></o:p></span></p><ul><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Одного обігрівача достатньо для кімнати до 18
+кв.м.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Висока продуктивність - обігріває 2 літри повітря
+на секунду.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Економічний - споживає від 4 кВт на 18 кв.м.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Автоматична підтримка заданої температури. При
+цьому можна задавати різну температуру на різний час.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Безпечний - не спалює кисень та не сушить повітря.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">6 років гарантії.<o:p></o:p></span></li></ul><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">&nbsp;</span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Сфера застосування:</b><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Ідеальний для опалення квартир, будинків, офісів,
+салонів та інших приміщень.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">&nbsp;</span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Рекомендації щодо зменшення затрат на
+електроенергію:</b><o:p></o:p></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Найбільше споживання електроенергії відбувається
+під час увімкнення обігрівача після тривалого вимкнення. У цей період
+обігрівачу треба доволі багато часу (від 1 до 30 годин, залежно від ступеня
+охолодження приміщення) для первинного прогрівання приміщення і предметів, які
+в ньому знаходяться. Після тривалого первинного прогріву обігрівач буде
+автоматично вмикатися на 15-20 хвилин протягом години і вимикатися, продовжуючи
+обігрівати за рахунок керамічного теплонакопичувача.<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Тому рекомендуємо на початку опалювального сезону
+увімкнути обігрівач, виставити потрібну температуру та залишити його
+під'єднаним до електромережі для подальшої автоматичної роботи.&nbsp;<o:p></o:p></span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">&nbsp;</span></p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Ключові характеристики:</b><o:p></o:p></span></p><ul><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Потужність:<o:p></o:p></span></li><ul><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Режим ECO: 280 Вт/год<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Режим Turbo: 700 Вт/год<o:p></o:p></span></li></ul><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Площа обслуговування: до 18 кв.м.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Час роботи: до 12 год на добу<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Середньодобове споживання: від 4 до 9 кВт.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Управління: Електронне, терморегулятором та
+програматором.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Режими обігріву: 2 режими (ECO, Turbo).<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Монтаж: настінний (ніжки у базову комплектацію не
+входять, їх можна замовити у нас додатково)<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Дисплей: Є<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Можливість програмування: Є<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Вбудований тепловентилятор: Ні<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Клас захисту від пилу та вологи: IP 21<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Габарити: 60х60х6 см.<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Вага: 14 кг<o:p></o:p></span></li><li><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">Гарантія: 72 місяці.<o:p></o:p></span></li></ul><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK">&nbsp;</span></p><p class="MsoNormal" style="margin: 0cm 0cm 6.8pt -7.1pt;">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p><p class="MsoNormal"><span lang="UK" style="font-size:16.0pt;mso-bidi-font-size:
+12.0pt;mso-ansi-language:UK"><b>Цей керамічний обігрівач Ecoteplo AIR 700 EL
+пропонує надійну, ефективну та економну систему опалення. Обрати комфорт і
+тепло тепер легко та доступно.</b><o:p></o:p></span></p>]]></description_ua>
+<param name="Материал корпуса"><value lang="ru">Керамика, алюминий, сталь</value><value lang="uk">Кераміка, алюміній, сталь</value></param>
+<param name="Цвет корпуса"><value lang="ru">Серый</value><value lang="uk">Сірий</value></param>
+<param name="Назначение"><value lang="ru">Бытовой</value><value lang="uk">Побутовий</value></param>
+<param name="Особенности"><value lang="ru">С термостатом 
+С дисплеем 
+2 нагревательных элемента  
+Программируемый  
+С конвекцией воздуха 
+Регулятор мощности  </value><value lang="uk">З термостатом 
+З дисплеєм 
+2 нагрівальні елементи 
+Програмований 
+З конвекцією повітря 
+Регулятор потужності </value></param>
+<param name="Гарантия"><value lang="ru">72 месяца</value><value lang="uk">72 місяці</value></param>
+<param name="Потребляемая мощность"><value lang="ru">700 Вт</value><value lang="uk">700 Вт</value></param>
+<param name="Дисплей"><value lang="ru">Да</value><value lang="uk">Да</value></param>
+<param name="Тип питания"><value lang="ru">Электрический</value><value lang="uk">Електричний</value></param>
+<param name="Управление"><value lang="ru">Электронное</value><value lang="uk">Електронне</value></param>
+<param name="Мощность, Вт"><value lang="ru">700</value><value lang="uk">700</value></param>
+<param name="Питание"><value lang="ru">220 В / 50 Гц</value><value lang="uk">220 В / 50 Гц</value></param>
+<param name="Дополнительные характеристики"><value lang="ru">Усиленный конвекционным тэном. Одного обогревателя достаточно для обогрева комнаты площадью до 18 кв.м.  Алюминиевая кромка защищает от ушибов и повреждений. Автоматически поддерживает заданную температуру. Программируется. Не сжигает кислород, не сушит воздух.</value><value lang="uk">Посилений конвекційним теном. Одного обігрівача достатньо для обігріву кімнати площею до 18 кв.м. Алюмінієва кромка захищає від ударів та пошкоджень. Автоматично підтримує задану температуру. Програмується. Не спалює кисень, не сушить повітря. </value></param>
+<param name="Ножки"><value lang="ru">Нет (можно приобрести дополнительно)</value><value lang="uk">Немає (можна придбати додатково)</value></param>
+<param name="Количество режимов работы"><value lang="ru">2 </value><value lang="uk">2 </value></param>
+<param name="Тип нагревательного элемента"><value lang="ru">Закрытый</value><value lang="uk">Закритий</value></param>
+<param name="Возможность использования в ванных комнатах"><value lang="ru">Нет</value><value lang="uk">Не має</value></param>
+<param name="Тип крепления держателя"><value lang="ru">Настенный, напольный при дополнительном приобретении ножек</value><value lang="uk">Настінний, при додатковому придбанні ніжок - підлоговоий</value></param>
+<param name="Вес (кг)"><value lang="ru">14</value><value lang="uk">14</value></param>
+<param name="Управление"><value lang="ru">Электронное</value><value lang="uk">Електронне</value></param>
+<param name="Площадь обслуживания, кв.м"><value lang="ru">18</value><value lang="uk">18</value></param>
+<param name="Встроенный тепловентилятор"><value lang="ru">Нет</value><value lang="uk">Не має</value></param>
+<param name="Возможность программирования"><value lang="ru">Да</value><value lang="uk">Є</value></param>
+<param name="Функции защиты"><value lang="ru">Защита от ожогов  
+Защита от перегрева </value><value lang="uk">Захист від опіків 
+Захист від перегріву </value></param>
+<param name="Страна регистрации бренда"><value lang="ru">Украина</value><value lang="uk">Україна</value></param>
+<param name="Наличие шнура питания"><value lang="ru">Да</value><value lang="uk">Є</value></param>
+<param name="Вид нагревательного элемента"><value lang="ru">Керамический</value><value lang="uk">Керамічний</value></param>
+<param name="Доставка/Оплата"><value lang="ru">Прямые поставки со склада производителя. Из-за большого количества заказов срок отправки может составлять 3-5 дней. Ножки продаются отдельно.</value><value lang="uk">Прямі поставки зі складу виробника. Через велику кількість замовлень термін відправки може становити 3-5 днів. Ніжки продаються окремо.</value></param>
+<param name="Вид"><value lang="ru">Керамический обогреватель</value><value lang="uk">Керамічний обігрівач</value></param>
+<param name="Тип источника энергии"><value lang="ru">Электрический</value><value lang="uk">Електричний</value></param>
+<param name="Материал теплонакопителя"><value lang="ru">Керамика</value><value lang="uk">Кераміка</value></param>
+<param name="Страна производитель"><value lang="ru">Украина</value><value lang="uk">Україна</value></param>
+<param name="Рекомендуемая площадь помещения при основном обогреве (кв.м.)"><value lang="ru">до 18</value><value lang="uk">до 18</value></param>
+<param name="Рекомендуемая площадь при дополнительном обогреве (кв.м.)"><value lang="ru">до 18</value><value lang="uk">до 18</value></param>
+<param name="Рекомендуемый объем помещения при основном обогреве (куб.м.)"><value lang="ru">до 45</value><value lang="uk">до 45</value></param>
+<param name="Мобильность"><value lang="ru">Стационарная установка</value><value lang="uk">Стаціонарна установка. При додатковому придбанні ніжок - мобільний. </value></param>
+<param name="Рабочая температура поверхности"><value lang="ru">до 90 °С (регулируется)</value><value lang="uk">до 90 °С (регулюється)</value></param>
+<param name="Класс защиты корпусов электронного оборудования"><value lang="ru">IP21</value><value lang="uk">IP21</value></param>
+<param name="Габариты (ВхШхГ), мм"><value lang="ru">600х600х60 мм</value><value lang="uk">600х600х60 мм</value></param>
+<param name="Встроенный терморегулятор"><value lang="ru">ДА</value><value lang="uk">Є</value></param>
+<param name="EAN"><value lang="ru">2230110381012</value><value lang="uk">2230110381012</value></param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
