@@ -9,7 +9,7 @@
 <currency id="UAH" rate="1" />
 </currencies>
 <categories>
-<category id="92">Товары для дома</category>
+<category id="335">Науники</category>
 </categories>
 <offers>
 <offer id="1542" available="false" >
@@ -279,7 +279,7 @@ Apple-сумісність
 <price>4799</price>
 <price_old>5200</price_old>
 <currencyId>UAH</currencyId>
-<categoryId>478</categoryId>
+<categoryId>335</categoryId>
 <picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/1f.jpg</picture>
 <picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/277.jpg</picture>
 <picture>https://syrop.com.ua/image/catalog/tovary/obogrevateli/ekoteplo/sl_nov/377.jpg</picture>
