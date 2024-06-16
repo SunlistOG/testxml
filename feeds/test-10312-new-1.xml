@@ -1,0 +1,84 @@
+<yml_catalog date="2023-09-27 10:33">
+<shop>
+<name>Barsky goods</name>
+<company>Barsky</company>
+<platform>Opencart</platform>
+<url>https://barsky.ua/</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Мебель</category>
+<category id="2">Кресла</category>
+<category id="3">Столы</category>
+<category id="4">Аксессуары</category>
+</categories>
+<offers>
+<offer id="test-10312-new" available="true">
+<name>Стул Delta DE BR F80-N6 ldseating</name>
+<model>Delta-DE-BR-F80-N6_po</model>
+<url>
+<![CDATA[ https://barsky.ua/stul-delta-de-br-f80-n6-ldseating/ ]]>
+</url>
+<price>30000</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE%20BR%20F80-N6/Delta%20DE%20BR%20F80-N6.png</picture>
+<vendor>Barsky</vendor>
+<stock_quantity>0</stock_quantity>
+<description>
+<![CDATA[ вращающееся кресло для конференций регулируемая по высоте полностью обитый корпус мягкие подлокотники полированная 5-звездочная алюминиевая основа черные колесики для ковров, &Oslash; 60 мм Стул доступен в следующих цветах: К данной модели можно приобрести следующие аксессуары: RM60 черные резиновые ролики для твердых полов, &Oslash; 60 мм RM-N4 универсальные ролики, &Oslash; 60 мм хромированный двухколесный ролик TD-01 приставной столик из белой плиты HPL с черной сердцевиной Размер 380 х 230 мм только для моделей без подлокотников ]]>
+</description>
+<param name="Глубина">700 мм</param>
+<param name="Ширина кресла, см">700 мм</param>
+<param name="Высота кресла, см">830-940 мм</param>
+<param name="Высота от пола до сиденья">430-540 мм</param>
+<param name="Высота кресла_RU">105 см</param>
+<param name="Высота кресла_UA">105 см</param>
+</offer>
+<offer id="test-10312-updated" available="true">
+<name>Двухместная скамья Delta DE-K2-N4 ldseating</name>
+<model>Delta-DE-K2-N4_po</model>
+<url>
+<![CDATA[ https://barsky.ua/dvuhmestnaya-skamya-delta-de-k2-n4-ldseating/ ]]>
+</url>
+<price>40000</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE-K2-N4/Delta_DE-K2-N4_p.jpg</picture>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE-K2-N4/Delta_DE-K2-N4_po.jpg</picture>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE-K2-N4/Delta_DE-K2-N4_TD-01_po.jpg</picture>
+<vendor>Barsky</vendor>
+<stock_quantity>0</stock_quantity>
+<description>
+<![CDATA[ двухместная скамья полностью обитый корпус без подлокотников Основание из хромированной стали на 4 ножках пластиковые планеры Модель доступна в следующих цветах: К данной модели можно приобрести следующие аксессуары: RM60 черные резиновые ролики для твердых полов, &Oslash; 60 мм RM-N4 универсальные ролики, &Oslash; 60 мм хромированный двухколесный ролик TD-01 приставной столик из белой плиты HPL с черной сердцевиной Размер 380 х 230 мм только для моделей без подлокотников ]]>
+</description>
+<param name="Глубина">580 мм</param>
+<param name="Ширина">1030 мм</param>
+<param name="Высота">770 мм</param>
+<param name="Высота от пола до сиденья">390 мм</param>
+</offer>
+<offer id="test-10312-in-progress" available="true">
+<name>Двухместная скамья Delta DE-K2-N4 BR ldseating</name>
+<model>Delta-DE-K2-N4-BR_po</model>
+<url>
+<![CDATA[ https://barsky.ua/dvuhmestaya-skamya-delta-de-k2-n4-br-ldseating/ ]]>
+</url>
+<price>50000</price>
+<currencyId>UAH</currencyId>
+<categoryId>1</categoryId>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE-K2-N4%20BR/Delta%20DE-K2-N4%20BR.png</picture>
+<picture>https://barsky.ua/image/catalog/kresla/Delta%20DE-K2-N4/Delta_DE-K2-N4_po.jpg</picture>
+<vendor>Barsky</vendor>
+<stock_quantity>0</stock_quantity>
+<description>
+<![CDATA[ двухместная скамья полностью обитый корпус мягкие подлокотники Основание из хромированной стали на 4 ножках пластиковые планеры Модель доступна в следующих цветах: К данной модели можно приобрести следующие аксессуары: RM60 черные резиновые ролики для твердых полов, &Oslash; 60 мм RM-N4 универсальные ролики, &Oslash; 60 мм хромированный двухколесный ролик TD-01 приставной столик из белой плиты HPL с черной сердцевиной Размер 380 х 230 мм только для моделей без подлокотников ]]>
+</description>
+<param name="Глубина">580 мм</param>
+<param name="Ширина">1130 мм</param>
+<param name="Высота">770 мм</param>
+<param name="Высота от пола до сиденья">390 мм</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

@@ -1,0 +1,194 @@
+<yml_catalog date="2023-01-11 20:05">
+    <shop>
+      <name>Dragon</name>
+      <company>Dragon</company>
+      <url>Dragon</url>
+      <currencies>
+        <currency id="UAH" rate="1.0" />
+      </currencies>
+      <categories>
+        <category id="1">Чехлы</category>
+      </categories>
+      <offers>
+        <offer id="amp-325-cdata-case-1" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Їжак (hedgehog) для Apple iPhone 11"]]></name>
+          <description>TEST</description>
+          <description_ua>TEST</description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+        <offer id="amp-325-cdata-case-2" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/mandalorian/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Мандалорець (mandalorian) для Apple iPhone 11"]]></name>
+          <description><![CDATA[<p>
+          <strong>Форм-фактор</strong>– накладка<br>
+          <strong>Материал</strong>– термополиуретан (TPU)<br>
+          <strong>Поверхность</strong>– гладкая, прозрачная<br>
+          <strong>Торцы</strong>- прозрачные<br>
+          <strong>Толщина</strong>– 1.5 мм<br>
+          <strong>Функциональное обеспечение</strong>– проемы под камеру, микрофон, регулятор громкости и внешние порты. Яркий, стильный дизайн на любой вкус
+      </p>]]></description>
+          <description_ua><![CDATA[<p>
+      <strong>Форм-фактор</strong>– накладка<br>
+      <strong>Матеріал</strong>– термополіуретан (TPU)<br>
+      <strong>Поверхня</strong>– гладка, прозора<br>
+      <strong>Торці</strong>- прозорі<br>
+      <strong>Товщина</strong>– 1.5 мм<br>
+      <strong>Функціональне забезпечення</strong>– прорізи під камеру, мікрофон, регулятор гучності та зовнішні порти. Яскравий, стильний дизайн на будь-який смак
+      </p>]]></description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+        <offer id="amp-325-cdata-case-1" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/mandalorian1/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Мандалорець 2 (mandalorian) для Apple iPhone 11"]]></name>
+          <description><![CDATA[<p>
+          <strong>Форм-фактор</strong>– накладка<br>
+          <strong>Материал</strong>– термополиуретан (TPU)<br>
+          <strong>Поверхность</strong>– гладкая, прозрачная<br>
+          <strong>Торцы</strong>- прозрачные<br>
+          <strong>Толщина</strong>– 1.5 мм<br>
+          <strong>Функциональное обеспечение</strong>– проемы под камеру, микрофон, регулятор громкости и внешние порты. Яркий, стильный дизайн на любой вкус
+      </p>]]></description>
+          <description_ua><![CDATA[<p>
+      <strong>Форм-фактор</strong>– накладка<br>
+      <strong>Матеріал</strong>– термополіуретан (TPU)<br>
+      <strong>Поверхня</strong>– гладка, прозора<br>
+      <strong>Торці</strong>- прозорі<br>
+      <strong>Товщина</strong>– 1.5 мм<br>
+      <strong>Функціональне забезпечення</strong>– прорізи під камеру, мікрофон, регулятор гучності та зовнішні порти. Яскравий, стильний дизайн на будь-який смак
+      </p>]]></description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+        <offer id="amp-325-cdata-case-3" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/mandalorian1/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name>TEST</name>
+          <description>TEST</description>
+          <description_ua><![CDATA[<p>
+      <strong>Форм-фактор</strong>– накладка<br>
+      <strong>Матеріал</strong>– термополіуретан (TPU)<br>
+      <strong>Поверхня</strong>– гладка, прозора<br>
+      <strong>Торці</strong>- прозорі<br>
+      <strong>Товщина</strong>– 1.5 мм<br>
+      <strong>Функціональне забезпечення</strong>– прорізи під камеру, мікрофон, регулятор гучності та зовнішні порти. Яскравий, стильний дизайн на будь-який смак
+      </p>]]></description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+           <offer id="amp-325-cdata-case-4" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Їжак (hedgehog) для Apple iPhone 11"]]></name>
+          <description>TEST-503-1</description>
+          <description_ua>TEST-503-1</description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+           <offer id="amp-325-cdata-case-4" available="true">
+          <price>200</price>
+          <price_promo>200</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Їжак (hedgehog) для Apple iPhone 11"]]></name>
+          <description>TEST-503-2</description>
+          <description_ua>TEST-503-2</description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+        <offer id="amp-325-cdata-case-4" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Їжак (hedgehog) для Apple iPhone 11"]]></name>
+          <description>TEST-503-3</description>
+          <description_ua>TEST-503-3</description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+        <offer id="amp-325-cdata-case-5" available="true">
+          <price>299</price>
+          <price_promo>229</price_promo>
+          <vendor>ItsPrint</vendor>
+          <stock_quantity>9999</stock_quantity>
+          <currencyId>UAH</currencyId>
+          <categoryId>1</categoryId>
+          <picture>https://demsky.com.ua/image/maket/hedgehog/Apple%20iPhone%2011%2c%2012%20%d0%ba%d0%be%d0%bf%d0%b8%d1%8f.png</picture>
+          <name><![CDATA[TPU чохол Їжак (hedgehog) для Apple iPhone 11"]]></name>
+          <description>TEST-503</description>
+          <description_ua>TEST-503</description_ua>
+          <param name="Форм-фактор">Накладка</param>
+          <param name="Материал">TPU</param>
+          <param name="Особенности чехла">Противоударный</param>
+          <param name="Цвет">С принтом</param>
+          <param name="Совместимый бренд">Apple iPhone</param>
+          <param name="Совместимая модель">Apple iPhone 11</param>
+        </offer>
+      </offers>
+    </shop>
+  </yml_catalog>

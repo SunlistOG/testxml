@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-03-21 05:09">
+	<shop>
+		<name>OneKlik</name>
+		<company>OneKlik</company>
+		<url>https://oneklik.com.ua</url>
+		<platform>horoshop</platform>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="20524">Чехлы для мобильных телефонов</category>
+		</categories>
+		<offers>
+			<offer id="060610_8" available="false">
+				<url>https://oneklik.com.ua/chekhol-gkk-360-gradusov-dlya-samsung-galaxy-a8-2018-tsvet-cherno-krasnyy/</url>
+				<price>304</price>
+				<price_old>352</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>20524</categoryId>
+				<picture>https://oneklik.com.ua/content/images/11/31847088642074_+73f8641fe3.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/11/24572926538764_+86b2750476.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/11/29616411839067_+8c1b047bab.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/10/77110543613388_+58599f2c71.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/10/85085383108812_+069e602910.jpeg</picture>
+				<vendor>GKK</vendor>
+				<stock_quantity>0</stock_quantity>
+				<name_ua>Чохол GKK 360 градусів для Samsung Galaxy A8 (2018) Чорно-Червоний (060610_8)</name_ua>
+				<description_ua><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp;<strong> &nbsp;Чохол GKK360 на Samsung Galaxy A8 (2018) </strong> виготовлений з міцного пластика покритого антиковзаючим напиленням <strong>Soft Touch.</strong> Кейс складається з трьох частин завдяки чому кути смартфону знаходяться під максимальним захистом.</span></p><p style="text-align: justify;"><span style="font-size:14px;"><b>&nbsp; &nbsp;Цей чохол сумісний практично з усіма видами захисних стекол.</b></span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Чохол для Samsung Galaxy А8 (2018) має свої кнопки які дуже зручно натискаються. Вирізи під усі роз&#39;єми зроблені акуратно. <strong>Навколо камери чохол має </strong><b>невеликий борт</b>, він зроблений для того, щоб <b>захистити камеру</b>, що виступає.</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➊</span> максимальний захист 360;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp;➋</span> сучасний дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➌</span> не ковзає в руці;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➍</span> компактний розмір;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➎</span> відмінна ціна.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<em> Samsung Galaxy A8 (2018) GKK 360 це одно з кращих рішення для вашого девайса.</span></p>]]></description_ua>
+				<name>Чехол GKK 360 градусов для Samsung Galaxy A8 (2018) Черно-Красный (060610_8)</name>
+				<description><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp; <strong>&nbsp;Чехол GKK 360 на Samsung Galaxy A8 </strong> изготовлен из прочного пластика покрытого анти скользящим напылением <strong>Soft Touch.</strong> Кейс состоит из трех частей,&nbsp; благодаря&nbsp; чему углы смартфона находятся под максимальной защитой.</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<strong>Данный чехол совместим практически со всеми видами защитных стекол.</strong></span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Чехол для Samsung Galaxy А8 имеет свои кнопки, которые очень удобно нажимаются. Вырезы под все разъёмы сделаны аккуратно. <strong>Вокруг камеры чехол имеет небольшой бортик,</strong> он сделан для того чтобы защитить выступающую камеру.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➊ </span></span></span>&nbsp;&nbsp;максимальная защита 360;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➋&nbsp; </span></span></span>современный дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➌&nbsp; </span></span></span>не скользит в руке;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➍</span></span></span> &nbsp;&nbsp;компактный размер<span style="background:#f5f5ff"><span style="font-family:"Verdana","sans-serif""><span style="color:black">;</span></span></span></span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➎</span></span></span> &nbsp; отличная цена.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<em> Samsung Galaxy A8 GKK 360 это одно из лучших решений</em>&nbsp;для вашего девайса.</span></p>]]></description>
+				<param name="EAN">1</param>
+				<param name="Совместимый бренд">GKK</param>
+				<param name="Гарантия"><![CDATA[14 дней]]></param>
+				<param name="Особенности">Противоударный, Противоударный, Детский, Для занятий спортом, Покрытие soft touch, Защита всего корпуса, Возможность использовать беспроводное ЗУ</param>
+				<param name="Материал"><![CDATA[Пластик]]></param>
+				<param name="Форм-фактор"><![CDATA[Бампер]]></param>
+				<param name="Совместимый бренд">Samsung</param>
+				<param name="Совместимая модель">Galaxy A8 2018</param>
+				<param name="Страна регистрации бренда"><![CDATA[Китай]]></param>
+				<param name="Страна-производитель товара">Китай</param>
+				<param name="Цвет"><![CDATA[Black-Red]]></param>
+				<param name="Доставка/Оплата">Отправим сегодня. При оформлении заказа до 17:00. Доставка от 1 до 7 дней, в зависимости от службы доставки</param>
+				<param name="Дополнительные характеристики"><![CDATA[Совместимая серия: Galaxy<br/> ]]></param>
+			</offer>
+			<offer id="060614" available="false">
+				<url>https://oneklik.com.ua/chekhol-bamper-s-pokrytiem-soft-touch-dlya-samsung-galaxy-a8-2018/</url>
+				<price>104</price>
+				<price_old>210</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>20524</categoryId>
+				<picture>https://oneklik.com.ua/content/images/13/11736733048219_+48d3070207.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/13/29758254142499_+59a36da210.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/13/68168144296274_+99edb9c235.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/13/14052725127895_+5681dcbeb6.jpeg</picture>
+				<vendor>NoName</vendor>
+				<stock_quantity>0</stock_quantity>
+				<name_ua>Чохол Бампер з покриттям Soft-touch для Samsung Galaxy A8 (2018) (060614)</name_ua>
+				<description_ua><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Чохол з покриттям Soft-Touch на Samsung Galaxy A8 (2018) виконаний з <b>високоякісного пластика</b>, з антиковзаючим покриттям. Кейс цілісний - не має складових частин. Стійкий до подряпин і не стирається. Чохол на Samsung Galaxy А8 (2018) досить компактний і дуже зручно лежить в руці. Аксесуар для Samsung Galaxy A8 (2018) має <b>стриманий дизайн</b>.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:"MS Gothic"">&nbsp; &nbsp; ➊</span> компактність;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:"MS Gothic"">&nbsp; &nbsp; ➋ </span>не ковзає в руці;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:"MS Gothic"">&nbsp; &nbsp; ➌</span>&nbsp; приємна ціна<span style="font-family:"MS Gothic"">.</span></span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Samsung Galaxy A8 (2018) Чохол c покриттям Soft-Touch це дійсно хороший варіант для вашого девайса.</span></p>]]></description_ua>
+				<name>Чехол Бампер с покрытием Soft-touch для Samsung Galaxy A8 (2018) (060614)</name>
+				<description><![CDATA[<p style="text-align:justify"><span style="font-size:14px;">&nbsp; &nbsp;Чехол с покрытием Soft-Touch на Samsung Galaxy A8 выполнен из <b>высококачественного пластика</b>, с антискользящим покрытием. Кейс цельный -&nbsp;не имеет составных частей. Устойчив&nbsp;к царапинам и не стирается. Чехол наSamsung Galaxy А8 достаточно компактный и очень удобно лежит в руке. Аксессуар для Samsung Galaxy A8 имеет <b>сдержанный дизайн</b>.</span></p><p style="text-align:justify">&nbsp;</p><p style="text-align:justify"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➊ </span></span></span>компактность;</span></p><p style="text-align:justify"><span style="font-size:14px;"><b><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➋ </span></span></span></b>не скользит в руке;</span></p><p style="text-align:justify"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➌</span></span></span> приятная цена.</span></p><p style="text-align:justify">&nbsp;</p><p style="text-align:justify"><span style="font-size:14px;">&nbsp; &nbsp;Samsung Galaxy A8 Чехол c покрытием Soft-Touch это действительно хороший вариант для вашего девайса.</span></p>]]></description>
+				<param name="EAN">1</param>
+				<param name="Совместимый бренд">NoName</param>
+				<param name="Гарантия"><![CDATA[14 дней]]></param>
+				<param name="Особенности">Противоударный, Детский, Для занятий спортом, Защита всего корпуса, Возможность использовать беспроводное ЗУ</param>
+				<param name="Материал"><![CDATA[Пластик]]></param>
+				<param name="Форм-фактор"><![CDATA[Бампер]]></param>
+				<param name="Совместимый бренд">Samsung</param>
+				<param name="Совместимая модель">Galaxy A8 2018</param>
+				<param name="Страна регистрации бренда"><![CDATA[Китай]]></param>
+				<param name="Страна-производитель товара">Китай</param>
+				<param name="Цвет"><![CDATA[Black]]></param>
+				<param name="Доставка/Оплата">Отправим сегодня. При оформлении заказа до 17:00. Доставка от 1 до 7 дней, в зависимости от службы доставки</param>
+				<param name="Дополнительные характеристики"><![CDATA[Совместимая серия: Galaxy<br/> ]]></param>
+			</offer>
+			<offer id="060616" available="false">
+				<url>https://oneklik.com.ua/chekhol-knizhka-s-karmanami-dlya-kart-dlya-samsung-galaxy-a8-2018/</url>
+				<price>335</price>
+				<price_old>367</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>20524</categoryId>
+				<picture>https://oneklik.com.ua/content/images/17/54994733439412_+525300dfc2.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/17/33782088525551_+8a48ab2712.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/17/22639296514956_+23a37bd8ab.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/17/74300093380388_+afe3ae5860.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/17/32877072814193_+b8fcc62970.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/17/99732989875833_+63ddf44afc.jpeg</picture>
+				<vendor>NoName</vendor>
+				<stock_quantity>0</stock_quantity>
+				<name_ua>Чохол книжка з кишенями для карт на Samsung Galaxy A8 (2018) (060616)</name_ua>
+				<description_ua><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp; Чохол-книжка на Samsung Galaxy A8 (2018) виготовлена з <b>якісного кож-зама</b>. Має <b>магнітну застібку</b>, що запобігає довільним відкриттям кришки чохла.</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp; Чохол-книжка для Samsung Galaxy А8 має відсік для невеликої суми грошей і декілька відсіків для кредитних карт. Приємний на дотик і досить <b>компактний,</b> не дивлячись на свій функціонал. Книжка так само має <b>функцію підставки</b>, це зручно для перегляду відеозображень.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp; <span style="font-family:"MS Gothic"">➊</span> відмінний захист;</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp; <span style="font-family:"MS Gothic"">➋</span> строгий дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp; <span style="font-family:"MS Gothic"">➌</span> не ковзає в руці;</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp; <span style="font-family:"MS Gothic"">➍</span> відсіки для банкнотів;</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;&nbsp; <span style="font-family:"MS Gothic"">➎</span> відмінна ціна.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp; Samsung Galaxy A8 Чохол-книжка це одно з кращих рішення для вашого девайса.</span></p>]]></description_ua>
+				<name>Чехол-Книжка с карманами для карт для Samsung Galaxy A8 (2018) (060616)</name>
+				<description><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp; Чехол-книжка на Samsung Galaxy A8 изготовлен из <b>качественного кож-зама</b>. Имеет <b>магнитную застежку</b>, что предотвращает произвольные открытия крышки чехла.</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp; Чехол-книжка для Samsung Galaxy А8 имеет отсек для небольшой суммы денег и несколько отсеков для кредитных карт. Приятный на ощупь и достаточно <b>компактный,</b> не смотря на свой функционал. Книжка так же имеет <b>функцию подставки</b>, это удобно для просмотра видеоизображений.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span gothic="" ms="" style="font-family:"><span style="color:black">&nbsp;&nbsp;&nbsp; ➊ </span></span></span>отличная защита;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span gothic="" ms="" style="font-family:"><span style="color:black">&nbsp;&nbsp;&nbsp; ➋ </span></span></span>строгий дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span gothic="" ms="" style="font-family:"><span style="color:black">&nbsp;&nbsp;&nbsp; ➌ </span></span></span>не скользит&nbsp; в руке;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span gothic="" ms="" style="font-family:"><span style="color:black">&nbsp;&nbsp;&nbsp; ➍</span></span></span> отсеки для банкнот;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span gothic="" ms="" style="font-family:"><span style="color:black">&nbsp;&nbsp;&nbsp; ➎</span></span></span> отличная цена.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp;&nbsp;Samsung Galaxy A8 Чехол-книжка это одно из лучших&nbsp; решение для вашего девайса.</span></p>]]></description>
+				<param name="EAN">1</param>
+				<param name="Совместимый бренд">NoName</param>
+				<param name="Гарантия"><![CDATA[14 дней]]></param>
+				<param name="Особенности">Противоударный, Детский, Для занятий спортом, Защита всего корпуса, Отделение для пластиковых карт, С подставкой</param>
+				<param name="Материал"><![CDATA[Искусственная кожа + силикон]]></param>
+				<param name="Форм-фактор"><![CDATA[Чехол-книжка]]></param>
+				<param name="Совместимый бренд">Samsung</param>
+				<param name="Совместимая модель">Galaxy A8 2018</param>
+				<param name="Страна регистрации бренда"><![CDATA[Китай]]></param>
+				<param name="Страна-производитель товара">Китай</param>
+				<param name="Цвет"><![CDATA[Black]]></param>
+				<param name="Доставка/Оплата">Отправим сегодня. При оформлении заказа до 17:00. Доставка от 1 до 7 дней, в зависимости от службы доставки</param>
+				<param name="Дополнительные характеристики"><![CDATA[Совместимая серия: Galaxy<br/> ]]></param>
+			</offer>
+			<offer id="060701" available="true">
+				<url>https://oneklik.com.ua/zashchitnoe-steklo-2.5d-na-ves-ekran-dlya-samsung-galaxy-a8-plus-2018/</url>
+				<price>230</price>
+				<price_old>262</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>20524</categoryId>
+				<picture>https://oneklik.com.ua/content/images/18/37909090390542_+c3f59289cd.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/18/51802059179363_+715c5350a7.jpeg</picture>
+				<vendor>AndSer</vendor>
+				<stock_quantity>3</stock_quantity>
+				<name_ua>Захисне скло AndSer Full Glue 3D для Samsung Galaxy A8 Plus Чорне (2018) Чорне (060701)</name_ua>
+				<description_ua><![CDATA[<p style="margin-top: 12pt; text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Захисне скло 3d Andser (з клеєм по усій поверхні ) на Samsung Galaxy A8 Plus (2018) це краще <b>рішення для захисту екрану</b>. Скло має товщину <b>0.33мм</b>, що робить його практично не помітним. <b>Міцність 9</b><b>H</b> принимає на себе досить сильні удари. </span></p> <p style="margin-top: 12pt; text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Захисне скло на Samsung Galaxy А8 Plus (2018) має <b>клей по усій поверхні</b> у відмінності від інших аналогів, які клеяться по контуру. За рахунок цього, скло передає зображення максимально чітко і без спотворень. </span></p> <p style="margin-top: 12pt; text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Скло має <b>олеофобне покриття</b> і палець відмінно ковзає по поверхні. Так само легко витираються відбитки і жирні сліди. Скло для Samsung Galaxy A8 Plus (2018) <b>покриває усю площу</b> екрану і забезпечує максимальний захист. </span></p> <p style="margin-top: 12pt; text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Захисне скло це незамінний аксесуар, адже погодитеся, що краще замінити захисне скло чим сам дисплей гаджета.</span></p> <p style="text-align: justify;">&nbsp;</p>]]></description_ua>
+				<name>Защитное стекло AndSer Full Glue 3D для Samsung Galaxy A8 Plus (2018) Черное (060701)</name>
+				<description><![CDATA[<p style="margin-top: 12pt; text-align: justify;">&nbsp; &nbsp;Защитное стекло 3D Andser (с клеем по всей поверхности) на Samsung Galaxy A8 Plus это лучшее <strong>решение для&nbsp; защиты экрана</strong>. Стекло имеет <strong>толщину 0.33мм</strong>, что делает его практически не заметным. <strong>Прочность 9</strong><strong>H</strong> принимает на себя достаточно <strong>сильные удары.</strong></p> <p style="margin-top: 12pt; text-align: justify;">&nbsp; &nbsp;Защитное стекло на Samsung Galaxy А8 Plus имеет <strong>клей по всей поверхности</strong> в отличии от других аналогов, которые клеятся по контуру. За счет этого, стекло передает изображение максимально четко и <strong>без искажений</strong>.</p> <p style="margin-top: 12pt; text-align: justify;">&nbsp; &nbsp;Стекло имеет <strong>олеофобное покрытие</strong> и палец отлично скользит по поверхности. Так же <strong>легко вытираются</strong> отпечатки и жирные следы. Стекло для Samsung Galaxy A8 Plus<strong> покрывает всю площадь </strong> экрана и обеспечивает максимальную защиту.</p> <p style="margin-top: 12pt; text-align: justify;"><span style="font-size: 14px;">Защитное стекло это незаменимый аксессуар, ведь согласитесь, что лучше заменить защитное стекло чем сам Защитное стекло этодисплей гаджета. </span></p> <p style="text-align: justify;">&nbsp;</p>]]></description>
+				<param name="Совместимый бренд">AndSer</param>
+				<param name="Гарантия"><![CDATA[14 дней]]></param>
+				<param name="Особенности">Противоударный, Углы закругленные</param>
+				<param name="Материал"><![CDATA[Стекло]]></param>
+				<param name="Форм-фактор"><![CDATA[Полноэкранное 3D]]></param>
+				<param name="Совместимый бренд">Samsung</param>
+				<param name="Совместимая модель">Galaxy A8 Plus 2018</param>
+				<param name="Страна регистрации бренда"><![CDATA[Украина]]></param>
+				<param name="Страна-производитель товара">Україна</param>
+				<param name="Цвет"><![CDATA[Black]]></param>
+				<param name="Доставка/Оплата">Отправим сегодня. При оформлении заказа до 17:00. Доставка от 1 до 7 дней, в зависимости от службы доставки</param>
+				<param name="Дополнительные характеристики"><![CDATA[Совместимая серия: Galaxy<br/> ]]></param>
+			</offer>
+			<offer id="060710_1" available="false">
+				<url>https://oneklik.com.ua/chekhol-gkk-360-gradusov-dlya-samsung-galaxy-a8-plus-2018-tsvet-chernyy/</url>
+				<price>304</price>
+				<price_old>352</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>20524</categoryId>
+				<picture>https://oneklik.com.ua/content/images/22/70400534811299_+3f19682505.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/22/18081499083853_+936ea00bad.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/20/62680906912015_+6197811b88.jpeg</picture>
+				<picture>https://oneklik.com.ua/content/images/20/77836282276954_+c9f3e1f1e2.jpeg</picture>
+				<vendor>GKK</vendor>
+				<stock_quantity>0</stock_quantity>
+				<name_ua>Чохол GKK 360 градусів для Samsung Galaxy A8 Plus (2018) Чорний (060710_1)</name_ua>
+				<description_ua><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp;<strong> &nbsp;Чохол GKK360 на Samsung Galaxy A8 Plus (2018) </strong> виготовлений з міцного пластика покритого антиковзаючим напиленням <strong>Soft Touch.</strong> Кейс складається з трьох частин завдяки чому кути смартфону знаходяться під максимальним захистом.</span></p><p style="text-align: justify;"><span style="font-size:14px;"><b>&nbsp; &nbsp;Цей чохол сумісний практично з усіма видами захисних стекол.</b></span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Чохол для Samsung Galaxy А8 Plus (2018) має свої кнопки які дуже зручно натискаються. Вирізи під усі роз&#39;єми зроблені акуратно. <strong>Навколо камери чохол має </strong><b>невеликий борт</b>, він зроблений для того, щоб <b>захистити камеру</b>, що виступає.</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➊</span> максимальний захист 360;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp;➋</span> сучасний дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➌</span> не ковзає в руці;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➍</span> компактний розмір;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span gothic="" ms="">&nbsp; &nbsp; ➎</span> відмінна ціна.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<em> Samsung Galaxy A8 Plus (2018) GKK 360 це одно з кращих рішення для вашого девайса.</span></p>]]></description_ua>
+				<name>Чехол GKK 360 градусов для Samsung Galaxy A8 Plus (2018) Черный (060710_1)</name>
+				<description><![CDATA[<p style="text-align: justify;"><span style="font-size:14px;">&nbsp; <strong>&nbsp;Чехол GKK 360 на Samsung Galaxy A8 Plus </strong> изготовлен из прочного пластика покрытого анти скользящим напылением <strong>Soft Touch.</strong> Кейс состоит из трех частей,&nbsp; благодаря&nbsp; чему углы смартфона находятся под максимальной защитой.</span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<strong>Данный чехол совместим практически со всеми видами защитных стекол.</strong></span></p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;Чехол для Samsung Galaxy А8 Plus имеет свои кнопки, которые очень удобно нажимаются. Вырезы под все разъёмы сделаны аккуратно. <strong>Вокруг камеры чехол имеет небольшой бортик,</strong> он сделан для того чтобы защитить выступающую камеру.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➊ </span></span></span>&nbsp;&nbsp;максимальная защита 360;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➋&nbsp; </span></span></span>современный дизайн;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➌&nbsp; </span></span></span>не скользит в руке;</span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➍</span></span></span> &nbsp;&nbsp;компактный размер<span style="background:#f5f5ff"><span style="font-family:"Verdana","sans-serif""><span style="color:black">;</span></span></span></span></p><p style="text-align: justify;"><span style="font-size:14px;"><span style="background:#f5f5ff"><span style="font-family:"MS Gothic""><span style="color:black">&nbsp; &nbsp; ➎</span></span></span> &nbsp; отличная цена.</span></p><p style="text-align: justify;">&nbsp;</p><p style="text-align: justify;"><span style="font-size:14px;">&nbsp; &nbsp;<em> Samsung Galaxy A8 Plus GKK 360 это одно из лучших решений</em>&nbsp;для вашего девайса.</span></p>]]></description>
+				<param name="EAN">1</param>
+				<param name="Совместимый бренд">GKK</param>
+				<param name="Гарантия"><![CDATA[14 дней]]></param>
+				<param name="Особенности">Противоударный, Противоударный, Детский, Для занятий спортом, Покрытие soft touch, Защита всего корпуса, Возможность использовать беспроводное ЗУ</param>
+				<param name="Материал"><![CDATA[Пластик]]></param>
+				<param name="Форм-фактор"><![CDATA[Бампер]]></param>
+				<param name="Совместимый бренд">Samsung</param>
+				<param name="Совместимая модель">Galaxy A8 Plus 2018</param>
+				<param name="Страна регистрации бренда"><![CDATA[Китай]]></param>
+				<param name="Страна-производитель товара">Китай</param>
+				<param name="Цвет"><![CDATA[Black]]></param>
+				<param name="Доставка/Оплата">Отправим сегодня. При оформлении заказа до 17:00. Доставка от 1 до 7 дней, в зависимости от службы доставки</param>
+				<param name="Дополнительные характеристики"><![CDATA[Совместимая серия: Galaxy<br/> ]]></param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>

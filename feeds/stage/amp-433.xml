@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-10-25 14:58">
+	<shop>
+	<name>LLA</name>
+	<company>Luxury Leather Accessories LLA</company>
+	<url>https://lla.pp.ua</url>
+	<currencies>
+		<currency id="UAH" rate="1"/>
+	</currencies>
+	<categories>
+	    <category id="7">Женские сумки</category>
+            <category id="8">Женские сумки</category>
+	</categories>
+	<offers>
+		<offer id="amp-433-1" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-2" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-3" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-4" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-7" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-8" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-9" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-10" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-11" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-12" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-13" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-14" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-15" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-16" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+<offer id="amp-433-17" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-21" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-25" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-26" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-27" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-28" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-29" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-30" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>8</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="amp-433-31" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>8</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+	</offers>
+</shop>
+</yml_catalog>
