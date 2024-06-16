@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2021-10-25 14:58">
+	<shop>
+	<name>LLA</name>
+	<company>Luxury Leather Accessories LLA</company>
+	<url>https://lla.pp.ua</url>
+	<currencies>
+		<currency id="UAH" rate="1"/>
+	</currencies>
+	<categories>
+		<category id="1">Женские сумки кросс-боди(через плечо) из Натуральной Кожи</category>
+		<category id="2">Женские кошельки из Натуральной Кожи</category>
+		<category id="3">Сумки Тоуты из натуральной кожи</category>
+		<category id="4">Рюкзаки</category>
+		<category id="5">Дорожные сумки и чемоданы</category>
+		<category id="6">Женские сумочки на пояс</category>
+	    <category id="7">Женские сумки</category>
+	    <category id="8">Мужские сумки,борсетки</category>
+	    <category id="9">Ремни и пояса</category>
+		<category id="10">Сумки мужские</category>
+		<category id="11">Ключницы</category>
+		<category id="12">Зонты</category>
+		<category id="13">Портмоне мужские</category>
+	</categories>
+	<offers>
+		<offer id="3" available="false">
+			<price>1599</price>
+			<price_old>2499</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>1</categoryId>
+			<picture>https://image.ua.market/storage/640x640/6/2/4/1/624129629a43ccbd600114a8a55ad568.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/5/f/8/4/5f8415e736ced5ffb6b2f7f263b4902b.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/f/f/c/1/ffc13e96880c6737fde8ab8205f06dd6.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/8/1/5/4/8154de6abf15265be6c71545442b041b.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/3/f/5/c/3f5ceb24f06cbf58ee77982c337a0d6f.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>0</stock_quantity>
+			<name>Женская сумка кросс-боди  Luxury Leather Accessories из серебряной  натуральной кожи</name>
+			<description><![CDATA[<p>Натуральная кожа,цвет светлое серебро.Удобный размер:22*27*6см(В*Ш*Г).<br>Красная подкладка высокой плотности-210г/м.кв.<br>Донышко усиленно.<br>Фурнитура стойкая к истиранию.<br>Ремень из натуральной кожи(1-1,3м)</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Серебристый</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="5" available="true">
+			<price>1550</price>
+			<price_old>2099</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>2</categoryId>
+			<picture>https://image.ua.market/storage/640x640/1/c/4/0/1c400f2f41c35e713a6adae71fe4b473.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/1/b/5/2/1b525cc16d6d8aceb84d7144796e2827.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/2/3/b/b23bab0c4e91faeb0f143823fd79af14.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>0</stock_quantity>
+			<name>Кошелёк-клатч  Luxury Leather Accessories из чёрной натуральной кожи,14238</name>
+			<description><![CDATA[<p>Стильный кошелек из мягкой натуральной кожи с большим количеством отделений. Снаружи с лицевой стороны имеется карман на молнии для мобильного телефона. Кошелек украшен фирменным логотипом и фурнитурой. Эта модель кошелька стала одной из самых популярных у наших Покупателей. Аксессуар может использоваться и как клатч, благодаря короткому ремешку, который имеется в комплекте. Стильная модель для тех, кто ценит высокое качество и функциональность в сочетании с красивым внешним видом!
+
+Материал верха
+Кожа натуральная
+Цвет
+черный
+Подкладка
+П/Э
+Количество отделений для визиток и карточек
+12
+Количество отделений для банкнот
+2
+Карманы (шт)
+3
+Монетница
+Внутренняя на молнии
+Размер (В*Ш) (см)
+10*20
+Толщина (см)
+2,5
+Тип застежки
+Молния</p>]]></description>
+			<param name="Вид">Кошелёк</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Чёрный</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="2" available="true">
+			<price>2300</price>
+			<price_old>2999</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/6/a/7/a/6a7a999c8ba1e687af0b2a46b63e40dd.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/2/6/8/3/2683cf1ead3e68bc7b7efdecee5008df.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/1/e/7/3/1e73d07df70e2319c7ab0064fbf60dbc.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/5/8/7/f/587f43181e47a0b94c997215fb53f33e.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>3</stock_quantity>
+			<name>Женская сумка кросс-боди  Luxury Leather Accessories  из чёрной натуральной кожи</name>
+			<description><![CDATA[<p>Натуральная кожа чёрного цвета.<br>Удобный размер:22*27*6см(В*Ш*Г).<br>Красная подкладка высокой плотности-210г/м.кв.<br>Донышко усиленно.Фурнитура стойкая к истиранию.<br>Ремень из натуральной кожи(1-1,3м)</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Чёрный</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="6" available="false">
+			<price>1550</price>
+			<price_old>1850</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>2</categoryId>
+			<picture>https://image.ua.market/storage/640x640/0/3/d/9/03d904536fc4722b936c3e8cc0bba157.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/1/1/e/9/11e942b44d4fa3f169096f830e7389f5.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/1/0/1/2/1012babce27cd745c28d19c56c85c4dc.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/6/c/0/0/6c002ceb54be27a9178e9da673e4c55b.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>0</stock_quantity>
+			<name>Кошелёк Luxury Leather Accessories из бордовой натуральной кожи.14238.08</name>
+			<description><![CDATA[<p>Стильный кошелек из мягкой натуральной кожи с большим количеством отделений. Снаружи с лицевой стороны имеется карман на молнии для мобильного телефона. Кошелек украшен фирменным логотипом и фурнитурой. Эта модель кошелька стала одной из самых популярных у наших Покупателей. Аксессуар может использоваться и как клатч, благодаря короткому ремешку, который имеется в комплекте. Стильная модель для тех, кто ценит высокое качество и функциональность в сочетании с красивым внешним видом!
+
+Материал верхаКожа натуральная
+ЦветБордовый
+ПодкладкаП/Э
+Количество отделений для визиток и карточек12
+Количество отделений для банкнот2
+Карманы (шт)3
+МонетницаВнутренняя на молнии
+Размер (В*Ш) (см)10*20
+Толщина (см)2,5
+Тип застежкиМолния</p>]]></description>
+			<param name="Тип">Женский</param>
+			<param name="Вид">Кошелёк</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Бордовый</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="7" available="true">
+			<price>1700</price>
+			<price_old>2599</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>2</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/d/6/1/3d612a026e28a873acff4f12e2d29d7f.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/e/d/2/b/ed2bb52ab541eef140416289a06e14f5.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Кожаный клатч-кошелёк Luxury Leather Accessories  в цвете Marsala</name>
+			<description><![CDATA[<p>Клатч-кошелёк из натуральной кожи в цвете марсала-бордо.<br>Компактный размер-19х10х3см<br>8 отделений под карточки<br>Ремешок из натуральной кожи</p>]]></description>
+			<param name="Тип">Женский</param>
+			<param name="Вид">кошелёк</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Бордовый</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="8" available="true">
+			<price>1770</price>
+			<price_old>2670</price_old>
+			<currencyId>UAH</currencyId>
+			<categoryId>7</categoryId>
+			<picture>https://image.ua.market/storage/640x640/3/4/8/e/348eb744f45ac60e61e972f3aba30f21.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/0/3/2/2/03224f7bd610c3f0829881f13506fa59.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/b/a/d/f/badfbf3e992e280621968377960bbc4c.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>100</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из синей натуральной кожи</name>
+			<description><![CDATA[<p>Стильная синяя сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br><br>Размер: 15см*20см*8,5см <br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Синий</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+		<offer id="9" available="false">
+			<price>1149</price>
+			<price_old>2070</price_old>
+			<price_promo>850</price_promo>
+			<currencyId>UAH</currencyId>
+			<categoryId>1</categoryId>
+			<picture>https://image.ua.market/storage/640x640/7/7/1/6/77167af21b8f7c3f065f9bb4aee11f77.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/e/d/5/b/ed5bbf0ececcd2b48be7ec4f357d5125.jpg</picture>
+			<picture>https://image.ua.market/storage/640x640/7/1/7/6/7176d96c1e1927795042d3fe94db1e72.jpg</picture>
+			<vendor>Luxury Leather Accessories LLA</vendor>
+			<stock_quantity>0</stock_quantity>
+			<name>Женская сумка Luxury Leather Accessories Cross Body из красной натуральной кожи</name>
+			<description><![CDATA[<p>Стильная красная сумочка через плечо<br>Натуральная кожа<br>Клапан и ремешок прошиты белыми строчками<br>Размер: 15см*20см*8,5см<br>Внутри 2 кармана на молнии и карман без застежки<br>Снаружи с обратной стороны карман на молнии</p>]]></description>
+			<param name="Тип">Женская</param>
+			<param name="Вид">Cумка</param>
+			<param name="Материал">Натуральная кожа</param>
+			<param name="Цвет">Красный</param>
+			<param name="Страна-производитель товара">Украина</param>
+		</offer>
+	</offers>
+</shop>
+</yml_catalog>
