@@ -10,7 +10,7 @@
 			<currency id="UAH" rate="1"/>
 		</currencies>
 		<categories>
-			<category id="1" parentId="71">Тумблеры</category>
+			<category id="1" parentId="71">Воздушные фильтры</category>
 		</categories>
 		<offers>
 			<offer id="amp-image-jpg-1" available="true">
@@ -18,7 +18,7 @@
 				<price>551</price>
 				<quantity_in_stock>5</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>34</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00011543_b4fbe902-f3ce-4c44-b0d9-0b9375c6d3bc.jpg</picture>
 				<model>00-00011543</model>
 				<vendor>BOSCH</vendor>
@@ -47,7 +47,7 @@ H1 12В 55Вт P14.5s Gigalight Plus 120</description>
 				<price>230</price>
 				<quantity_in_stock>7</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>34</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00011550_0e3ca35d-8ea5-413b-ac5f-5e5449d9c7cc.jpg</picture>
 				<model>00-00011550</model>
 				<vendor>BOSCH</vendor>
@@ -76,7 +76,7 @@ H1 12В 55Вт P14.5s Gigalight Plus 120</description>
 				<price>346</price>
 				<quantity_in_stock>0</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>134</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00014672_3367050d-5c72-475a-b91a-26a2870e5dd0.jpg</picture>
 				<model>00-00014672</model>
 				<vendor>MANN</vendor>
@@ -103,7 +103,7 @@ MOSKVICH 210-111-0910-001
 				<price>486</price>
 				<quantity_in_stock>0</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>134</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00015372_f98802ab-634c-4d68-a58f-9d49dbddd0de.bmp</picture>
 				<model>00-00015372</model>
 				<vendor>MANN</vendor>
@@ -131,7 +131,7 @@ MOSKVICH 210-111-0910-001
 				<price>446</price>
 				<quantity_in_stock>0</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>134</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00014820_7b4eb7e8-420b-4fcc-986d-d4c03d09e558.bmp</picture>
 				<model>00-00014820</model>
 				<vendor>MANN</vendor>
@@ -152,7 +152,7 @@ H - высота (мм):	50</description>
 				<price>1827</price>
 				<quantity_in_stock>0</quantity_in_stock>
 				<currencyId>UAH</currencyId>
-				<categoryId>134</categoryId>
+				<categoryId>1</categoryId>
 				<picture>https://autocomponent.org.ua/images/1C/00014767_e69a7432-0c24-41d7-92c1-904aa9fbe126.jpg</picture>
 				<picture>https://autocomponent.org.ua/images/1C/00014820_7b4eb7e8-420b-4fcc-986d-d4c03d09e558.bmp</picture>
 				<model>00-00014767</model>
