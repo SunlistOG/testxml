@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2024-07-11 17:00</date>
+    <firmName>Test</firmName>
+    <firmId>31234</firmId>
+    <rate>41</rate>
+    <categories>
+        <category>
+            <id>1</id>
+            <name>Планшети</name>
+        </category>
+    </categories>
+    <items>
+        <item>
+            <id>autotest-hotline-xml-1</id>
+            <categoryId>1</categoryId>
+            <code>MRJP2</code>
+            <barcode>0190198233301</barcode>
+            <vendor>Apple</vendor>
+            <name>Тестовой товар название</name>
+            <name_ua>Тестовий товар назва</name_ua>
+            <description>Тестовой товар описание</description>
+            <description_ua>Тестовий товар опис</description_ua>
+            <url>http://shop.ua/1/2/123.html</url>
+            <image>https://images.pexels.com/photos/38568/apple-imac-ipad-workplace-38568.jpeg</image>
+            <image>https://images.pexels.com/photos/777001/pexels-photo-777001.jpeg</image>  
+            <oldprice>599</oldprice>
+            <priceRUAH>399</priceRUAH>
+            <stock>В наявності</stock>
+            <param name="Країна виробник">Китай</param>
+            <param name="Технології">Сканер відбитку пальців під екраном</param>
+            <param name="Інтерфейси і підключення">USB|HDMI|microSD</param>
+            <param name="Кількість ядер процесора">10</param>
+            <param name="Динаміки">Стерео</param>
+            <param name="Фокусування">Інфрачервона</param>
+            <param name="Спалах">Є</param>
+            <param name="Оперативна пам'ять">32 ГБ</param>
+            <param name="Колір">Black</param>
+            <param name="Гарантія">12 місяців</param>
+        </item>
+    </items>
+</price>
