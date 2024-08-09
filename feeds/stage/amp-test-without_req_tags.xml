@@ -1,0 +1,40 @@
+<yml_catalog date="2024-01-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин "NONE-shop"</name>
+    <company>"Інтернет магазин "NONE-shop"</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="C320580" rz_id="80004">Ноутбуки</category>
+    </categories>
+    <offers>
+      <offer id="amp-test-3945847" available="true">
+        <stock_quantity>1</stock_quantity>
+        <price>AMP400RemovalBrand</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>C320580</categoryId>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/8/2/3/e/a/4/2/c/e/c/d/7/4/9/e/4/full/823ea42cecd749e4aa95a28d02d4d3e1.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/f/a/8/b/f/5/9/a/5/3/2/9/4/3/b/a/full/fa8bf59a532943baacd9a862c7134327.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/4/6/2/9/e/6/4/b/a/9/9/c/4/0/7/1/full/4629e64ba99c4071a5ed8e51128246d0.webp</picture>
+        <vendor>AMP400RemovalBrand</vendor>
+        <name>Test1</name>
+        <name_ua>Test2</name_ua>
+        <description>Test3</description>
+        <description_ua>Test4</description_ua>
+        <param name="Призначення">Для планшета</param>
+        <param name="Тип підключення">Бездротове</param>
+        <param name="Інтерфейси і підключення">Bluetooth, microUSB</param>
+        <param name="Розкладка клавіатури">AZERTY</param>
+        <param name="Формат клавіатури">Ультракомпактна</param>
+        <param name="Особливості">Вбудована сенсорна панель</param>
+        <param name="Тип джерела живлення">Акумулятор</param>
+        <param name="Функції та можливості">Підсвічування клавіш, Вбудований акумулятор, З тачпадом</param>
+        <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+        <param name="Бренд">AMP400RemovalBrand</param>
+        <param name="Гарантія">3 місяців</param>
+        <price_old>1999</price_old>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
