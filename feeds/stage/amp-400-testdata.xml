@@ -263,8 +263,6 @@
         <vendor>AMP400BlablablaBrand</vendor>
         <docket />
         <docket_ua />
-        <name>Перевірка неіснуючого бренду в ОК</name>
-        <name_ua>Перевірка неіснуючого бренду в ОК</name_ua>
         <param name="Тип підключення">Бездротове</param>
         <param name="Інтерфейси і підключення">USB</param>
         <param name="Формат клавіатури">Повнорозмірна</param>
