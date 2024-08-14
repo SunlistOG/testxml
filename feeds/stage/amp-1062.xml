@@ -1,0 +1,130 @@
+<yml_catalog date="2024-01-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="C320580">Ноутбуки</category>
+      <category id="C398790">Навушники</category>
+    </categories>
+    <offers>
+      <offer id="amp-1062-xml-1" available="true">
+        <stock_quantity>1</stock_quantity>
+        <price>100000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>C320580</categoryId>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/8/2/3/e/a/4/2/c/e/c/d/7/4/9/e/4/full/823ea42cecd749e4aa95a28d02d4d3e1.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/f/a/8/b/f/5/9/a/5/3/2/9/4/3/b/a/full/fa8bf59a532943baacd9a862c7134327.webp</picture>
+        <vendor>Sony</vendor>
+        <param name="Призначення">Для планшета</param>
+        <param name="Тип підключення">Бездротове</param>
+        <param name="Інтерфейси і підключення">Bluetooth, microUSB</param>
+        <param name="Розкладка клавіатури">AZERTY</param>
+        <param name="Формат клавіатури">Ультракомпактна</param>
+        <param name="Особливості">Товары для девочки 👧</param>
+        <param name="Тип джерела живлення">Акумулятор</param>
+        <param name="Функції та можливості">Підсвічування клавіш, Вбудований акумулятор, З тачпадом</param>
+        <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+        <param name="Бренд">Test</param>
+        <param name="Гарантія">3 місяців</param>
+        <price_old>1999</price_old>
+      </offer>
+      <offer id="amp-1062-xml-2" available="true">
+        <stock_quantity>2</stock_quantity>
+        <price>12255.97</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>C320580</categoryId>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/8/9/8/8/a/5/6/f/c/6/4/e/4/7/3/4/full/8988a56fc64e473482a8731baa3ddb31.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/b/a/7/a/2/9/c/5/2/1/4/5/6/1/full/32ba7a29c5214561a1e4991d82b3c537.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/d/e/1/9/d/2/e/2/b/1/d/3/4/3/0/1/full/de19d2e2b1d3430183e67bcd18ef4467.webp</picture>
+        <vendor>Samsung</vendor>
+        <param name="Вид ноутбука">Для роботи та навчання</param>
+        <param name="Формат роздільної здатності екрану">2K</param>
+        <param name="Діагональ екрану" paramid="20861">14 "</param>
+        <param name="Роздільна здатність екрану" paramid="25800" valueid="866430">2160 x 1440</param>
+        <param name="Максимальна частота оновлення" paramid="177846" valueid="1745688">60 Гц</param>
+        <param name="Тип матриці" paramid="36519" valueid="48784">IPS</param>
+        <param name="Поверхня екрану">Глянцева</param>
+        <param name="Процесор" paramid="20862" valueid="4150183">Intel Celeron N5100</param>
+        <param name="Сімейство процесора">Intel Celeron</param>
+        <param name="Частота процесора">1.1 - 2.8 ГГц</param>
+        <param name="Кількість ядер процесора" paramid="72566" valueid="305312">4</param>
+        <param name="Кількість потоків">4</param>
+        <param name="Тип оперативної пам'яті" paramid="111764" valueid="686296">DDR4</param>
+        <param name="Ємність оперативної пам'яті" paramid="20863" valueid="1034">8 ГБ</param>
+        <param name="Особливості">Веб-камера, Вбудований мікрофон, Стереодинаміки, Картрідер, Тонкий корпус, Підсвічування клавіш</param>
+        <param name="Типи внутрішніх накопичувачів" paramid="36514" valueid="48774">SSD</param>
+        <param name="Об'єм SSD" paramid="115411" valueid="755029">256 ГБ</param>
+        <param name="Тип відеокарти" paramid="73143">Вбудована</param>
+        <param name="Виробник чіпа відеокарти" paramid="254733" valueid="4426050">Intel</param>
+        <param name="Інтерфейси і підключення">USB Type-C, HDMI, 3.5 mm Mini-Jack, Micro SD, 1 x USB 3.0</param>
+        <param name="Бездротові технології">Wi-Fi, Bluetooth</param>
+        <param name="Версія Bluetooth">4.2</param>
+        <param name="Стандарт Wi-Fi">802.11b/g/n</param>
+        <param name="Встановлена операційна система" paramid="20886">Windows 10</param>
+        <param name="Тип акумулятора">Li-Ion</param>
+        <param name="Ємність батареї ">38 Вт·год</param>
+        <param name="Час роботи від акумулятора">8 год</param>
+        <param name="Матеріал корпусу">Товары для девочки 👧</param>
+        <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+        <param name="Габарити">31 x 22.9 х 2 см</param>
+        <param name="Вага" paramid="20884">1.5 кг</param>
+        <param name="Відеокарта" paramid="115418">Intel UHD Graphics 600</param>
+        <param name="Бренд">Test</param>
+        <param name="Гарантія">12 місяців</param>
+      </offer>
+      <offer id="amp-1062-xml-3" available="true">
+        <stock_quantity>1</stock_quantity>
+        <price>10811.91</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>C320580</categoryId>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/2/2/b/4/0/2/9/a/4/7/9/5/4/4/f/0/full/22b4029a479544f0a8a0f24fecc0ac95.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/3/b/d/9/4/e/f/c/d/2/4/a/4/1/full/323bd94efcd24a41a4ab8aaa7474c540.webp</picture>
+        <picture>https://cdn.synthetic.com.ua/media/assets/images/4/7/7/c/5/5/8/d/4/1/7/9/4/6/0/1/full/477c558d41794601964fc68cff9eafcc.webp</picture>
+        <vendor>AMP400RenamingBrand</vendor>
+        <docket />
+        <docket_ua />
+        <param name="Вид ноутбука">Chromebook, Для роботи та навчання, З сенсорним екраном</param>
+        <param name="Формат роздільної здатності екрану">Full HD</param>
+        <param name="Діагональ екрану" paramid="20861">14 "</param>
+        <param name="Роздільна здатність екрану" paramid="25800" valueid="20882">1920 x 1080</param>
+        <param name="Максимальна частота оновлення" paramid="177846" valueid="1745688">60 Гц</param>
+        <param name="Тип матриці" paramid="36519" valueid="48784">IPS</param>
+        <param name="Поверхня екрану">Матова</param>
+        <param name="Процесор" paramid="20862">Intel Pentium N5030</param>
+        <param name="Сімейство процесора">Intel Pentium</param>
+        <param name="Частота процесора">1.1 - 3.1 ГГц</param>
+        <param name="Кількість ядер процесора" paramid="72566" valueid="305312">4</param>
+        <param name="Кількість потоків">4</param>
+        <param name="Тип оперативної пам'яті" paramid="111764" valueid="686296">DDR4</param>
+        <param name="Ємність оперативної пам'яті" paramid="20863" valueid="1034">8 ГБ</param>
+        <param name="Підтримувані частоти пам'яті">2400 МГц</param>
+        <param name="Особливості">Веб-камера, Сенсорний екран, Стереодинаміки, Слот для замку Kensington</param>
+        <param name="Типи внутрішніх накопичувачів" paramid="36514" valueid="119032">eMMC</param>
+        <param name="Об'єм eMMC">64 ГБ</param>
+        <param name="Тип відеокарти" paramid="73143">Вбудована</param>
+        <param name="Відеокарта" paramid="115418" valueid="3127979">Intel UHD Graphics 605</param>
+        <param name="Виробник чіпа відеокарти" paramid="254733" valueid="4426050">Intel</param>
+        <param name="Інтерфейси і підключення">2 x USB 3.2, 2 x USB Type-C, 3.5 mm Mini-Jack, Micro SD</param>
+        <param name="Бездротові технології">Bluetooth, Wi-Fi</param>
+        <param name="Версія Bluetooth">5</param>
+        <param name="Стандарт Wi-Fi">802.11ac</param>
+        <param name="Розкладка клавіатури">Товары для девочки 👧</param>
+        <param name="Встановлена операційна система" paramid="20886" valueid="2308936">Chrome OS</param>
+        <param name="Тип акумулятора">Li-Ion</param>
+        <param name="Ємність батареї ">48 Вт·год</param>
+        <param name="Час роботи від акумулятора">12.5 год</param>
+        <param name="Матеріал корпусу">пластик</param>
+        <param name="Колір товару" paramid="21737" valueid="7171">Сріблястий</param>
+        <param name="Габарити">‎32.5 х 23.2 х 2 см</param>
+        <param name="Вага" paramid="20884">1.5 кг</param>
+        <param name="EAN">4710886459217</param>
+        <param name="Внутрішні накопичувачі">eMMC</param>
+        <param name="Бренд">Test</param>
+        <param name="Гарантія">12 місяців</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
