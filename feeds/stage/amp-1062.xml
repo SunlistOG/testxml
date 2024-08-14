@@ -7,7 +7,6 @@
     </currencies>
     <categories>
       <category id="C320580">Ноутбуки</category>
-      <category id="C398790">Навушники</category>
     </categories>
     <offers>
       <offer id="amp-1062-xml-1" available="true">
@@ -18,6 +17,10 @@
         <picture>https://cdn.synthetic.com.ua/media/assets/images/8/2/3/e/a/4/2/c/e/c/d/7/4/9/e/4/full/823ea42cecd749e4aa95a28d02d4d3e1.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/f/a/8/b/f/5/9/a/5/3/2/9/4/3/b/a/full/fa8bf59a532943baacd9a862c7134327.webp</picture>
         <vendor>Sony</vendor>
+        <name>Товары для девочки 👧</name>
+        <name_ua>Товары для девочки 👧</name_ua>
+        <description>Товары для девочки 👧</description>
+        <description_ua>Товары для девочки 👧</description_ua>
         <param name="Призначення">Для планшета</param>
         <param name="Тип підключення">Бездротове</param>
         <param name="Інтерфейси і підключення">Bluetooth, microUSB</param>
@@ -40,6 +43,10 @@
         <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/b/a/7/a/2/9/c/5/2/1/4/5/6/1/full/32ba7a29c5214561a1e4991d82b3c537.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/d/e/1/9/d/2/e/2/b/1/d/3/4/3/0/1/full/de19d2e2b1d3430183e67bcd18ef4467.webp</picture>
         <vendor>Samsung</vendor>
+        <name>Товары для девочки 👧</name>
+        <name_ua>Товары для девочки 👧</name_ua>
+        <description>Товары для девочки 👧</description>
+        <description_ua>Товары для девочки 👧</description_ua>
         <param name="Вид ноутбука">Для роботи та навчання</param>
         <param name="Формат роздільної здатності екрану">2K</param>
         <param name="Діагональ екрану" paramid="20861">14 "</param>
@@ -83,9 +90,11 @@
         <picture>https://cdn.synthetic.com.ua/media/assets/images/2/2/b/4/0/2/9/a/4/7/9/5/4/4/f/0/full/22b4029a479544f0a8a0f24fecc0ac95.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/3/b/d/9/4/e/f/c/d/2/4/a/4/1/full/323bd94efcd24a41a4ab8aaa7474c540.webp</picture>
         <picture>https://cdn.synthetic.com.ua/media/assets/images/4/7/7/c/5/5/8/d/4/1/7/9/4/6/0/1/full/477c558d41794601964fc68cff9eafcc.webp</picture>
-        <vendor>AMP400RenamingBrand</vendor>
-        <docket />
-        <docket_ua />
+        <vendor>Sony</vendor>
+        <name>Товары для девочки 👧</name>
+        <name_ua>Товары для девочки 👧</name_ua>
+        <description>Товары для девочки 👧</description>
+        <description_ua>Товары для девочки 👧</description_ua>
         <param name="Вид ноутбука">Chromebook, Для роботи та навчання, З сенсорним екраном</param>
         <param name="Формат роздільної здатності екрану">Full HD</param>
         <param name="Діагональ екрану" paramid="20861">14 "</param>
