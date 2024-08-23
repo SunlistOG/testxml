@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2023-09-10 17:00</date>
+    <firmName>Test.com</firmName>
+    <firmId>31234</firmId>
+    <rate>28.2</rate>
+    <categories>
+        <category>
+            <id>1</id>
+            <parentId>2</parentId>
+            <name>Дитячі іграшки</name>
+        </category>
+        <category>
+            <id>3</id>
+            <parentId>4</parentId>
+            <name>Дитячі конструктори</name>
+        </category>
+    </categories>
+    <items>
+        <item>
+            <id testattribute="true">hotline-1-incorect category</id>
+            <categoryId>2</categoryId>
+            <code>MRJP2</code>
+            <barcode>0190198233301</barcode>
+            <vendor  testattribute="true">Apple</vendor>
+            <name>iPad 2018 128GB Wi-Fi Gold</name>
+            <description></description>
+            <url>http://shop.ua/1/2/123.html</url>
+            <image testattribute="true">https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <Stock days="10">Під замовлення</Stock>
+            <delivery id="1" cost="70" freeFrom="5000" time="3" />
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення товару">Китай</param>
+            <param name="Оригінальність товару">Оригінал</param>
+            <param name="Призначення товару">Оригінал</param>
+            <param name="Особливості товару">Він крутий</param>
+            <param name="Рушій кавабанга">Йохоо/param>
+            <condition>0</condition>
+            <custom>1</custom>
+        </item>
+        <item>
+            <id>hotline-2-incorect category</id>
+            <categoryid>5</categoryid>
+            <code>60190</code>
+            <barcode>5702016108781</barcode>
+            <vendor>LEGO</vendor>
+            <name>Конструктор City Arctic Expedition Аеросани</name>
+            <description>Вікова група - від 5 років, кількість деталей - 50 шт</description>
+            <url>http://shop.ua/1/3/553.html</url>
+            <image>https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
+            <priceRUAH>199</priceRUAH>
+            <Stock>В наявності</Stock>
+            <guarantee unit="days" type="shop">14</guarantee>
+            <param name="Країна виготовлення товару">Китай</param>
+            <param name="Оригінальність товару">Оригінал</param>
+            <param name="Призначення товару">Оригінал</param>
+            <param name="Особливості товару">Він крутий</param>
+            <param name="Рушій кавабанга">Йохоо</param>
+            <param name="Парапарапапапа">Хелоу</param>
+            <param name="Вага товару">12</param>
+            <param name="ШВГ товару">12x23x5</param>
+            <condition>0</condition>
+            <custom>1</custom>
+    </items>
+</price> 
