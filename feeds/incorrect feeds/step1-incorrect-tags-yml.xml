@@ -18,8 +18,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>54</categoryId>
 <picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
-<description>Тест ракетка ру</description>
-<description_ru>Тест ракетка юа</description_ru>
+<Description>Тест ракетка ру</Description>
+<Description_ru>Тест ракетка юа</Description_ru>
 <vendor>Panasonic</vendor>
 <stock_quantity>1</stock_quantity>
 <param name="Гарантия">12 месяцев</param>
