@@ -1,0 +1,23 @@
+<yml_catalog xmlns="http://google.com.ua" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2023-03-15 16:50">
+	<shop>
+		<name>Test</name>
+		<url>http://google.com.ua</url>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="103">Нічні сорочки</category>
+			<category id="104">Жіночі піжами</category>
+			<category id="105">Жіночі халати</category>
+			<category id="106">Домашній одяг</category>
+			<category id="107">Жіночі плаття</category>
+			<category id="108">Комбінезони та напівкомбінезони</category>
+			<category id="109">Купальники</category>
+			<category id="110">Жіночі спортивні костюми</category>
+			<category id="111">Жіночі спортивні штани</category>
+			<category id="112">Жіночі світшоти</category>
+			<category id="113">Жіночі худі</category>
+		</categories>
+		<offers/>
+	</shop>
+</yml_catalog>
