@@ -36,8 +36,8 @@
             <code>MRJP2</code>
             <barcode>0190198233301</barcode>
             <vendor  testattribute="true">Apple</vendor>
-            <Name>iPad 2018 128GB Wi-Fi Gold</Name>
-            <Description></Description>
+            <name>iPad 2018 128GB Wi-Fi Gold</name>
+            <description></description>
             <url>http://shop.ua/1/2/123.html</url>
             <image testattribute="true">https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
             <priceRUAH>15400</priceRUAH>
@@ -59,8 +59,8 @@
             <code>60190</code>
             <barcode>5702016108781</barcode>
             <vendor>LEGO</vendor>
-            <Name>Конструктор City Arctic Expedition Аеросани</Name>
-            <Description>Вікова група - від 5 років, кількість деталей - 50 шт</Description>
+            <name>Конструктор City Arctic Expedition Аеросани</name>
+            <description>Вікова група - від 5 років, кількість деталей - 50 шт</description>
             <url>http://shop.ua/1/3/553.html</url>
             <image>https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
             <priceRUAH>199</priceRUAH>
