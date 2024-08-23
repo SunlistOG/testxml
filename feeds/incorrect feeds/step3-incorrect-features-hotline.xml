@@ -33,8 +33,8 @@
             <delivery id="1" cost="70" freeFrom="5000" time="3" />
             <guarantee type="manufacturer">12</guarantee>
             <param name="Країна виготовлення товару">Китай</param>
-            <param name="Оригінальність товару">Оригінал</param>
-            <param name="Призначення товару">Оригінал</param>
+            <param name="Оригінальність цього товару">Оригінал</param>
+            <param name="Призначення цього товару">Оригінал</param>
             <param name="Особливості товару">Він крутий</param>
             <param name="Рушій кавабанга">Йохоо</param>
             <condition>0</condition>
@@ -54,12 +54,12 @@
             <Stock>В наявності</Stock>
             <guarantee unit="days" type="shop">14</guarantee>
             <param name="Країна виготовлення товару">Китай</param>
-            <param name="Оригінальність товару">Оригінал</param>
+            <param name="Оригінальність цього товару">Оригінал</param>
             <param name="Призначення товару">Оригінал</param>
             <param name="Особливості товару">Він крутий</param>
             <param name="Рушій кавабанга">Йохоо</param>
             <param name="Парапарапапапа">Хелоу</param>
-            <param name="Вага товару">12</param>
+            <param name="Вага цього товару">12</param>
             <param name="ШВГ товару">12x23x5</param>
             <condition>0</condition>
             <custom>1</custom>
