@@ -1,0 +1,42 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<yml_catalog date="2024-03-20 18:39">
+<shop>
+<name>Test AMP-463</name>
+<company>AMP-463</company>
+<url>https://google.com.ua</url>
+<currencies>
+<currency id="UAH" rate="1"/>
+</currencies>
+<categories>
+<category id="54">Чехлы для смартфонов</category>
+</categories>
+<offers>
+<offer id="yml-1-incorrect features" available="true">
+<name>Ракетка Сяомі</name>
+<name_ru>Ракетка Сяоми</name_ru>
+<price>100</price>
+<sale_price>50</sale_price>
+<currencyId>UAH</currencyId>
+<categoryId>54</categoryId>
+<picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
+<description>Тест ракетка ру</description>
+<description_ru>Тест ракетка юа</description_ru>
+<vendor>Panasonic</vendor>
+<stock_quantity>1</stock_quantity>
+<param name="Гарантія на цей товар">12 месяцівв</param>
+<param name="Матеріал чохла для телефону">Пластик</param>
+<param name="Підходяща модель">Unihertz Tank 2</param>
+<param name="Країна-виробник чохла">Туреччина</param>
+<param name="Особливості чохла для телефону">Водонепроницаемый,Противоударный,С подставкой,Сенсорный,Прозрачный,Подсветка,Отображение данных</param>
+<param name="Форм-фактор чохла">Чехол-сумка</param>
+<param name="Країна реєстрації бренду чохла">Туреччина</param>
+<param name="Габарити в форматі ШВГ">10 x 12 x 5</param>
+<param name="Матеріал бокових вкладок">Метал</param>
+<param name="Вага чохла">200</param>
+<param name="Прінт міфічного героя">Какаші</param>
+<param name="Стандартний Колір чохла">Синій</param>
+<param name="Водонепроникність чохла">Так</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
