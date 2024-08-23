@@ -18,7 +18,7 @@
     </categories>
     <items>
         <item>
-            <id testattribute="true">hotline-1-incorect category</id>
+            <id testattribute="true">hotline-1-incorect features</id>
             <categoryId>2</categoryId>
             <code>MRJP2</code>
             <barcode>0190198233301</barcode>
@@ -41,7 +41,7 @@
             <custom>1</custom>
         </item>
         <item>
-            <id>hotline-2-incorect category</id>
+            <id>hotline-2-incorect features</id>
             <categoryid>5</categoryid>
             <code>60190</code>
             <barcode>5702016108781</barcode>
