@@ -63,5 +63,6 @@
             <param name="ШВГ товару">12x23x5</param>
             <condition>0</condition>
             <custom>1</custom>
+        </item>
     </items>
 </price> 
