@@ -1,0 +1,69 @@
+<yml_catalog date="2023-08-19 14:25">
+  <shop>
+    <name>Test</name>
+    <company>Test company</company>
+    <url>https://test.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="9152" parentId="17">Запчасти и комплектующие к 3D устройствам1</category>
+      <category id="9153" parentId="17">Запчасти и комплектующие к 3D устройствам2</category>
+      <category id="9154" parentId="17">Запчасти и комплектующие к 3D устройствам3</category>
+      <category id="9155" parentId="17">Запчасти и комплектующие к 3D устройствам4</category>
+      <category id="9156" parentId="17">Запчасти и комплектующие к 3D устройствам5</category>
+      <category id="9157" parentId="17">Запчасти и комплектующие к 3D устройствам6</category>
+      <category id="9158" parentId="17">Запчасти и комплектующие к 3D устройствам7</category>
+      <category id="9159" parentId="17">Запчасти и комплектующие к 3D устройствам8</category>
+      <category id="9150" parentId="17">Запчасти и комплектующие к 3D устройствам9</category>
+      <category id="9151" parentId="17">Запчасти и комплектующие к 3D устройствам10</category>
+      <category id="9160" parentId="17">Запчасти и комплектующие к 3D устройствам11</category>
+      <category id="9161" parentId="17">Запчасти и комплектующие к 3D устройствам12</category>
+      <category id="9162" parentId="17">Запчасти и комплектующие к 3D устройствам13</category>
+      <category id="9163" parentId="17">Запчасти и комплектующие к 3D устройствам14</category>
+      <category id="9164" parentId="17">Запчасти и комплектующие к 3D устройствам15</category>
+      <category id="9165" parentId="17">Запчасти и комплектующие к 3D устройствам16</category>
+      <category id="9166" parentId="17">Запчасти и комплектующие к 3D устройствам17</category>
+      <category id="9167" parentId="17">Запчасти и комплектующие к 3D устройствам18</category>
+      <category id="9168" parentId="17">Запчасти и комплектующие к 3D устройствам19</category>
+      <category id="9169" parentId="17">Запчасти и комплектующие к 3D устройствам20</category>
+      <category id="9170" parentId="17">Запчасти и комплектующие к 3D устройствам21</category>
+      <category id="9171" parentId="17">Запчасти и комплектующие к 3D устройствам22</category>
+      <category id="9172" parentId="17">Запчасти и комплектующие к 3D устройствам23</category>
+      <category id="9173" parentId="17">Запчасти и комплектующие к 3D устройствам24</category>
+      <category id="9174" parentId="17">Запчасти и комплектующие к 3D устройствам</category>
+    </categories>
+    <offers>
+       <offer id="amp-906-find-text-1" available="true" group_id="374150249">
+        <url>https://bt.rozetka.com.ua/ua/2528227/p2528227/</url>
+        <salePrice>50000</salePrice>
+        <price>100000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>9174</categoryId>
+        <picture>https://content.rozetka.com.ua/goods/images/big/10648417.jpg</picture>
+        <picture>https://content.rozetka.com.ua/goods/images/big/10648425.jpg</picture>
+         <picture>https://content.rozetka.com.ua/goods/images/big/10648433.jpg</picture>
+        <pickup>false</pickup>
+        <delivery>true</delivery>
+        <name>Комп'ютер ASUS MAX</name>
+        <name_ua>Комп'ютер ASUS MAX</name_ua>
+        <vendor>Solis</vendor>
+        <vendorCode>1506216864</vendorCode>
+        <country_of_origin>Китай</country_of_origin>
+        <description>Комп'ютер ASUS MAX :) ❤️ ❤️ ❤️ ❤️</description>
+        <description_ua>Комп'ютер ASUS MAX :) ❤️ ❤️ ❤️ ❤️</description_ua>
+        <param name="Материал">Подшипники</param>
+        <param name="Тип">Ремешок</param>
+        <param name="Цвет">Black</param>
+        <param name="Вид">Механические запчасти</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Вес_RU">5</param>
+        <param name="Вес_UA">5</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
