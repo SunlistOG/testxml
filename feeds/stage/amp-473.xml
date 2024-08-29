@@ -10,7 +10,7 @@
 <category id="54">Чехлы для смартфонов</category>
 </categories>
 <offers>
-<offer id="amp-473=1" available="true">
+<offer id="amp-473-1" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -36,7 +36,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=2" available="true">
+<offer id="amp-473-2" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -62,7 +62,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=3" available="true">
+<offer id="amp-473-3" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -88,7 +88,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=4" available="true">
+<offer id="amp-473-4" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -114,7 +114,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=5" available="true">
+<offer id="amp-473-5" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -140,7 +140,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=6" available="true">
+<offer id="amp-473-6" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -166,7 +166,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=7" available="true">
+<offer id="amp-473-7" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -192,7 +192,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=8" available="true">
+<offer id="amp-473-8" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -218,7 +218,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=9" available="true">
+<offer id="amp-473-9" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -244,7 +244,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=10" available="true">
+<offer id="amp-473-10" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -270,7 +270,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=11" available="true">
+<offer id="amp-473-11" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -296,7 +296,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=12" available="true">
+<offer id="amp-473-12" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -322,7 +322,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=13" available="true">
+<offer id="amp-473-13" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -348,7 +348,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=14" available="true">
+<offer id="amp-473-14" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -374,7 +374,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=15" available="true">
+<offer id="amp-473-15" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -400,7 +400,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=16" available="true">
+<offer id="amp-473-16" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -426,7 +426,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=17" available="true">
+<offer id="amp-473-17" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -452,7 +452,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=18" available="true">
+<offer id="amp-473-18" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -478,7 +478,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=19" available="true">
+<offer id="amp-473-19" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -504,7 +504,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=20" available="true">
+<offer id="amp-473-20" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -530,7 +530,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=21" available="true">
+<offer id="amp-473-21" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -556,7 +556,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=22" available="true">
+<offer id="amp-473-22" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -582,7 +582,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=23" available="true">
+<offer id="amp-473-23" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -608,7 +608,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=24" available="true">
+<offer id="amp-473-24" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -634,7 +634,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=25" available="true">
+<offer id="amp-473-25" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -660,7 +660,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=26" available="true">
+<offer id="amp-473-26" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -686,7 +686,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=27" available="true">
+<offer id="amp-473-27" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -712,7 +712,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=28" available="true">
+<offer id="amp-473-28" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -738,7 +738,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=29" available="true">
+<offer id="amp-473-29" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
@@ -764,7 +764,7 @@
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
 </offer>
-<offer id="amp-473=30" available="true">
+<offer id="amp-473-30" available="true">
 <name>Ракетка Сяомі</name>
 <name_ru>Ракетка Сяоми</name_ru>
 <price>100</price>
