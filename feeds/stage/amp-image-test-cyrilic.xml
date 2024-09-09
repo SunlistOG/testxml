@@ -1,0 +1,142 @@
+<yml_catalog date="2024-08-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="142">Черевики жіночі</category>
+    </categories>
+    <offers>
+      <offer id="1070pov10570" type="vendor.model" available="false" group_id="1070">
+        <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
+        <name>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name>
+        <name_ua>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>1070</vendorCode>
+        <sale_price>2860</sale_price>
+        <price>2860</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>142</categoryId>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі1-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі2-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі3-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі4-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі5-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі7-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі8-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі6-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі12-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі10-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі11-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі13-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі9-1000x1000.jpg</picture>
+        <description>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description>
+        <description_ua>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description_ua>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <country_of_origin>Украина</country_of_origin>
+        <barcode>2100000035748</barcode>
+        <param name="Розмір" unit="EU">37</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Підошва">Єва</param>
+      </offer>
+      <offer id="1070pov10571" type="vendor.model" available="false" group_id="1070">
+        <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
+        <name>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name>
+        <name_ua>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>1070</vendorCode>
+        <sale_price>2860</sale_price>
+        <price>2860</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>142</categoryId>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі1-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі2-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі3-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі4-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі5-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі7-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі8-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі6-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі12-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі10-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі11-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі13-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі9-1000x1000.jpg</picture>
+        <description>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description>
+        <description_ua>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description_ua>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <country_of_origin>Украина</country_of_origin>
+        <barcode>2100000035755</barcode>
+        <param name="Розмір" unit="EU">38</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Підошва">Єва</param>
+      </offer>
+      <offer id="1070pov10572" type="vendor.model" available="true" group_id="1070">
+        <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
+        <name>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name>
+        <name_ua>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>1070</vendorCode>
+        <sale_price>2860</sale_price>
+        <price>2860</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>142</categoryId>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі1-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі2-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі3-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі4-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі5-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі7-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі8-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі6-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі12-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі10-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі11-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі13-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі9-1000x1000.jpg</picture>
+        <description>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description>
+        <description_ua>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description_ua>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <country_of_origin>Украина</country_of_origin>
+        <barcode>2100000035762</barcode>
+        <param name="Розмір" unit="EU">39</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Підошва">Єва</param>
+      </offer>
+      <offer id="1070pov10573" type="vendor.model" available="false" group_id="1070">
+        <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
+        <name>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name>
+        <name_ua>Черевики жіночі зимові Victoria з натуральної замші чорні, OLDCOM Олдком</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>1070</vendorCode>
+        <sale_price>2860</sale_price>
+        <price>2860</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>142</categoryId>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі1-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі2-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі3-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі4-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі5-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі7-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі8-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі6-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі12-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі10-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі11-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі13-1000x1000.jpg</picture>
+        <picture>https://oldcom.ua/image/cache/catalog/products/victoriachornі/cherevikizhіnochіzimovіvictoriaznaturalnoїzamshіchornі9-1000x1000.jpg</picture>
+        <description>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description>
+        <description_ua>Жіночі черевики Victoria на хутрі від виробника взуття OLDCOM з натуральної замші- це ідеальне взуття на зиму. Черевики оснащені високою платформою, що надасть вам стильного вигляду.Основна родзинка цих черевиків - це підошва, яка виготовлена з легкого матеріалу ЄВА. Вона не лише легка, а й дуже проста у догляді. Бруд і плями легко витираються вологою серветкою, забезпечуючи надовго зберегти охайний вигляд взуття.Ці черевики Олдком повномірні, що дозволяє вам легко обрати розмір за нашою розмірною сіткою. Вони не тільки стильні, а й практичні - ідеальний вибір на кожен день.</description_ua>
+        <manufacturer_warranty>true</manufacturer_warranty>
+        <country_of_origin>Украина</country_of_origin>
+        <barcode>2100000035779</barcode>
+        <param name="Розмір" unit="EU">40</param>
+        <param name="Цвет">Чорний</param>
+        <param name="Підошва">Єва</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
