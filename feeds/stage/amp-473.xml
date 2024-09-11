@@ -905,10 +905,6 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
-<param name="Ширина в упаковке, см">8</param>
-<param name="Высота в упаковке, см">8</param>
-<param name="Длина в упаковке, см">8</param>
-<param name="Вес в упаковке, кг">8</param>
 </offer>
 </offers>
 </shop>
