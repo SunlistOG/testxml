@@ -35,6 +35,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">50</param>
+<param name="Высота в упаковке, см">60</param>
+<param name="Длина в упаковке, см">75</param>
+<param name="Вес в упаковке, кг">15</param>
 </offer>
 <offer id="amp-473-2" available="true">
 <name>Ракетка Сяомі</name>
@@ -61,6 +65,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">74</param>
+<param name="Высота в упаковке, см">63</param>
+<param name="Длина в упаковке, см">91</param>
+<param name="Вес в упаковке, кг">9</param>
 </offer>
 <offer id="amp-473-3" available="true">
 <name>Ракетка Сяомі</name>
@@ -87,6 +95,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">507</param>
+<param name="Высота в упаковке, см">606</param>
+<param name="Длина в упаковке, см">757</param>
+<param name="Вес в упаковке, кг">1565</param>
 </offer>
 <offer id="amp-473-4" available="true">
 <name>Ракетка Сяомі</name>
@@ -113,6 +125,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">5010</param>
+<param name="Высота в упаковке, см">1160</param>
+<param name="Длина в упаковке, см">7115</param>
+<param name="Вес в упаковке, кг">156775</param>
 </offer>
 <offer id="amp-473-5" available="true">
 <name>Ракетка Сяомі</name>
@@ -139,6 +155,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">909990</param>
+<param name="Высота в упаковке, см">698980</param>
+<param name="Длина в упаковке, см">7899895</param>
+<param name="Вес в упаковке, кг">19898985</param>
 </offer>
 <offer id="amp-473-6" available="true">
 <name>Ракетка Сяомі</name>
@@ -165,6 +185,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">5.0</param>
+<param name="Высота в упаковке, см">6.0</param>
+<param name="Длина в упаковке, см">7.5</param>
+<param name="Вес в упаковке, кг">.5</param>
 </offer>
 <offer id="amp-473-7" available="true">
 <name>Ракетка Сяомі</name>
@@ -191,6 +215,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">0</param>
+<param name="Высота в упаковке, см">0</param>
+<param name="Длина в упаковке, см">0</param>
+<param name="Вес в упаковке, кг">0</param>
 </offer>
 <offer id="amp-473-8" available="true">
 <name>Ракетка Сяомі</name>
@@ -217,6 +245,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">d</param>
+<param name="Высота в упаковке, см">d</param>
+<param name="Длина в упаковке, см">k</param>
+<param name="Вес в упаковке, кг">o</param>
 </offer>
 <offer id="amp-473-9" available="true">
 <name>Ракетка Сяомі</name>
@@ -243,6 +275,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">,</param>
+<param name="Высота в упаковке, см">,</param>
+<param name="Длина в упаковке, см">,</param>
+<param name="Вес в упаковке, кг">,</param>
 </offer>
 <offer id="amp-473-10" available="true">
 <name>Ракетка Сяомі</name>
@@ -269,6 +305,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">2</param>
+<param name="Высота в упаковке, см">8</param>
+<param name="Длина в упаковке, см">7</param>
+<param name="Вес в упаковке, кг">1</param>
 </offer>
 <offer id="amp-473-11" available="true">
 <name>Ракетка Сяомі</name>
@@ -295,6 +335,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">1x2</param>
+<param name="Высота в упаковке, см">1x0</param>
+<param name="Длина в упаковке, см">1x9</param>
+<param name="Вес в упаковке, кг">1x9</param>
 </offer>
 <offer id="amp-473-12" available="true">
 <name>Ракетка Сяомі</name>
@@ -321,6 +365,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">01</param>
+<param name="Высота в упаковке, см">02</param>
+<param name="Длина в упаковке, см">03</param>
+<param name="Вес в упаковке, кг">04</param>
 </offer>
 <offer id="amp-473-13" available="true">
 <name>Ракетка Сяомі</name>
@@ -347,6 +395,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"> </param>
+<param name="Высота в упаковке, см"> </param>
+<param name="Длина в упаковке, см"> </param>
+<param name="Вес в упаковке, кг"> </param>
 </offer>
 <offer id="amp-473-14" available="true">
 <name>Ракетка Сяомі</name>
@@ -373,6 +425,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">1e</param>
+<param name="Высота в упаковке, см">1e</param>
+<param name="Длина в упаковке, см">1e</param>
+<param name="Вес в упаковке, кг">1e</param>
 </offer>
 <offer id="amp-473-15" available="true">
 <name>Ракетка Сяомі</name>
@@ -399,6 +455,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">e</param>
+<param name="Высота в упаковке, см">e</param>
+<param name="Длина в упаковке, см">e</param>
+<param name="Вес в упаковке, кг">e</param>
 </offer>
 <offer id="amp-473-16" available="true">
 <name>Ракетка Сяомі</name>
@@ -425,6 +485,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">9</param>
+<param name="Высота в упаковке, см">9</param>
+<param name="Длина в упаковке, см">7</param>
+<param name="Вес в упаковке, кг">0.2864</param>
 </offer>
 <offer id="amp-473-17" available="true">
 <name>Ракетка Сяомі</name>
@@ -451,6 +515,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">9999</param>
+<param name="Высота в упаковке, см">9999</param>
+<param name="Длина в упаковке, см">9999</param>
+<param name="Вес в упаковке, кг">999999</param>
 </offer>
 <offer id="amp-473-18" available="true">
 <name>Ракетка Сяомі</name>
@@ -477,6 +545,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">1</param>
+<param name="Высота в упаковке, см">1</param>
+<param name="Длина в упаковке, см">1</param>
+<param name="Вес в упаковке, кг">0.0001</param>
 </offer>
 <offer id="amp-473-19" available="true">
 <name>Ракетка Сяомі</name>
@@ -503,6 +575,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">69</param>
+<param name="Высота в упаковке, см">49</param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг">1</param>
 </offer>
 <offer id="amp-473-20" available="true">
 <name>Ракетка Сяомі</name>
@@ -529,6 +605,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см">6</param>
+<param name="Длина в упаковке, см">7</param>
+<param name="Вес в упаковке, кг">0.56</param>
 </offer>
 <offer id="amp-473-21" available="true">
 <name>Ракетка Сяомі</name>
@@ -555,6 +635,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">590</param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг">185</param>
 </offer>
 <offer id="amp-473-22" available="true">
 <name>Ракетка Сяомі</name>
@@ -581,6 +665,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">59</param>
+<param name="Высота в упаковке, см">99</param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг"></param>
 </offer>
 <offer id="amp-473-23" available="true">
 <name>Ракетка Сяомі</name>
@@ -607,6 +695,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">1</param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг"></param>
 </offer>
 <offer id="amp-473-24" available="true">
 <name>Ракетка Сяомі</name>
@@ -633,6 +725,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см">6</param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг"></param>
 </offer>
 <offer id="amp-473-25" available="true">
 <name>Ракетка Сяомі</name>
@@ -659,6 +755,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см">75</param>
+<param name="Вес в упаковке, кг"></param>
 </offer>
 <offer id="amp-473-26" available="true">
 <name>Ракетка Сяомі</name>
@@ -685,6 +785,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг">15</param>
 </offer>
 <offer id="amp-473-27" available="true">
 <name>Ракетка Сяомі</name>
@@ -711,6 +815,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг"></param>
 </offer>
 <offer id="amp-473-28" available="true">
 <name>Ракетка Сяомі</name>
@@ -737,6 +845,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см">7999</param>
+<param name="Вес в упаковке, кг">199995</param>
 </offer>
 <offer id="amp-473-29" available="true">
 <name>Ракетка Сяомі</name>
@@ -763,6 +875,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см"></param>
+<param name="Высота в упаковке, см"></param>
+<param name="Длина в упаковке, см"></param>
+<param name="Вес в упаковке, кг">999999</param>
 </offer>
 <offer id="amp-473-30" available="true">
 <name>Ракетка Сяомі</name>
@@ -789,6 +905,10 @@
 <param name="Матеріал">Поликарбонат</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+<param name="Ширина в упаковке, см">8</param>
+<param name="Высота в упаковке, см">8</param>
+<param name="Длина в упаковке, см">8</param>
+<param name="Вес в упаковке, кг">8</param>
 </offer>
 </offers>
 </shop>
