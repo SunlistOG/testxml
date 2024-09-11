@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="24.06.2024 20:58:45">
+	<shop>
+		<name>Тест</name>
+		<company>Тест</company>
+		<url>https://test.com</url>
+		<agency>Test</agency>
+		<cpa>0</cpa>
+		<currencies>
+			<currency id="UAH" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="1" parentId="1">Воздушные фильтры</category>
+		</categories>
+		<offers>
+			<offer id="amp-image-bmp-111" available="true">
+				<url/>
+				<price>551</price>
+				<quantity_in_stock>5</quantity_in_stock>
+				<currencyId>UAH</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://hmara.in.ua/ftp/polmax/marketplace/c633d8e7-c045-11ee-bb22-000c29cf0ffb.bmp</picture>
+				<picture>https://hmara.in.ua/ftp/polmax/marketplace/59873118-d176-11ee-bb23-000c29cf0ffb.bmp</picture>
+				<model>00-00011543</model>
+				<vendor>BOSCH</vendor>
+				<vendorCode>1987301105</vendorCode>
+				<name>Комплект галогеновых ламп BOSCH Gigalight Plus 120% H1 55W 12V P14,5s (1987301105) 2 шт/бокс</name>
+				<description>Производитель: BOSCH  
+EAN: 4047025251860 
+Напряжение, Вольт: 12 
+Номинальная мощность [Вт]: 55 
+Тип ламп: H1 
+Исполнение патрона: P14,5s 
+H1 12В 55Вт P14.5s Gigalight Plus 120</description>
+				<param name="Напряжение, V">12</param>
+				<param name="Вид">Галогеновая</param>
+				<param name="Тип лампы">H1 (P14,5s)</param>
+				<param name="Количество ламп в упаковке"> 2</param>
+				<param name="Мощность, W"> 55</param>
+				<param name="Назначение">Фары головного света</param>
+				<param name="Цоколь">P14,5s</param>
+				<param name="Производитель">BOSCH</param>
+				<param name="Гарантия">14 дней</param>
+				<param name="Серия">Gigalight Plus 120%</param>
+			</offer>
+			<offer id="amp-image-jfif-111" available="true">
+				<url/>
+				<price>230</price>
+				<quantity_in_stock>7</quantity_in_stock>
+				<currencyId>UAH</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://protovar.com.ua/uploads/product/2022-7-4/58ca806a8aac7deb83e6ef87d04a31bd.jfif</picture>
+				<model>00-00011550</model>
+				<vendor>BOSCH</vendor>
+				<vendorCode>1987301150</vendorCode>
+				<name>Галогеновая лампа BOSCH Gigalight Plus 120% H1 55W 12V P14,5s (1987301150) 1 шт/бокс</name>
+				<description>Производитель: BOSCH  
+EAN: 4047025251860 
+Напряжение, Вольт: 12 
+Номинальная мощность [Вт]: 55 
+Тип ламп: H1 
+Исполнение патрона: P14,5s 
+H1 12В 55Вт P14.5s Gigalight Plus 120</description>
+				<param name="Напряжение, V">12</param>
+				<param name="Вид">Галогеновая</param>
+				<param name="Тип лампы">H1 (P14,5s)</param>
+				<param name="Количество ламп в упаковке"> 1</param>
+				<param name="Мощность, W"> 55</param>
+				<param name="Назначение">Фары головного света</param>
+				<param name="Цоколь">P14,5s</param>
+				<param name="Производитель">BOSCH</param>
+				<param name="Гарантия">14 дней</param>
+				<param name="Серия">Gigalight Plus 120%</param>
+			</offer>
+			<offer id="amp-image-jpg-111" available="true">
+				<url/>
+				<price>230</price>
+				<quantity_in_stock>7</quantity_in_stock>
+				<currencyId>UAH</currencyId>
+				<categoryId>1</categoryId>
+				<picture>https://slam.city/image.php?filename=164033017625_234234.jpg</picture>
+				<picture>https://slam.city/image.php?filename=166323024584_278716853.jpg</picture>
+				<model>00-00011550</model>
+				<vendor>BOSCH</vendor>
+				<vendorCode>1987301150</vendorCode>
+				<name>Галогеновая лампа BOSCH Gigalight Plus 120% H1 55W 12V P14,5s (1987301150) 1 шт/бокс</name>
+				<description>Производитель: BOSCH  
+EAN: 4047025251860 
+Напряжение, Вольт: 12 
+Номинальная мощность [Вт]: 55 
+Тип ламп: H1 
+Исполнение патрона: P14,5s 
+H1 12В 55Вт P14.5s Gigalight Plus 120</description>
+				<param name="Напряжение, V">12</param>
+				<param name="Вид">Галогеновая</param>
+				<param name="Тип лампы">H1 (P14,5s)</param>
+				<param name="Количество ламп в упаковке"> 1</param>
+				<param name="Мощность, W"> 55</param>
+				<param name="Назначение">Фары головного света</param>
+				<param name="Цоколь">P14,5s</param>
+				<param name="Производитель">BOSCH</param>
+				<param name="Гарантия">14 дней</param>
+				<param name="Серия">Gigalight Plus 120%</param>
+			</offer>
+		</offers>
+	</shop>
+</yml_catalog>
