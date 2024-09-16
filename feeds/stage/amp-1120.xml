@@ -17,7 +17,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/8/2/3/e/a/4/2/c/e/c/d/7/4/9/e/4/full/823ea42cecd749e4aa95a28d02d4d3e1.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/f/a/8/b/f/5/9/a/5/3/2/9/4/3/b/a/full/fa8bf59a532943baacd9a862c7134327.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/4/6/2/9/e/6/4/b/a/9/9/c/4/0/7/1/full/4629e64ba99c4071a5ed8e51128246d0.webp</picture>
-<vendor>AMP400RemovalBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = empty, товар авто</name>
 <name_ua>Тест: товар з M-id і ref = empty, товар авто</name_ua>
 <description>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
@@ -31,7 +31,6 @@
 <param name="Тип джерела живлення">Акумулятор</param>
 <param name="Функції та можливості">Підсвічування клавіш, Вбудований акумулятор, З тачпадом</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400RemovalBrand</param>
 <param name="Гарантія">3 місяців</param>
 <param name="Восстановленный"></param>
 <price_old>1999</price_old>
@@ -44,7 +43,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/8/9/8/8/a/5/6/f/c/6/4/e/4/7/3/4/full/8988a56fc64e473482a8731baa3ddb31.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/b/a/7/a/2/9/c/5/2/1/4/5/6/1/full/32ba7a29c5214561a1e4991d82b3c537.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/d/e/1/9/d/2/e/2/b/1/d/3/4/3/0/1/full/de19d2e2b1d3430183e67bcd18ef4467.webp</picture>
-<vendor>AMP400RemovalBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = yes, товар авто</name>
 <name_ua>Тест: товар з M-id і ref = yes, товар авто</name_ua>
 <description>Тест: товар ref = yes Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description>
@@ -81,7 +80,6 @@
 <param name="Габарити">31 x 22.9 х 2 см</param>
 <param name="Вага" paramid="20884">1.5 кг</param>
 <param name="Відеокарта" paramid="115418">Intel UHD Graphics 600</param>
-<param name="Бренд">AMP400RemovalBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Да</param>
 <price_old>14707.16</price_old>
@@ -94,7 +92,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/2/2/b/4/0/2/9/a/4/7/9/5/4/4/f/0/full/22b4029a479544f0a8a0f24fecc0ac95.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/3/b/d/9/4/e/f/c/d/2/4/a/4/1/full/323bd94efcd24a41a4ab8aaa7474c540.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/4/7/7/c/5/5/8/d/4/1/7/9/4/6/0/1/full/477c558d41794601964fc68cff9eafcc.webp</picture>
-<vendor>AMP400RenamingBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = no, товар авто</name>
 <name_ua>Тест: товар з M-id і ref = no, товар авто</name_ua>
 <description>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
@@ -135,7 +133,6 @@
 <param name="Вага" paramid="20884">1.5 кг</param>
 <param name="EAN">4710886459217</param>
 <param name="Внутрішні накопичувачі">eMMC</param>
-<param name="Бренд">AMP400RenamingBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Нет</param>
 <price_old>12974.29</price_old>
@@ -150,7 +147,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/a/d/8/2/c/9/3/1/e/e/1/5/4/3/d/8/full/ad82c931ee1543d89db780cb69e5842f.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/f/8/9/b/b/9/0/d/7/d/8/5/4/8/3/e/full/f89bb90d7d85483eb06786a023d30dd0.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/d/c/3/6/5/0/4/2/2/a/8/0/4/6/8/f/full/dc3650422a80468fbc4f4dc0ac8f17af.webp</picture>
-<vendor>AMP400RenamingBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і немає ref, товар авто</name>
 <name_ua>Тест: товар з M-id і немає ref, товар авто</name_ua>
 <description>Тест: товар без ref. Перевірити, в товарі відсутне поле Ref</description>
@@ -188,7 +185,6 @@
 <param name="Вага" paramid="20884">1.1 кг</param>
 <param name="Внутрішні накопичувачі">eMMC</param>
 <param name="Відеокарта" paramid="115418">Intel UHD Graphics 600</param>
-<param name="Бренд">AMP400RenamingBrand</param>
 <param name="Гарантія">12 місяців</param>
 <price_old>11121.53</price_old>
 </offer>
@@ -201,7 +197,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400StopBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = yes і товар ручний</name>
 <name_ua>Тест: товар з M-id і ref = yes і товар ручний</name_ua>
 <description>Тест: товар ref = yes Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description>
@@ -214,7 +210,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400StopBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Да</param>
 </offer>
@@ -227,7 +222,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400StopBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = empty, товар ручний</name>
 <name_ua>Тест: товар з M-id і ref = empty, товар ручний</name_ua>
 <description>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
@@ -240,7 +235,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный"></param>
 </offer>
@@ -253,7 +247,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = no, товар ручний</name>
 <name_ua>Тест: товар з M-id і ref = no, товар ручний</name_ua>
 <description>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
@@ -266,7 +260,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Нет</param>
 </offer>
@@ -275,11 +268,11 @@
 <price>955.06</price>
 <currencyId>UAH</currencyId>
 <categoryId>C320580</categoryId>
+<vendor>Anker</vendor>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/4/e/b/b/d/5/2/2/7/d/4/4/4/8/7/7/full/4ebbd5227d44487792f933df8a56b2f5.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
 <name>Тест: товар з M-id і ref = yes, і неперед заповнене поле state yes</name>
 <name_ua>Тест: товар з M-id і ref = yes, і неперед заповнене поле state yes</name_ua>
 <description>Тест: товар ref = yes, state = yes. Перевірити негативний випадок</description>
@@ -292,7 +285,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Да</param>
 </offer>
@@ -305,7 +297,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = no, і неперед заповнене поле state no (б/у)</name>
 <name_ua>Тест: товар з M-id і ref = no, і неперед заповнене поле state no (б/у)</name_ua>
 <description>Тест: товар ref = no, state = no (б/у). Перевірити негативний випадок</description>
@@ -318,7 +310,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Нет</param>
 </offer>
@@ -331,7 +322,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = empty, і неперед заповнене поле state empty</name>
 <name_ua>Тест: товар з M-id і ref = empty, і неперед заповнене поле state empty</name_ua>
 <description>Тест: товар ref = empty, state = empty. Перевірити випадок</description>
@@ -344,7 +335,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный"></param>
 </offer>
@@ -357,7 +347,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = yes, і неперед заповнене поле state no</name>
 <name_ua>Тест: товар з M-id і ref = yes, і неперед заповнене поле state no</name_ua>
 <description>Тест: товар ref = yes, state = no. Перевірити випадок</description>
@@ -370,7 +360,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Да</param>
 </offer>
@@ -383,7 +372,7 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
-<vendor>AMP400BlablablaBrand</vendor>
+<vendor>Anker</vendor>
 <name>Тест: товар з M-id і ref = no, і неперед заповнене поле state yes</name>
 <name_ua>Тест: товар з M-id і ref = no, і неперед заповнене поле state yes</name_ua>
 <description>Тест: товар ref = no, state = yes. Перевірити випадок</description>
@@ -396,7 +385,6 @@
 <param name="Роздільна здатність сенсору (max)">1600 dpi</param>
 <param name="Джерело живлення">1 × AAA, 1 x AA</param>
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
-<param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный">Нет</param>
 </offer>
