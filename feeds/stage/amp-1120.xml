@@ -29,6 +29,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400RemovalBrand</param>
 <param name="Гарантія">3 місяців</param>
+<param name="Восстановленный"></param>
 <price_old>1999</price_old>
 </offer>
 <offer id="amp-1120-2-ref-yes" available="true">
@@ -74,6 +75,7 @@
 <param name="Відеокарта" paramid="115418">Intel UHD Graphics 600</param>
 <param name="Бренд">AMP400RemovalBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Да</param>
 <price_old>14707.16</price_old>
 </offer>
 <offer id="amp-1120-3-ref-no" available="true">
@@ -123,6 +125,7 @@
 <param name="Внутрішні накопичувачі">eMMC</param>
 <param name="Бренд">AMP400RenamingBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Нет</param>
 <price_old>12974.29</price_old>
 </offer>
 <offer id="amp-1120-4-without-ref" available="true">
@@ -185,8 +188,6 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400StopBrand</vendor>
-<docket/>
-<docket_ua/>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -197,6 +198,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400StopBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Да</param>
 </offer>
 <offer id="amp-1120-6-ref-empty-no-feed" available="true">
 <stock_quantity>1</stock_quantity>
@@ -220,6 +222,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный"></param>
 </offer>
 <offer id="amp-1120-7-ref-no-no-feed" available="true">
 <stock_quantity>1</stock_quantity>
@@ -231,8 +234,6 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
-<docket/>
-<docket_ua/>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -243,6 +244,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Нет</param>
 </offer>
 <offer id="amp-1120-8-ref_and_state_both_yes" available="true">
 <stock_quantity>1</stock_quantity>
@@ -254,8 +256,6 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
-<docket/>
-<docket_ua/>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -266,6 +266,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Да</param>
 </offer>
 <offer id="amp-1120-9-ref_and_state_both_no" available="true">
 <stock_quantity>1</stock_quantity>
@@ -277,8 +278,6 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
-<docket/>
-<docket_ua/>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -289,6 +288,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Нет</param>
 </offer>
 <offer id="amp-1120-10-ref_and_state_both_empty" available="true">
 <stock_quantity>1</stock_quantity>
@@ -300,8 +300,6 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
-<docket/>
-<docket_ua/>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -312,6 +310,7 @@
 <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
+<param name="Восстановленный"></param>
 </offer>
 </offers>
 </shop>
