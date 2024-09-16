@@ -18,6 +18,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/f/a/8/b/f/5/9/a/5/3/2/9/4/3/b/a/full/fa8bf59a532943baacd9a862c7134327.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/4/6/2/9/e/6/4/b/a/9/9/c/4/0/7/1/full/4629e64ba99c4071a5ed8e51128246d0.webp</picture>
 <vendor>AMP400RemovalBrand</vendor>
+<name>Тест: товар з M-id і ref = empty, товар авто</name>
+<name_ua>Тест: товар з M-id і ref = empty, товар авто</name_ua>
+<description>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Призначення">Для планшета</param>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">Bluetooth, microUSB</param>
@@ -41,6 +45,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/b/a/7/a/2/9/c/5/2/1/4/5/6/1/full/32ba7a29c5214561a1e4991d82b3c537.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/d/e/1/9/d/2/e/2/b/1/d/3/4/3/0/1/full/de19d2e2b1d3430183e67bcd18ef4467.webp</picture>
 <vendor>AMP400RemovalBrand</vendor>
+<name>Тест: товар з M-id і ref = yes, товар авто</name>
+<name_ua>Тест: товар з M-id і ref = yes, товар авто</name_ua>
+<description>Тест: товар ref = yes Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = yes. Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Вид ноутбука">Для роботи та навчання</param>
 <param name="Формат роздільної здатності екрану">2K</param>
 <param name="Діагональ екрану" paramid="20861">14 "</param>
@@ -87,6 +95,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/3/2/3/b/d/9/4/e/f/c/d/2/4/a/4/1/full/323bd94efcd24a41a4ab8aaa7474c540.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/4/7/7/c/5/5/8/d/4/1/7/9/4/6/0/1/full/477c558d41794601964fc68cff9eafcc.webp</picture>
 <vendor>AMP400RenamingBrand</vendor>
+<name>Тест: товар з M-id і ref = no, товар авто</name>
+<name_ua>Тест: товар з M-id і ref = no, товар авто</name_ua>
+<description>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Вид ноутбука">Chromebook, Для роботи та навчання, З сенсорним екраном</param>
 <param name="Формат роздільної здатності екрану">Full HD</param>
 <param name="Діагональ екрану" paramid="20861">14 "</param>
@@ -139,8 +151,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/f/8/9/b/b/9/0/d/7/d/8/5/4/8/3/e/full/f89bb90d7d85483eb06786a023d30dd0.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/d/c/3/6/5/0/4/2/2/a/8/0/4/6/8/f/full/dc3650422a80468fbc4f4dc0ac8f17af.webp</picture>
 <vendor>AMP400RenamingBrand</vendor>
-<docket/>
-<docket_ua/>
+<name>Тест: товар з M-id і немає ref, товар авто</name>
+<name_ua>Тест: товар з M-id і немає ref, товар авто</name_ua>
+<description>Тест: товар без ref. Перевірити, в товарі відсутне поле Ref</description>
+<description_ua>Тест: товар без ref. Перевірити, в товарі відсутне поле Ref</description_ua>
 <param name="Вид ноутбука">З сенсорним екраном, Трансформер, Для роботи та навчання</param>
 <param name="Формат роздільної здатності екрану">Full HD</param>
 <param name="Діагональ екрану" paramid="20861">11.6 "</param>
@@ -188,6 +202,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400StopBrand</vendor>
+<name>Тест: товар з M-id і ref = yes і товар ручний</name>
+<name_ua>Тест: товар з M-id і ref = yes і товар ручний</name_ua>
+<description>Тест: товар ref = yes Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = yes. Перевірити, що автоматично НЕ заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -210,8 +228,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400StopBrand</vendor>
-<docket/>
-<docket_ua/>
+<name>Тест: товар з M-id і ref = empty, товар ручний</name>
+<name_ua>Тест: товар з M-id і ref = empty, товар ручний</name_ua>
+<description>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = empty. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -234,6 +254,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = no, товар ручний</name>
+<name_ua>Тест: товар з M-id і ref = no, товар ручний</name_ua>
+<description>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description>
+<description_ua>Тест: товар ref = no. Перевірити, що автоматично заповнилась характеристика Стан значенням Новий</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -256,6 +280,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = yes, і неперед заповнене поле state yes</name>
+<name_ua>Тест: товар з M-id і ref = yes, і неперед заповнене поле state yes</name_ua>
+<description>Тест: товар ref = yes, state = yes. Перевірити негативний випадок</description>
+<description_ua>Тест: товар ref = yes, state = yes. Перевірити негативний випадок</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -278,6 +306,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = no, і неперед заповнене поле state no (б/у)</name>
+<name_ua>Тест: товар з M-id і ref = no, і неперед заповнене поле state no (б/у)</name_ua>
+<description>Тест: товар ref = no, state = no (б/у). Перевірити негативний випадок</description>
+<description_ua>Тест: товар ref = no, state = no (б/у). Перевірити негативний випадок</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -300,6 +332,10 @@
 <picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
 <picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
 <vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = empty, і неперед заповнене поле state empty</name>
+<name_ua>Тест: товар з M-id і ref = empty, і неперед заповнене поле state empty</name_ua>
+<description>Тест: товар ref = empty, state = empty. Перевірити випадок</description>
+<description_ua>Тест: товар ref = empty, state = empty. Перевірити випадок</description_ua>
 <param name="Тип підключення">Бездротове</param>
 <param name="Інтерфейси і підключення">USB</param>
 <param name="Формат клавіатури">Повнорозмірна</param>
@@ -311,6 +347,58 @@
 <param name="Бренд">AMP400BlablablaBrand</param>
 <param name="Гарантія">12 місяців</param>
 <param name="Восстановленный"></param>
+</offer>
+<offer id="amp-1120-11-ref_yes_and_state_no" available="true">
+<stock_quantity>1</stock_quantity>
+<price>955.06</price>
+<currencyId>UAH</currencyId>
+<categoryId>C320580</categoryId>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/4/e/b/b/d/5/2/2/7/d/4/4/4/8/7/7/full/4ebbd5227d44487792f933df8a56b2f5.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
+<vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = yes, і неперед заповнене поле state no</name>
+<name_ua>Тест: товар з M-id і ref = yes, і неперед заповнене поле state no</name_ua>
+<description>Тест: товар ref = yes, state = no. Перевірити випадок</description>
+<description_ua>Тест: товар ref = yes, state = no. Перевірити випадок</description_ua>
+<param name="Тип підключення">Бездротове</param>
+<param name="Інтерфейси і підключення">USB</param>
+<param name="Формат клавіатури">Повнорозмірна</param>
+<param name="Розкладка клавіатури">Англійська</param>
+<param name="Кількість кнопок">3 шт.</param>
+<param name="Роздільна здатність сенсору (max)">1600 dpi</param>
+<param name="Джерело живлення">1 × AAA, 1 x AA</param>
+<param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+<param name="Бренд">AMP400BlablablaBrand</param>
+<param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Да</param>
+</offer>
+<offer id="amp-1120-12-ref_no_and_state_yes" available="true">
+<stock_quantity>1</stock_quantity>
+<price>955.06</price>
+<currencyId>UAH</currencyId>
+<categoryId>C320580</categoryId>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/4/e/b/b/d/5/2/2/7/d/4/4/4/8/7/7/full/4ebbd5227d44487792f933df8a56b2f5.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/5/7/4/1/d/8/b/a/a/4/8/4/4/4/5/3/full/5741d8baa4844453b967bc85a4f4fd33.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/9/5/5/8/3/7/3/a/3/5/0/4/4/5/e/a/full/9558373a350445ea9a00a6ed8d8c9e39.webp</picture>
+<picture>https://cdn.synthetic.com.ua/media/assets/images/0/0/5/1/7/7/b/3/3/a/9/e/4/6/4/f/full/005177b33a9e464f91785fbed1db3f8e.webp</picture>
+<vendor>AMP400BlablablaBrand</vendor>
+<name>Тест: товар з M-id і ref = no, і неперед заповнене поле state yes</name>
+<name_ua>Тест: товар з M-id і ref = no, і неперед заповнене поле state yes</name_ua>
+<description>Тест: товар ref = no, state = yes. Перевірити випадок</description>
+<description_ua>Тест: товар ref = no, state = yes. Перевірити випадок</description_ua>
+<param name="Тип підключення">Бездротове</param>
+<param name="Інтерфейси і підключення">USB</param>
+<param name="Формат клавіатури">Повнорозмірна</param>
+<param name="Розкладка клавіатури">Англійська</param>
+<param name="Кількість кнопок">3 шт.</param>
+<param name="Роздільна здатність сенсору (max)">1600 dpi</param>
+<param name="Джерело живлення">1 × AAA, 1 x AA</param>
+<param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+<param name="Бренд">AMP400BlablablaBrand</param>
+<param name="Гарантія">12 місяців</param>
+<param name="Восстановленный">Нет</param>
 </offer>
 </offers>
 </shop>
