@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2011-07-20 14:58">
+   <shop>
+      <name>ABC</name>
+      <categories>
+         <category id="391">Куртки для хлопчиків</category>
+         <category id="245">Аромадіфузори</category>
+      </categories>
+      <offers>
+         <offer id="19305" available="true">
+            <url>http://abc.ua/catalog/muzhskaya_odezhda/kurtki/kurtkabx.html</url>
+            <price>4499</price>
+            <currencyId>UAH</currencyId>
+            <categoryId>391</categoryId>
+            <picture>http://abc.ua/upload/iblock/a53/a5391cddb40be91705.jpg</picture>
+            <picture>http://abc.ua/upload/iblock/9d0/9d06805d219fb525fc.jpg</picture>
+            <picture>http://abc.ua/upload/iblock/93d/93de38537e1cc1f8f2.jpg</picture>
+            <vendor>Abc clothes</vendor>
+            <stock_quantity>100</stock_quantity>
+            <name>Куртка Abc clothes Scoperandom-HH 146 см Чорна (1323280942900)</name>
+            <description><![CDATA[<p>Одяг<b>Abc clothes</b> сприяє розвитку функцій головного мозку за рахунок заохочення дрібної моторики.</p><p>В Abc <b>New Collection</b> буде особливо зручно лазити, стрибати, бігати.</p><p>За рахунок своєї універсальності та багатофункціональності, <b>Abc clothes</b> відмінно підходить:</p><ul><li><b>Для весни </b></li><li><b>Для літа</b></li><li><b>Для ранньої осені</b></li></ul><p><b >Склад:</b>• 92% поліестер, 8%еластан, не токсичність підтверджена лабораторно.</p><p><b>Вага:</b> 305 г</p>]]></description>
+            <param name="Зростання">146 см</param>
+            <param name="Сезон">Весна-Осінь</param>
+            <param name="Колір">Чорний</param>
+            <param name="Стиль">Повсякденний (casual)</param>
+            <param name="Особливості">Модель з капюшоном</param>
+            <param name="Склад">92% поліестер, 8% еластан</param>
+            <param name="Країна виробник товару">Естонія</param>
+            <param name="Артикул">58265468</param>
+         </offer>
+         <offer id="42576" available="true">
+            <url>http://abc.ua/catalog/aromadifuzori/greanleaf-heaven.html</url>
+            <price>22.50</price>
+            <price_old>25.80</price_old>
+            <currencyId>USD</currencyId>
+            <categoryId>245</categoryId>
+            <picture>http://abc.ua/upload/images/detailed/99/GL_signatureRD-haven.jpg</picture>
+            <vendor>Greenleaf Haven</vendor>
+            <stock_quantity>10</stock_quantity>
+            <name>Аромадіфузор Greenleaf Haven Морська Гавань 118 мл</name>
+            <description><![CDATA[<p>Освіжаючий аромат морського берега, змішаний запахами лаванди, квітками сонячного жасмину, разом із відтінками ніжного деревного бурштину та солодкого мускусу.</p><p>Термін дії аромату до 4 місяців.</p> Прозора скляна ромбова ваза-розпилювач запакована в стильну упаковку, включаючи набір очеретяних тростин, разом з 133 мл. аромамасла всередині. Освіжає та ароматизує будь-який кімнатний простір.</p><p>Зроблено в США.</p>]]></description>
+            <param name="Об'єм, мл" paramid="140098" valueid="2194404">118</param>
+            <param name="Колір" paramid="140189" valueid="1641734">Прозорий</param>
+            <param name="Аромат" paramid="140133" valueid="1360568">Морська свіжість</param>
+            <param name="Наявність аромату" paramid="143288" valueid="1346424">З ароматом</param>
+            <param name="Країна-виробник товару" paramid="98900" valueid="619903">США</param>
+            <param name="Матеріал" paramid="142168"><![CDATA[ Скло/Кераміка ]]></param>
+         </offer>
+      </offers>
+   </shop>
+</yml_catalog>
