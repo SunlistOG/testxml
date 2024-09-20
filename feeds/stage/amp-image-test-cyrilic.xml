@@ -40,6 +40,7 @@
         <param name="Розмір" unit="EU">37</param>
         <param name="Цвет">Чорний</param>
         <param name="Підошва">Єва</param>
+        <param name="Тест">Єва</param>
       </offer>
       <offer id="1070pov10571" type="vendor.model" available="false" group_id="1070">
         <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
@@ -72,6 +73,7 @@
         <param name="Розмір" unit="EU">38</param>
         <param name="Цвет">Чорний</param>
         <param name="Підошва">Єва</param>
+        <param name="Тест">Єва</param>
       </offer>
       <offer id="1070pov10572" type="vendor.model" available="true" group_id="1070">
         <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
@@ -104,6 +106,7 @@
         <param name="Розмір" unit="EU">39</param>
         <param name="Цвет">Чорний</param>
         <param name="Підошва">Єва</param>
+        <param name="Тест">Єва</param>
       </offer>
       <offer id="1070pov10573" type="vendor.model" available="false" group_id="1070">
         <url>https://oldcom.ua/cherevyky-zhinochi-zymovi-victoria-chorni.html</url>
@@ -125,6 +128,7 @@
         <param name="Розмір" unit="EU">40</param>
         <param name="Цвет">Чорний</param>
         <param name="Підошва">Єва</param>
+        <param name="Тест">Єва</param>
       </offer>
     </offers>
   </shop>
