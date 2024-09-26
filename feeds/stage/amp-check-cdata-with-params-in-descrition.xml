@@ -1,0 +1,110 @@
+<yml_catalog date="2024-01-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="950">Неваляшки</category>
+    </categories>
+    <offers>
+<offer id="159088" available="true">
+			<article>6315</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Неваляшка маленькая 6315</name>
+			<name_ua>Неваляшка маленька 6315</name_ua>
+			<vendor>A-Toys</vendor>
+			<country>Китай</country>
+			<description><![CDATA[<p>Неваляшка размер 8см.</p><p>Неваляшка - замечательная игрушка для самых маленьких малышей. Изготовлена из качественных полимерных материалов, безопасных для детей.</p><p>Игрушка имеет вид милой зверушки. Игрушка не имеет опоры, поэтому от малейшего толчка животное начинает шататься из стороны в сторону. Неваляшку приятно брать в руки, она имеет гладкую поверхность приятного цвета.</p><p>Такая игрушка будет проявлять у детей интерес к играм и стимулирует зрительные и слуховые чувства.<br /><br />В ассортименте : уточка или жучек.</p><ul><li>Тип: Неваляшки</li><li>Бренд: A-Toys</li><li>Рекомендуемый возраст: 1+</li><li>Размер упаковки: 12-16-6см</li><li>Страна производитель: Китай</li><li>Упаковка: Блистер</li></ul>]]></description>
+			<description_ua><![CDATA[<p>Неваляшка розмір 8см.</p><p>Неваляшка &ndash; чудова іграшка для найменших малюків. Виготовлена із якісних полімерних матеріалів, безпечних для дітей.</p><p>Іграшка має вигляд милого звірятка. Іграшка не має опори, тому від найменшого поштовху тварина починає хитатися з боку на бік. Неваляшку приємно брати до рук, вона має гладку поверхню приємного кольору.</p><p>Така іграшка виявлятиме у дітей інтерес до ігор та стимулює зорові та слухові почуття.<br /><br /> В асортименті: качечка або жучок.</p><ul><li>Тип: Неваляшки</li><li>Бренд: A-Toys</li><li>Рекомендуемый возраст: 1+</li><li>Размер упаковки: 12-16-6см</li><li>Страна производитель: Китай</li><li>Упаковка: Блистер</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20211208225858093835.jpg</picture>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20180312172918355564.jpg</picture>
+		</offer>
+		<offer id="104886" available="true">
+			<article>BOC058301</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>1432</categoryId>
+			<name>Ножицi офiснi JOBMAX, 175мм BOC058301</name>
+			<name_ua>Ножицi офiснi JOBMAX, 175мм BOC058301</name_ua>
+			<description><![CDATA[Ножицi офiснi JOBMAX, 175мм<ul><li>Тип: Ножницы</li></ul>]]></description>
+			<description_ua><![CDATA[Ножицi офiснi JOBMAX, 175мм<ul><li>Тип: Ножницы</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20160925132850124895.jpg</picture>
+		</offer>
+		<offer id="108948" available="true">
+			<article>980113</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Гирлянда 50 &quot;Праздничная&quot; (разноцветная) 2м 980113</name>
+			<name_ua>Гирлянда 50 &quot;Праздничная&quot; (разноцветная) 2м 980113</name_ua>
+			<vendor>Yes! Fun</vendor>
+			<country>Китай</country>
+			<description><![CDATA[Гир.50 "Праздничная" (разноцветная) 2м<ul><li>Тип: Новогодняя мишура</li><li>Бренд: Yes! Fun</li><li>Страна производитель: Китай</li></ul>]]></description>
+			<description_ua><![CDATA[Гир.50 "Праздничная" (разноцветная) 2м<ul><li>Тип: Новогодняя мишура</li><li>Бренд: Yes! Fun</li><li>Страна производитель: Китай</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20200803193615277054.jpg</picture>
+		</offer>
+		<offer id="109969" available="true">
+			<article>740273</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Надпись из фанеры 0.6 &quot;ONE LOVE&quot; 740273</name>
+			<name_ua>Надпись из фанеры 0.6 &quot;ONE LOVE&quot; 740273</name_ua>
+			<vendor>SANTI</vendor>
+			<country>Китай</country>
+			<description><![CDATA[Надпись из фанеры 0.6 "ONE LOVE", 20*8.5см<ul><li>Тип: Основы для творчества, заготовки</li><li>Бренд: SANTI</li><li>Страна производитель: Китай</li></ul>]]></description>
+			<description_ua><![CDATA[Надпись из фанеры 0.6 "ONE LOVE", 20*8.5см<ul><li>Тип: Основы для творчества, заготовки</li><li>Бренд: SANTI</li><li>Страна производитель: Китай</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20161124103221493189.jpg</picture>
+		</offer>
+		<offer id="116549" available="true">
+			<article>86046/7006-01</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Корректор-лента &quot;Axent&quot; сине-желтый 86046/7006-01</name>
+			<name_ua>Коректор-стрічка &quot;Axent&quot; синьо-жовтий 86046/7006-01</name_ua>
+			<vendor>Axent</vendor>
+			<country>Германия</country>
+			<description><![CDATA[Корректор-лента "Axent" сине-желтый 5х5см<ul><li>Тип: Корректоры</li><li>Бренд: Axent</li><li>Страна производитель: Германия</li></ul>]]></description>
+			<description_ua><![CDATA[Коректор-стрічка "Axent" синьо-жовтий 5х5см<ul><li>Тип: Корректоры</li><li>Бренд: Axent</li><li>Страна производитель: Германия</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170219182448947607.jpg</picture>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170219182500567960.jpg</picture>
+		</offer>
+		<offer id="117503" available="true">
+			<article>84649</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Набор &quot;Учимся считать и читать&quot; абетка односторонняя (укр) 84649</name>
+			<name_ua>Набір &quot;Вчимося рахувати та читати&quot; одностороння алфавіт (укр) 84649</name_ua>
+			<description><![CDATA[Набор "Учимся считать и читать" абетка односторонняя (укр). В асортименте геометрические фигуры, цифры и палочки.<ul><li>Тип: Азбука</li></ul>]]></description>
+			<description_ua><![CDATA[Набір "Вчимося рахувати та читати" одностороння алфавіт (укр). В асортименті геометричні фігури, цифри та палички.<ul><li>Тип: Азбука</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170223175510368573.jpg</picture>
+		</offer>
+		<offer id="117774" available="true">
+			<article>101812</article>
+			<price>34.8</price>
+			<salePrice>29</salePrice>
+			<currencyId>UAH</currencyId>
+			<categoryId>950</categoryId>
+			<name>Кисть живописная (пони) &quot;ROSA START&quot; 612 круглая № 0 101812</name>
+			<name_ua>Кисть живописная (пони) &quot;ROSA START&quot; 612 круглая № 0 101812</name_ua>
+			<vendor>ROSA</vendor>
+			<country>Україна</country>
+			<description><![CDATA[<p>Кисть живописная (пони) &quot;ROSA START&quot; 612 круглая № 0 **</p><ul><li>Тип: Пони кисть</li><li>Бренд: ROSA</li><li>Страна производитель: Україна</li></ul>]]></description>
+			<description_ua><![CDATA[<p>Кисть живописная (пони) &quot;ROSA START&quot; 612 круглая № 0 **</p><ul><li>Тип: Пони кисть</li><li>Бренд: ROSA</li><li>Страна производитель: Україна</li></ul>]]></description_ua>
+			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170224134819846071.jpg</picture>
+		</offer>
+    </offers>
+  </shop>
+</yml_catalog>
