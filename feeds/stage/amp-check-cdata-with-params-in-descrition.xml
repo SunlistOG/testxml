@@ -9,9 +9,9 @@
       <category id="950">Неваляшки</category>
     </categories>
     <offers>
-<offer id="159088" available="true">
+<offer id="159088" available="false">
 			<article>6315</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -31,9 +31,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="104886" available="true">
+		<offer id="104886" available="false">
 			<article>BOC058301</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -51,9 +51,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="108948" available="true">
+		<offer id="108948" available="false">
 			<article>980113</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -72,9 +72,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="109969" available="true">
+		<offer id="109969" available="false">
 			<article>740273</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -93,9 +93,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="116549" available="true">
+		<offer id="116549" available="false">
 			<article>86046/7006-01</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -115,9 +115,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="117503" available="true">
+		<offer id="117503" available="false">
 			<article>84649</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
@@ -135,9 +135,9 @@
         		<param name="Персонаж" unit="">Mario</param>
         		<param name="Материал" unit="">Дерево</param>
 		</offer>
-		<offer id="117774" available="true">
+		<offer id="117774" available="false">
 			<article>101812</article>
-			<price>34.8</price>
+			<price>50</price>
 			<salePrice>29</salePrice>
 			<currencyId>UAH</currencyId>
 			<categoryId>950</categoryId>
