@@ -25,7 +25,7 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20180312172918355564.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
-	                <param name="Восстановленный">Да</param>
+	                <param name="Восстановленный">Нет</param>
 			<param name="Тип">Головоломка</param>     
         		<param name="Гарантия" unit="">12 месяцев</param>
         		<param name="Персонаж" unit="">Mario</param>
