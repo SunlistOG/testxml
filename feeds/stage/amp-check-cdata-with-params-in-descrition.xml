@@ -25,6 +25,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20180312172918355564.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+	                <param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="104886" available="true">
 			<article>BOC058301</article>
@@ -39,6 +44,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20160925132850124895.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="108948" available="true">
 			<article>980113</article>
@@ -55,6 +65,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20200803193615277054.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="109969" available="true">
 			<article>740273</article>
@@ -71,6 +86,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20161124103221493189.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="116549" available="true">
 			<article>86046/7006-01</article>
@@ -88,6 +108,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170219182500567960.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="117503" available="true">
 			<article>84649</article>
@@ -102,6 +127,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170223175510368573.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
 		<offer id="117774" available="true">
 			<article>101812</article>
@@ -118,6 +148,11 @@
 			<picture>https://cdn.mamazin.com.ua/img/products_pictures/large_20170224134819846071.jpg</picture>
 			<picture>https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_1280.png</picture>
 			<picture>https://www.imatest.com/wp-content/uploads/2015/02/imatest-video-default-thumbnail.jpg</picture>
+			<param name="Восстановленный">Да</param>
+			<param name="Тип">Головоломка</param>     
+        		<param name="Гарантия" unit="">12 месяцев</param>
+        		<param name="Персонаж" unit="">Mario</param>
+        		<param name="Материал" unit="">Дерево</param>
 		</offer>
     </offers>
   </shop>
