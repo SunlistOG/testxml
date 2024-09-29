@@ -1,0 +1,58 @@
+
+<yml_catalog date="2024-01-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="488035ac-9347-11e9-892d-00155d007b00">Неваляшки</category>
+    </categories>
+    <offers>
+<offer id="73009559" available="true">
+      <url></url>
+			<price>1016</price>
+			<price_old>1218</price_old>
+      <stock_quantity>3</stock_quantity>
+			<currencyId>UAH</currencyId>
+			<categoryId>488035ac-9347-11e9-892d-00155d007b00</categoryId>
+			<name>Аккумулятор (Батарея) для фотоаппарата Sony NP-FM500H</name>
+			<name_ua>Акумулятор (Батарея) для фотоапарата Sony NP-FM500H</name_ua>
+			<vendor>Nobrand</vendor>
+			<country>Китай</country>
+			<description></description>
+			<description_ua></description_ua>
+			<picture>https://storage.mobimarkett.com.ua/smart/Photo/000042793_1.jpg</picture>
+			<param name="Тип">АКБ</param>     
+      <param name="Бренд" unit="">Nobrand</param>
+      <param name="Назначение" unit="">Для фотоаппарата</param>
+      <param name="Минимальная кратность товара (float)" unit="">1</param>
+      <param name="Мера измерения" unit="">шт.</param>
+      <param name="Кратність (float)" unit="">1</param>
+		</offer>
+<offer id="730095591" available="true">
+				<name>Аккумулятор (Батарея) для фотоаппарата Sony NP-FM500H</name>
+				<name_ua>Акумулятор (Батарея) для фотоапарата Sony NP-FM500H</name_ua>
+				<description><![CDATA[<p>Аккумулятор - специально разработанное устройство, где выработка энергии происходит благодаря химическим процессам. Энергия, выделяемая при химических реакциях, преобразовывается в электрическую, далее отдает заряд для различных приборов, устройств. Процесс этот обратимый. При разряде батареи электрическая энергия переходит в химическую, накапливая при этом энергетический запас. Просим проверять товар на почте и соблюдать гарантийные условия "хранения пленок, пломб, упаковки товара".</p>]]>
+				</description>
+				<description_ua><![CDATA[<p>Акумулятор - спеціально розроблений пристрій, де виробництво енергії відбувається завдяки хімічним процесам. Енергія, що виділяється при хімічних реакціях, перетворюється на електричну, далі віддає заряд для різних приладів, пристроїв. Процес цей оборотний. При розряді батареї електрична енергія перетворюється на хімічну, накопичуючи у своїй енергетичний запас. Просимо перевіряти товар на пошті та дотримуватись гарантійних умов "зберігання плівок, пломб, упаковки товару".</p>]]>
+				</description_ua>
+				<url/>
+				<price>1016</price>
+				<price_old>1218</price_old>
+				<currencyId>UAH</currencyId>
+				<categoryId>488035ac-9347-11e9-892d-00155d007b00</categoryId>
+				<picture>https://storage.mobimarkett.com.ua/smart/Photo/000042793_1.jpg</picture>
+				<stock_quantity>3</stock_quantity>
+				<vendor>Nobrand</vendor>
+				<param name="Минимальная кратность товара (float)">1</param>
+				<param name="Бренд">Nobrand</param>
+				<param name="Тип">АКБ</param>
+				<param name="Назначение">Для фотоаппарата</param>
+				<param name="Кратність (float)">1</param>
+				<param name="Мера измерения">шт.</param>
+			</offer>
+    </offers>
+  </shop>
+</yml_catalog>
