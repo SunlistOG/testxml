@@ -6,10 +6,10 @@
       <currency id="UAH" rate="1" />
     </currencies>
     <categories>
-      <category id="C320580">Ноутбуки</category>
+      <category id="1">Ноутбуки</category>
     </categories>
     <offers>
-      <offer id="amp-1129-test-1" available="true">
+      <offer id="amp-1129-test-1-1" available="true">
         <stock_quantity>1</stock_quantity>
         <price>100000</price>
         <currencyId>UAH</currencyId>
