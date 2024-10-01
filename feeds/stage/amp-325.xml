@@ -3104,7 +3104,7 @@ Paragraph text3
     Paragraph  text.
   &lt;/p&gt;  &lt;br&gt;
 &lt;/div&gt;
-Перевірка тексту
+Перевірка тексту 11111
 
     </name>
     <name_ru>
@@ -3114,7 +3114,7 @@ Paragraph text3
     Paragraph  text.
   &lt;/p&gt;  &lt;br&gt;
 &lt;/div&gt;
-Перевірка тексту
+Перевірка тексту 11111
     </name_ru>
     <price>100</price>
     <currencyId>UAH</currencyId>
@@ -3129,7 +3129,7 @@ Paragraph text3
   &lt;/p&gt;  &lt;br&gt;
 &lt;/div&gt;
 
-Перевірка тексту
+Перевірка тексту 11111
     </description>
     <description_ru>
 &lt;h1&gt;Heading1  &lt;/h1&gt;
@@ -3138,7 +3138,7 @@ Paragraph text3
     Paragraph  text.
   &lt;/p&gt;  &lt;br&gt;
 &lt;/div&gt;
-Перевірка тексту
+Перевірка тексту 11111
     </description_ru>
     <vendor>MR Displays</vendor>
     <stock_quantity>1</stock_quantity>
