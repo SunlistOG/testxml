@@ -609,7 +609,6 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
          </offer>
         <offer id="amp-1204-xml-link-25" available="true">
         <stock_quantity>1</stock_quantity>
@@ -635,7 +634,6 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
          </offer>
         <offer id="amp-1204-xml-link-26" available="true">
         <stock_quantity>1</stock_quantity>
@@ -661,7 +659,6 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
          </offer>
         <offer id="amp-1204-xml-link-27" available="true">
         <stock_quantity>1</stock_quantity>
@@ -687,7 +684,6 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
          </offer>
         <offer id="amp-1204-xml-link-28" available="true">
         <stock_quantity>1</stock_quantity>
@@ -713,7 +709,6 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
          </offer>
         <offer id="amp-1204-xml-link-29" available="true">
         <stock_quantity>1</stock_quantity>
@@ -739,8 +734,7 @@
         <param name="Вага">2 кг</param>
         <param name="Гарантія">12 місяців</param>
         <price_old>1999</price_old>
-      </offer>
-         </offer>
+       </offer>
         <offer id="amp-1204-xml-link-30" available="true">
         <stock_quantity>1</stock_quantity>
         <price>100000</price>
