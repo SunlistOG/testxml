@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<price>
+    <date>2023-09-10 17:00</date>
+    <firmName>Test.com</firmName>
+    <firmId>31234</firmId>
+    <rate>28.2</rate>
+    <categories>
+        <category>
+            <id>1</id>
+            <name>Комп'ютери, мережі</name>
+        </category>
+        <category>
+            <id>2</id>
+            <parentId>1</parentId>
+            <name>Планшети</name>
+        </category>
+        <category>
+            <id>3</id>
+            <name>Дитячі товари</name>
+        </category>
+        <category>
+            <id>4</id>
+            <parentId>3</parentId>
+            <name>Дитячі іграшки</name>
+        </category>
+        <category>
+            <id>5</id>
+            <parentId>4</parentId>
+            <name>Дитячі конструктори</name>
+        </category>
+    </categories>
+    <items>
+        <item>
+            <id testattribute="true">hotline-1-incorectTag name/description new</id>
+            <categoryId>2</categoryId>
+            <code>MRJP2</code>
+            <barcode>0190198233301</barcode>
+            <vendor  testattribute="true">Apple</vendor>
+            <Name>iPad 2018 128GB Wi-Fi Gold</Name>
+            <Description1>test desc</Description1>
+            <url>http://shop.ua/1/2/123.html</url>
+            <image testattribute="true">https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
+            <priceRUAH>15400</priceRUAH>
+            <priceRUSD>546</priceRUSD>
+            <Stock days="10">Під замовлення</Stock>
+            <delivery id="1" cost="70" freeFrom="5000" time="3" />
+            <guarantee type="manufacturer">12</guarantee>
+            <param name="Країна виготовлення">Китай</param>
+            <param name="Оригінальність">Оригінал</param>
+            <payment type="installment" from="Monobank, ПриватБанк">true</payment>
+            <payment type="cash-on-delivery" fee="2">true</payment>
+            <condition>0</condition>
+            <custom>1</custom>
+            <store id="1" name="Салон на Подолі" address="Київ, вул. Хорива, 10" coordinates="50.46629756808269,30.515580557670187" workdays_from="9:00" workdays_to="21:00" sat_from="10:00" sat_to="18:00" sun_from="10:00" sun_to="18:00" tel="+380931234567"></store>
+        </item>
+        <item>
+            <id>hotline-2-incorectTag name/description new</id>
+            <categoryId>5</categoryId>
+            <code>60190</code>
+            <barcode>5702016108781</barcode>
+            <vendor>LEGO</vendor>
+            <Name>Конструктор City Arctic Expedition Аеросани</Name>
+            <Description1>Вікова група - від 5 років, кількість деталей - 50 шт</Description1>
+            <url>http://shop.ua/1/3/553.html</url>
+            <image>https://www.imatest.com/wp-content/uploads/2023/12/2023-Year-In-Review-web.jpg</image>
+            <priceRUAH>199</priceRUAH>
+            <Stock>В наявності</Stock>
+            <guarantee unit="days" type="shop">14</guarantee>
+            <param name="Країна виготовлення">Данія</param>
+            <param name="Оригінальність">Оригінал</param>
+            <condition>0</condition>
+            <custom>1</custom>
+            <store id="2" name="Смарт-Плаза" address="Київ, пр. Перемоги, 24" coordinates="50.45145794465848,30.46873581153247" workdays_from="10:00" workdays_to="20:00" sat_from="11:00" sat_to="18:00" sun_from="11:00" sun_to="18:00" tel="+380931234567"></store>
+        </item>
+    </items>
+</price> yml-1-incorectTag name/description new
