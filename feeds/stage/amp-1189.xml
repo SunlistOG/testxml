@@ -52,6 +52,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">1506216864</param>
       </offer>
        <offer id="amp-1189-xml-2" available="true" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -91,6 +92,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">ВВ-325063216864</param>
       </offer>
       <offer id="amp-1189-xml-3" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -130,6 +132,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">RTX-3250616864</param>
       </offer>
       <offer id="amp-1189-xml-4" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -169,6 +172,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">TE-ST_3394772</param>
       </offer>
       <offer id="amp-1189-xml-5" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -208,6 +212,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">T_E33_94772</param>
       </offer>
         <offer id="amp-1189-xml-6" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -245,6 +250,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">T_E33_94772</param>
       </offer>
        <offer id="amp-1189-xml-7" available="false" group_id="374150248">
         <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
@@ -282,6 +288,7 @@
         <param name="Дополнительно_UA" unit="">тест юа</param>
         <param name="Персонаж" unit="">Ариэль</param>
         <param name="Гарантийный срок" unit="">12 месяцев</param>
+        <param name="Артикул" unit="">T_E33_94772</param>
       </offer>
     </offers>
   </shop>
