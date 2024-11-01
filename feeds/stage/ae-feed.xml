@@ -1,0 +1,294 @@
+<yml_catalog date="2024-08-16 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Стулья</category>
+    </categories>
+    <offers>
+      <offer id="allo-express-test-2" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К белый</name>
+        <name_ua>Стілець обідній Скіф Дана-К білий</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366338</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К белый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К білий - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Да</param>
+        <param name="Цвет">Белый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+      <offer id="allo-express-test-3" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К оранжевый</name>
+        <name_ua>Стілець обідній Скіф Дана-К помаранчевий</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366339</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К оранжевый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К помаранчевий - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Да</param>
+        <param name="Цвет">Оранжевый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-4" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К синий</name>
+        <name_ua>Стілець обідній Скіф Дана-К синій</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366340</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скіф Дана-К синий - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К синій - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет</param>
+        <param name="Цвет">Синий</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-5" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К зеленый</name>
+        <name_ua>Стілець обідній Скіф Дана-К зелений</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366341</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К зеленый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К зелений - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет<param>
+        <param name="Цвет">Зеленый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-6" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К красный</name>
+        <name_ua>Стілець обідній Скіф Дана-К красный</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366342</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К красный - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К красный - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет</param>
+        <param name="Цвет">Красный</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-7" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К фиолетовый</name>
+        <name_ua>Стілець обідній Скіф Дана-К фіолетовий</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366341</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скіф Дана-К фиолетовый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К фіолетовий - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет</param>
+        <param name="Цвет">Фиолетовый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-8" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К желтый</name>
+        <name_ua>Стілець обідній Скіф Дана-К жовтий</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366341</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К желтый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К жовтий - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет</param>
+        <param name="Цвет">Желтый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+<offer id="allo-express-test-9" available="true">
+        <url>https://epicentrk.ua/shop/stul-skif-dana-k-oranzhevyy-belyy-oranzhevyy.html</url>
+        <name>Стул обеденный Скиф Дана-К голубой</name>
+        <name_ua>Стілець обідній Скіф Дана-К жовтий</name_ua>
+        <vendor>OLDCOM</vendor>
+        <vendorCode>AE-80366341</vendorCode>
+        <sale_price>1</sale_price>
+        <price>2</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cdn.27.ua/799/8e/79/1412729_1.jpeg</picture>
+        <picture>https://cdn.27.ua/799/19/13/923923_2.jpeg</picture>
+        <description>Стул обеденный Скиф Дана-К желтый - описание товара</description>
+        <description_ua>Стілець обідній Скіф Дана-К жовтий - опис товару</description_ua>
+        <country_of_origin>Украина</country_of_origin>
+        <param name="Восстановленный">Нет</param>
+        <param name="Цвет">Желтый</param>
+        <param name="Тип">Стул</param>
+        <param name="Назначение">Для кухни</param>
+        <param name="Стиль">Прованс</param>
+        <param name="Конструкция">Цельная</param>
+        <param name="Сидение">Мягкое</param>
+        <param name="Наличие подлокотника">Есть</param>
+        <param name="Материал каркаса">Материал каркаса</param>
+        <param name="Цвет каркаса">Агаве</param>
+        <param name="Наполнитель">Синтепон</param>
+        <param name="Спинка">Мягкая</param>
+        <param name="Материал обивки">Велюр</param>
+        <param name="Максимальная нагрузка">12 кг</param>
+        <param name="Комплект">2 шт</param>
+        <param name="Гарантийный срок">12 месяцев</param>
+        <param name="Гарантия">12 месяцев</param>
+        <param name="Страна производитель">Украина</param>
+        <param name="Страна регистрации бренда">Украина</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
