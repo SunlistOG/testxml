@@ -11,10 +11,10 @@
 <currency id="EUR" rate="CB"/>
 </currencies>
 <categories>
-<category id="4310" parentId="4367">Куклы, наборы для кукол</category>
+<category id="4310" parentId="4367">Тест</category>
 </categories>
 <offers>
-<offer id="amp-1189-test-vendor-code-1" available="false" group_id="374150248">
+<offer id="amp-1189-test-vendor-code-3" available="false" group_id="374150248">
 <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
 <salePrice>199</salePrice>
 <price>499</price>
@@ -53,7 +53,7 @@
 <param name="Персонаж" unit="">Ариэль</param>
 <param name="Гарантийный срок" unit="">12 месяцев</param>
 </offer>
-  <offer id="amp-1189-test-vendor-code-2" available="false" group_id="374150248">
+  <offer id="amp-1189-test-vendor-code-4" available="false" group_id="374150248">
 <url>https://test.ua/p1506216864-remeshok-apple-watch.html</url>
 <salePrice>199</salePrice>
 <price>499</price>
