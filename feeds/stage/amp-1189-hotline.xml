@@ -93,5 +93,25 @@
             <shipping>0</shipping>
             <custom>1</custom>
         </item> 
+        <item>
+            <id>amp-1189-hotline-5</id>
+            <categoryId>1</categoryId>
+            <Code>60190</Code>
+            <barcode>5702016108781</barcode>
+            <Vendor>LEGO</Vendor>
+            <name>Конструктор City Arctic Expedition Аеросани</name>
+            <description>Вікова група - від 5 років, кількість деталей - 50 шт</description>
+            <url>http://shop.ua/1/3/553.html</url>
+            <image>http://shop.ua/img/1/3/gg9923.jpg</image>
+            <priceRUAH>199</priceRUAH>
+            <stock>В наявності</stock>
+            <region>Київ</region>
+            <guarantee unit="days" type="shop">14</guarantee>
+            <param name="Країна виготовлення">Данія</param>
+            <param name="Оригінальність">Оригінал</param>
+            <condition>0</condition>
+            <shipping>0</shipping>
+            <custom>1</custom>
+        </item> 
     </items>
 </price>
