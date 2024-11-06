@@ -21,6 +21,7 @@
 <Description>Тест ракетка ру</Description>
 <Description_ru>Тест ракетка юа</Description_ru>
 <vendor>Panasonic</vendor>
+<vendorCode>AMP-1189</vendorCode>
 <stock_quantity>1</stock_quantity>
 <param name="Гарантия">12 месяцев</param>
 <param name="Совместимый бренд">2E</param>
@@ -36,6 +37,34 @@
 <param name="Дизайнерская линия">Benya&amp;Zubrik</param>
 <param name="Габарити">28 x 15 см</param>
 <param name="Цвет">Candy</param>
+</offer>
+<offer id="yml-1-incorectTag name/description" available="true">
+<Name>Ракетка Сяомі</Name>
+<Name_ru>Ракетка Сяоми</Name_ru>
+<price>100</price>
+<sale_price>50</sale_price>
+<currencyId>UAH</currencyId>
+<categoryId>54</categoryId>
+<picture>https://i.allo.ua/media/catalog/product/import/320338966368013.jpg</picture>
+<Description>Тест ракетка ру</Description>
+<Description_ru>Тест ракетка юа</Description_ru>
+<vendor>Panasonic</vendor>
+<stock_quantity>1</stock_quantity>
+<param name="Гарантия">12 месяцев</param>
+<param name="Совместимый бренд">2E</param>
+<param name="Совместимая модель">Unihertz Tank 2</param>
+<param name="Країна виробник">Туреччина</param>
+<param name="Особенности чехла">Водонепроницаемый,Противоударный,С подставкой,Сенсорный,Прозрачный,Подсветка,Отображение данных</param>
+<param name="Форм-фактор">Чехол-сумка</param>
+<param name="Країна реєстрації бренду">Туреччина</param>
+<param name="Габариты">Багаторазові</param>
+<param name="Материал">Регульований фіксатор</param>
+<param name="Вес">200</param>
+<param name="Матеріал">Поликарбонат</param>
+<param name="Дизайнерская линия">Benya&amp;Zubrik</param>
+<param name="Габарити">28 x 15 см</param>
+<param name="Цвет">Candy</param>
+<param name="Артикул">AMP-1189 синонім</param>
 </offer>
 </offers>
 </shop>
