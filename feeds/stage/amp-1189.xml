@@ -20,7 +20,7 @@
         <price>499</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
-        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>     
         <pickup>false</pickup>
         <delivery>true</delivery>
         <name>Кукла Барби (тест із доданим вендор-кодом)</name>
@@ -562,7 +562,8 @@
         <price>499</price>
         <currencyId>UAH</currencyId>
         <categoryId>4310</categoryId>
-        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>        
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>   
+        <picture>https://i.ebayimg.com/images/g/ix0AAOSwoS5dZhCd/s-l500.jpg</picture>    
         <pickup>false</pickup>
         <delivery>true</delivery>
         <name>тест товару (T_E33_94139381) тест</name>
