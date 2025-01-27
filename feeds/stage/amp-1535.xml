@@ -1,0 +1,41 @@
+
+<yml_catalog date="2025-01-27 16:00:02">
+  <shop>
+    <name>"Інтернет магазин Test</name>
+    <company>"Інтернет магазин Test</company>
+    <currencies>
+      <currency id="UAH" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Планшети</category>
+    </categories>
+    <offers>
+      <offer id="amp-1535-xml-link-1" available="true">
+        <stock_quantity>1</stock_quantity>
+        <price>1000</price>
+        <currencyId>UAH</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://content2.rozetka.com.ua/goods/images/big/45646616.jpg</picture>
+        <picture>https://content1.rozetka.com.ua/goods/images/big/45646618.jpg</picture>
+        <vendor>Sony</vendor>
+        <vendorCode>SGP311RU/B.RU3</vendorCode>
+        <name>Планшет Sony Xperia Tablet Z 16GB Black (SGP311RU/B.RU3)</name>
+        <name_ua>Планшет Sony Xperia Tablet Z 16GB Black (SGP311RU/B.RU3)</name_ua>
+        <description>Планшет Sony Xperia Tablet Z 16GB Black (SGP311RU/B.RU3)</description>
+        <description_ua>Планшет Sony Xperia Tablet Z 16GB Black (SGP311RU/B.RU3)</description_ua>
+        <param name="Призначення">Для планшета</param>
+        <param name="Тип підключення">Бездротове</param>
+        <param name="Інтерфейси і підключення">Bluetooth, microUSB</param>
+        <param name="Розкладка клавіатури">AZERTY</param>
+        <param name="Формат клавіатури">Ультракомпактна</param>
+        <param name="Особливості">Товары для девочки 👧</param>
+        <param name="Тип джерела живлення">Акумулятор</param>
+        <param name="Функції та можливості">Підсвічування клавіш, Вбудований акумулятор, З тачпадом</param>
+        <param name="Колір товару" paramid="21737" valueid="6769">Чорний</param>
+        <param name="Бренд">Sony</param>
+        <param name="Гарантія">12 місяців</param>
+        <price_old>1999</price_old>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
